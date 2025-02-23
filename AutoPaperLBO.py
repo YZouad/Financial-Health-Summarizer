@@ -5,6 +5,7 @@ from lxml import etree
 from functools import lru_cache
 import io
 from transformers import pipeline
+from Credentials import Credentials
 
 def try_convert_to_float(value_str):
     try:
@@ -330,10 +331,10 @@ def generate_ai_statement(metrics, composite_score):
     return statement
 
 def main():
-    ticker = "NVDA"  # or use AAPL if desired
+    ticker = "AAPL"
     filing_type = "10-K"
 
-    dl = Downloader("University of Chicago", "yzouad@uchicago.edu")
+    dl = Downloader(Credentials.get_user, Credentials.get_company)
     print(f"Downloading the latest {filing_type} for {ticker}...")
     # dl.get(filing_type, ticker, limit=1)
 
