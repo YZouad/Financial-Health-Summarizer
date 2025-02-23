@@ -1,0 +1,491 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ R2DGZUAHbDDXlZn1CuAdydQK7/kCF7sC1kh4QuxutaChbgqATkBsp8bg/dwNDs55
+ R7j8aR/uAbQ7sxtqYK2tGw==
+
+<SEC-DOCUMENT>0001012870-99-000186.txt : 19990125
+<SEC-HEADER>0001012870-99-000186.hdr.sgml : 19990125
+ACCESSION NUMBER:		0001012870-99-000186
+CONFORMED SUBMISSION TYPE:	S-1MEF
+PUBLIC DOCUMENT COUNT:		5
+<REFERENCE-462B>333-47495
+FILED AS OF DATE:		19990122
+EFFECTIVENESS DATE:		19990122
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NVIDIA CORP/CA
+		CENTRAL INDEX KEY:			0001045810
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				943177549
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		S-1MEF
+		SEC ACT:		
+		SEC FILE NUMBER:	333-70973
+		FILM NUMBER:		99509615
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1226 TIROS WAY
+		STREET 2:		415-617-4000
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94086
+		BUSINESS PHONE:		4086174000
+
+	MAIL ADDRESS:	
+		STREET 1:		1226 TIROS WAY
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94086
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-1MEF
+<SEQUENCE>1
+<DESCRIPTION>REGISTRATION PURSANT TO RULE 462(B)
+<TEXT>
+
+<PAGE>
+ 
+   As filed with the Securities and Exchange Commission on January 22, 1999
+                                                       Registration No. 333-
+- -------------------------------------------------------------------------------
+- -------------------------------------------------------------------------------
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C. 20549
+                                ---------------
+                                   FORM S-1
+                            REGISTRATION STATEMENT
+                                     Under
+                          The Securities Act of 1933
+                                ---------------
+                              NVIDIA CORPORATION
+            (Exact name of registrant as specified in its charter)
+ 
+                                ---------------
+         Delaware                    3674                    94-3177549
+     (State or other          (Primary Standard           (I.R.S. Employer
+     jurisdiction of      Industrial Classification    Identification Number)
+     incorporation or            Code Number)
+      organization)
+ 
+                              3535 Monroe Street
+                             Santa Clara, CA 95051
+                                (408) 615-2500
+  (Address, including zip code, and telephone number, including area code, of
+                   registrant's principal executive offices)
+ 
+                                ---------------
+                                Jen-Hsun Huang
+                            Chief Executive Officer
+                              NVIDIA Corporation
+                              3535 Monroe Street
+                             Santa Clara, CA 95051
+                                (408) 615-2500
+(Name, address, including zip code, and telephone number, including area code,
+                             of agent for service)
+                                  Copies to:
+           James C. Gaither                       Larry W. Sonsini
+            Eric C. Jensen                      James N. Strawbridge
+            Karyn R. Smith                         Jon C. Gonzales
+          Cooley Godward LLP              Wilson Sonsini Goodrich & Rosati
+          One Maritime Plaza                  Professional Corporation
+              20th Floor                         650 Page Mill Road
+        San Francisco, CA 94111                  Palo Alto, CA 94304
+            (415) 693-2000                         (650) 493-9300
+                                ---------------
+  Approximate date of commencement of proposed sale to the public: As soon as
+practicable after the Registration Statement becomes effective.
+  If any of the securities being registered on this Form are to be offered on
+a delayed or continuous basis pursuant to Rule 415 under the Securities Act,
+check the following box. [_]
+  If this Form is filed to register additional securities for an offering
+pursuant to Rule 462(b) under the Securities Act, check the following box and
+list the Securities Act registration statement number of the earlier effective
+registration statement for the same offering. [X] Registration File No. 333-
+47495
+  If this Form is a post-effective amendment filed pursuant to Rule 462(c)
+under the Securities Act, check the following box and list the Securities Act
+registration statement number of the earlier effective registration statement
+number for the same offering. [_]
+  If this Form is a post-effective amendment filed pursuant to Rule 462(d)
+under the Securities Act, check the following box and list the Securities Act
+registration number of the earlier effective registration statement for the
+same offering. [_]
+  If delivery of the prospectus is expected to be made pursuant to Rule 434,
+check the following box. [_]
+                        CALCULATION OF REGISTRATION FEE
+- -------------------------------------------------------------------------------
+- -------------------------------------------------------------------------------
+<TABLE>
+<CAPTION>
+                                                        Proposed
+                                           Proposed      Maximum
+ Title of each Class of      Amount        Maximum      Aggregate   Amount of
+    Securities to be          to be     Offering Price  Offering   Registration
+       Registered         Registered(1)  Per Share(2)   Price(2)      Fee(3)
+- -------------------------------------------------------------------------------
+<S>                       <C>           <C>            <C>         <C>
+Common Stock, $.001 par
+ value..................    4,025,000       $12.00     $48,300,000    $1,120
+</TABLE>
+- -------------------------------------------------------------------------------
+- -------------------------------------------------------------------------------
+(1) Includes 525,000 shares of Common Stock which the Underwriters have the
+    option to purchase to cover over-allotments, if any.
+(2) Estimated solely for the purpose of calculating the amount of the
+    registration fee in accordance with Rule 457(a) under the Securities Act
+    of 1933.
+(3) Does not include $12,310 which was previously paid in connection with
+    Securities Act Registration Statement No. 333-47495.
+                                ---------------
+  The Registrant hereby amends this Registration Statement on such date or
+dates as may be necessary to delay its effective date until the Registrant
+shall file a further amendment that specifically states that this Registration
+Statement shall thereafter become effective in accordance with Section 8(a) of
+the Securities Act of 1933, as amended, or until the Registration Statement
+shall become effective on such date as the Commission, acting pursuant to said
+Section 8(a), may determine.
+- -------------------------------------------------------------------------------
+- -------------------------------------------------------------------------------
+<PAGE>
+ 
+                               EXPLANATORY NOTE
+ 
+  In accordance with General Instruction V to Form S-1 and Rule 462(b)
+promulgated under the Securities Act of 1933, as amended, incorporated by
+reference herein in its entirety is the Registration Statement on Form S-1
+(File No. 333-47495) of NVIDIA Corporation which was declared effective by the
+Securities and Exchange Commission on January 21, 1999.
+ 
+                                 CERTIFICATION
+ 
+  The Company hereby certifies to the Commission that (i) it has instructed
+its bank to pay the Commission the filing fee set forth on the cover page of
+this Registration Statement by a wire transfer of such amount to the
+Commission's account at Mellon Bank as soon as practicable (but no later than
+the close of business on January 22, 1999), (ii) it will not revoke such
+instructions, (iii) it has sufficient funds in the relevant account to cover
+the amount of such filing fee, and (iv) it will confirm receipt of such
+instructions by its bank during the bank's regular business hours on January
+22, 1999.
+ 
+                                       1
+<PAGE>
+ 
+Exhibits.
+ 
+  The following exhibits are filed herewith:
+ 
+<TABLE>
+<CAPTION>
+ Exhibit
+ Number  Document Description
+ ------- --------------------
+ <C>     <S>
+   5.1   Opinion of Cooley Godward LLP.
+  23.1   Consent of KPMG LLP, Independent Auditors.
+  23.2   Consent of Counsel (included in Exhibit 5.1).
+  23.3   Consent of Law Offices of Michael A. Glenn.
+  24.1   Power of Attorney.
+</TABLE>
+ 
+                                      II-1
+<PAGE>
+ 
+                                  SIGNATURES
+ 
+  Pursuant to the requirements of the Securities Act of 1933, the Registrant
+has caused this Registration Statement to be signed on its behalf by the
+undersigned, thereunto duly authorized, in the City of Santa Clara, State of
+California, on the 21st day of January 1999.
+ 
+                                          NVIDIA Corporation
+ 
+                                                    /s/ Jen-Hsun Huang
+                                          By: _________________________________
+                                                      Jen-Hsun Huang
+                                            President, Chief Executive Officer
+                                                       and Director
+ 
+  Pursuant to the requirements of the Securities Act of 1933, this
+Registration Statement has been signed below by the following persons in the
+capacities and on the dates indicated.
+ 
+<TABLE>
+<CAPTION>
+             Signature                           Title                    Date
+             ---------                           -----                    ----
+ 
+ 
+<S>                                  <C>                           <C>
+        /s/ Jen-Hsun Huang           President, Chief Executive     January 21, 1999
+____________________________________  Officer and Director
+          Jen-Hsun Huang              (Principal Executive
+                                      Officer)
+ 
+     /s/ Christine B. Hoberg         Chief Financial Officer        January 21, 1999
+____________________________________  (Principal Accounting and
+        Christine B. Hoberg           Financial Officer)
+ 
+            Tench Coxe*              Director                       January 21, 1999
+____________________________________
+             Tench Coxe
+ 
+       /s/ James C. Gaither          Director                       January 21, 1999
+____________________________________
+          James C. Gaither
+ 
+       Harvey C. Jones, Jr.*         Director                       January 21, 1999
+____________________________________
+        Harvey C. Jones, Jr.
+ 
+        William J. Miller*           Director                       January 21, 1999
+____________________________________
+         William J. Miller
+ 
+        A. Brooke Seawell*           Director                       January 21, 1999
+____________________________________
+         A. Brooke Seawell
+ 
+         Mark A. Stevens*            Director                       January 21, 1999
+____________________________________
+          Mark A. Stevens
+ 
+        /s/ Jen-Hsun Huang
+*By: _______________________________
+           Jen-Hsun Huang
+        As Attorney-In-Fact
+</TABLE>
+ 
+                                     II-2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5.1
+<SEQUENCE>2
+<DESCRIPTION>OPINION OF COOLEY GODWARD LLP
+<TEXT>
+
+<PAGE>
+                                                                   EXHIBIT 5.1
+
+                     [LETTERHEAD OF COOLEY GODWARD LLP]
+
+
+
+January 21, 1999
+
+NVIDIA Corporation
+3535 Monroe Street
+Santa Clara, CA 95051
+
+Ladies and Gentlemen:
+
+You have requested our opinion with respect to certain matters in connection
+with the filing by NVIDIA Corporation (the "Company") of a Registration
+Statement on Form S-1 (the "462(b) Registration Statement"), with the Securities
+and Exchange Commission (the "Commission"), to be filed with the Commission on
+January 22, 1999 pursuant to Rule 462(b) promulgated under the Securities Act of
+1933, as amended, and the related Registration Statement on Form S-1 (File No.
+333-47495) (collectively with the 462(b) Registration Statement the
+"Registration Statements") in connection with the underwritten public offering
+of up to 4,025,000 shares of common stock, including 525,000 shares of common
+stock for which the Underwriters have been granted an over-allotment option (the
+"Common Stock").
+
+In connection with this opinion, we have (i) examined and relied upon the
+Registration Statements and related Prospectus, the Company's Certificate of
+Incorporation and By-laws and the originals or copies certified to our
+satisfaction of such records, documents, certificates, memoranda and other
+instruments as in our judgment are necessary or appropriate to enable us to
+render the opinion expressed below, and (ii) assumed that the shares of the
+Common Stock will be sold by the Underwriters at a price established by the
+Pricing Committee of the Company's Board of Directors.
+
+On the basis of the foregoing, and in reliance thereon, we are of the opinion
+that the Common Stock, when sold and issued in accordance with the Registration 
+Statements, will be validly issued, fully paid and nonassessable.
+
+We consent to the reference to our firm under the caption "Legal Matters" in
+the Prospectus included in the Registration Statements and to the filing of
+this opinion as an exhibit to the Registration Statements.
+
+Very truly yours,
+
+Cooley Godward LLP
+
+
+
+/s/ Eric C. Jensen
+_____________________
+By: Eric C. Jensen
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>3
+<DESCRIPTION>CONSENT OF INDEPENDENT AUDITORS
+<TEXT>
+
+<PAGE>
+ 
+                                                                   Exhibit 23.1
+ 
+                        CONSENT OF INDEPENDENT AUDITORS
+ 
+The Board of Directors and Stockholders
+NVIDIA Corporation:
+ 
+  The audits referred to in our report dated November 16, 1998, included the
+related financial statement schedule as of October 25, 1998, and for each of
+the years in the three-year period ended December 31, 1997, the one-month
+period ended January 31, 1998, and the nine-month period ended October 25,
+1998, included in the registration statement. This financial statement
+schedule is the responsibility of the Company's management. Our responsibility
+is to express an opinion on this financial statement schedule based on our
+audits. In our opinion, such financial statement schedule, when considered in
+relation to the financial statements taken as a whole, present fairly in all
+material respects the information set forth therein.
+ 
+  We consent to the use of our reports included herein and to the reference to
+our firm under the heading "Selected Financial Data" and "Experts" in the
+prospectus.
+ 
+                                          KPMG LLP
+ 
+Mountain View, California
+January 21, 1999
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.3
+<SEQUENCE>4
+<DESCRIPTION>CONSENT OF LAW OFFICES OF MICHAEL A. GLENN
+<TEXT>
+
+<PAGE>
+ 
+                                                                  EXHIBIT 23.3
+
+
+                          CONSENT OF PATENT COUNSEL
+
+I hereby consent to the reference to my firm under the captions "Risk Factors--
+Legal Proceedings" and "Legal Proceedings" in the Registration Statement on
+Form S-1 of NVIDIA Corporation for the registration of 4,025,000 shares of its
+Common Stock.
+
+                                LAW OFFICES OF MICHAEL A. GLENN
+
+
+                                By: /s/ Michael A. Glenn
+                                    ---------------------------
+                                        Michael A. Glenn
+
+Menlo Park, California
+January 21, 1999
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>5
+<DESCRIPTION>POWER OF ATTORNEY
+<TEXT>
+
+<PAGE>
+ 
+                                                                    EXHIBIT 24.1
+
+                                  SIGNATURES
+                                        
+     PURSUANT TO THE REQUIREMENTS OF THE SECURITIES ACT OF 1933, THE REGISTRANT
+HAS CAUSED THIS REGISTRATION STATEMENT TO BE SIGNED ON ITS BEHALF BY THE
+UNDERSIGNED, THEREUNTO DULY AUTHORIZED, IN THE CITY OF SUNNYVALE, STATE OF
+CALIFORNIA, ON THE 6TH DAY OF MARCH 1998.
+
+                                       NVIDIA Corporation
+
+                                           
+                                       By:         /s/ Jen-Hsun Huang
+                                           ----------------------------------
+                                                     Jen-Hsun Huang
+                                           President, Chief Executive Officer
+                                                      and Director
+
+
+                               POWER OF ATTORNEY
+
+     EACH PERSON WHOSE SIGNATURE APPEARS BELOW CONSTITUTES AND APPOINTS JEN-HSUN
+HUANG AND GEOFFREY G. RIBAR AS HIS TRUE AND LAWFUL ATTORNEY-IN-FACT AND AGENT,
+EACH ACTING ALONE, WITH FULL POWER OF SUBSTITUTION AND RESUBSTITUTION, FOR HIM
+AND IN HIS NAME, PLACE AND STEAD, IN ANY AND ALL CAPACITIES, TO SIGN ANY OR ALL
+AMENDMENTS (INCLUDING POST-EFFECTIVE AMENDMENTS) TO THIS REGISTRATION STATEMENT
+ON FORM S-1, AND TO SIGN ANY REGISTRATION STATEMENT FILED UNDER RULE 462 UNDER
+THE SECURITIES ACT OF 1933 INCLUDING POST-EFFECTIVE AMENDMENTS) THERETO, AND TO
+FILE THE SAME, WITH ALL EXHIBITS THERETO, AND ALL DOCUMENTS IN CONNECTION
+THEREWITH, WITH THE SECURITIES AND EXCHANGE COMMISSION, GRANTING UNTO SAID
+ATTORNEY-IN-FACT AND AGENT, FULL POWER AND AUTHORITY TO DO AND PERFORM EACH AND
+EVERY ACT AND THING REQUISITE AND NECESSARY TO BE DONE IN AND ABOUT THE
+PREMISES, AS FULLY TO ALL INTENTS AND PURPOSES AS HE MIGHT OR COULD DO IN
+PERSON, HEREBY RATIFYING AND CONFIRMING ALL THAT SAID ATTORNEY-IN-FACT AND
+AGENT, OR HIS SUBSTITUTE OR SUBSTITUTES, MAY LAWFULLY DO OR CAUSE TO BE DONE BY
+VIRTUE HEREOF.
+
+     PURSUANT TO THE REQUIREMENTS OF THE SECURITIES ACT OF 1933, THIS
+REGISTRATION STATEMENT HAS BEEN SIGNED BELOW BY THE FOLLOWING PERSONS IN THE
+CAPACITIES AND ON THE DATES INDICATED.
+
+
+<TABLE> 
+<CAPTION> 
+
+              SIGNATURE                               TITLE                       DATE
+              ---------                               -----                       ----
+<S>                                         <C>                               <C>  
+         /s/ Jen-Hsun Huang                 President, Chief Executive        March 6, 1998
+- ------------------------------------         Officer and Director
+           Jen-Hsun Huang                    (Principal Executive
+                                             Officer)
+ 
+       /s/ Geoffrey G. Ribar                Chief Financial Officer           March 6, 1998
+- ------------------------------------         (Principal Financial and
+          Geoffrey G. Ribar                  Accounting Officer)
+         
+ 
+          /s/ Tench Coxe                    Director                          March 6, 1998
+- ------------------------------------
+             Tench Coxe
+ 
+     /s/ Harvey C. Jones, Jr.               Director                          March 6, 1998
+- ------------------------------------   
+        Harvey C. Jones, Jr.
+ 
+       /s/ William J. Miller                Director                          March 6, 1998
+- ------------------------------------      
+         William J. Miller
+ 
+       /s/ A. Brooke Seawell                Director                          March 6, 1998
+- ------------------------------------      
+         A. Brooke Seawell
+ 
+        /s/ Mark A. Stevens                 Director                          March 6, 1998
+- ------------------------------------ 
+           Mark A. Stevens
+</TABLE> 
+
+
+                                     II-4
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

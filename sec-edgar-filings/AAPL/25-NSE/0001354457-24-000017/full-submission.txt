@@ -1,0 +1,138 @@
+<SEC-DOCUMENT>0001354457-24-000017.txt : 20240117
+<SEC-HEADER>0001354457-24-000017.hdr.sgml : 20240117
+<ACCEPTANCE-DATETIME>20240117162349
+ACCESSION NUMBER:		0001354457-24-000017
+CONFORMED SUBMISSION TYPE:	25-NSE
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20240117
+DATE AS OF CHANGE:		20240117
+EFFECTIVENESS DATE:		20240117
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Apple Inc.
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0928
+
+	FILING VALUES:
+		FORM TYPE:		25-NSE
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		24538720
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE APPLE PARK WAY
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		(408) 996-1010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE APPLE PARK WAY
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLE INC
+		DATE OF NAME CHANGE:	20070109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLE COMPUTER INC
+		DATE OF NAME CHANGE:	19970808
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nasdaq Stock Market LLC
+		CENTRAL INDEX KEY:			0001354457
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				521165937
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		25-NSE
+
+	BUSINESS ADDRESS:	
+		STREET 1:		One Liberty Plaza
+		CITY:			New York
+		STATE:			NY
+		ZIP:			10006
+		BUSINESS PHONE:		301-978-4144
+
+	MAIL ADDRESS:	
+		STREET 1:		Office of General Counsel
+		STREET 2:		805 King Farm Blvd.
+		CITY:			ROCKVILLE
+		STATE:			MD
+		ZIP:			20850
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	The Nasdaq Stock Market LLC
+		DATE OF NAME CHANGE:	20060224
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>25-NSE
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<notificationOfRemoval>
+
+    <schemaVersion>X0203</schemaVersion>
+
+    <exchange>
+        <cik>0001354457</cik>
+        <entityName>Nasdaq Stock Market LLC</entityName>
+    </exchange>
+
+    <issuer>
+        <cik>0000320193</cik>
+        <entityName>Apple Inc.</entityName>
+        <fileNumber>000-10030</fileNumber>
+        <address>
+            <street1>1 Apple Park Way</street1>
+            <street2></street2>
+            <city>Cupertino</city>
+            <stateOrCountryCode>CA</stateOrCountryCode>
+            <stateOrCountry>CALIFORNIA</stateOrCountry>
+            <zipCode>95014</zipCode>
+        </address>
+        <telephoneNumber>1 408 996-1010</telephoneNumber>
+    </issuer>
+
+    <descriptionClassSecurity>Senior Notes Due 2024</descriptionClassSecurity>
+
+    <ruleProvision>17 CFR 240.12d2-2(a)(2)</ruleProvision>
+
+    <signatureData>
+        <signatureName>Tara Petta</signatureName>
+        <signatureTitle>Director</signatureTitle>
+        <signatureDate>2024-01-17</signatureDate>
+    </signatureData>
+</notificationOfRemoval>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.25
+<SEQUENCE>2
+<FILENAME>aapl24-form25.txt
+<TEXT>
+Aapl24-form25
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

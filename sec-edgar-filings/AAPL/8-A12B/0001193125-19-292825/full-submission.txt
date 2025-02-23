@@ -1,0 +1,294 @@
+<SEC-DOCUMENT>0001193125-19-292825.txt : 20191115
+<SEC-HEADER>0001193125-19-292825.hdr.sgml : 20191115
+<ACCEPTANCE-DATETIME>20191115065604
+ACCESSION NUMBER:		0001193125-19-292825
+CONFORMED SUBMISSION TYPE:	8-A12B
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20191115
+DATE AS OF CHANGE:		20191115
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Apple Inc.
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0928
+
+	FILING VALUES:
+		FORM TYPE:		8-A12B
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36743
+		FILM NUMBER:		191222426
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE APPLE PARK WAY
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		(408) 996-1010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE APPLE PARK WAY
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLE INC
+		DATE OF NAME CHANGE:	20070109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLE COMPUTER INC
+		DATE OF NAME CHANGE:	19970808
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-A12B
+<SEQUENCE>1
+<FILENAME>d827578d8a12b.htm
+<DESCRIPTION>8-A12B
+<TEXT>
+<HTML><HEAD>
+<TITLE>8-A12B</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:ARIAL" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">8-A</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>FOR REGISTRATION OF
+CERTAIN CLASSES OF SECURITIES </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>PURSUANT TO SECTION 12(b) OR (g)&nbsp;OF </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL" ALIGN="center"><B>THE SECURITIES EXCHANGE ACT OF 1934 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:0pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="center">
+
+
+<IMG SRC="g827578g1113101054118.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:24pt; font-family:ARIAL" ALIGN="center"><B>Apple Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>(Exact name of Registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>California</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">94-2404110</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(State of incorporation or organization)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(I.R.S. Employer Identification No.)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>One Apple Park Way </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Cupertino, California 95014 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>(Address of
+principal executive offices) (Zip Code) </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Securities to be registered pursuant to Section&nbsp;12(b) of the Act: </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Title of Each Class</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:ARIAL; " ALIGN="center"><B>to be so Registered</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Name of Each Exchange on Which</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:ARIAL; " ALIGN="center"><B>&nbsp;&nbsp;&nbsp;Each Class&nbsp;is to be
+Registered&nbsp;&nbsp;&nbsp;&nbsp;</B></P></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>0.000% Notes due 2025</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>The Nasdaq Stock Market LLC</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>0.500% Notes due 2031</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>The Nasdaq Stock Market LLC</B></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">If this form relates to the registration of a class of securities pursuant to Section&nbsp;12(b) of the Exchange Act and is effective pursuant to
+General Instruction A.(c) or (e), please check the following box.&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9746;</FONT></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">If this form
+relates to the registration of a class of securities pursuant to Section&nbsp;12(g) of the Exchange Act and is effective pursuant to General Instruction A.(d) or (e), please check the following
+box.&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9744;</FONT> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">If this form relates to the registration of a class of securities
+concurrently with a Regulation A offering, check the following box.&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9744;</FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Securities Act registration statement or Regulation A offering statement file number to which this form relates: </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B><FONT STYLE="white-space:nowrap">333-228159</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>(If applicable) </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>Securities to be registered
+pursuant to Section&nbsp;12(g) of the Act: </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>None </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>(Title of Class) </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>INFORMATION REQUIRED IN REGISTRATION STATEMENT </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Apple Inc. (the &#147;<B>Company</B>&#148;) has filed with the U.S. Securities and Exchange Commission (the &#147;<B>Commission</B>&#148;) pursuant to
+Rule 424(b) under the Securities Act of 1933, as amended, a prospectus supplement dated November&nbsp;7, 2019 (the &#147;<B>Prospectus Supplement</B>&#148;) to a prospectus dated November&nbsp;5, 2018 contained in the Company&#146;s effective
+Registration Statement on Form <FONT STYLE="white-space:nowrap">S-3</FONT> (Registration <FONT STYLE="white-space:nowrap">No.&nbsp;333-228159)</FONT> (the &#147;<B>Registration Statement</B>&#148;), which Registration Statement was filed with the
+Commission on November&nbsp;5, 2018 (the &#147;<B>Prospectus</B>&#148;), relating to the securities to be registered hereunder. The Company incorporates by reference the Prospectus and the Prospectus Supplement to the extent set forth below. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:ARIAL; " ALIGN="left"><B>Description of Registrant&#146;s Securities to be Registered </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">The information required by this item is incorporated by reference to the information contained in the sections captioned &#147;Description of the
+Notes&#148; and &#147;Certain U.S. Federal Income Tax Considerations&#148; in the Prospectus Supplement and &#147;Description of the Debt Securities&#148; in the Prospectus. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><B>Item&nbsp;2.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:ARIAL; " ALIGN="left"><B>Exhibits </B></P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:ARIAL" ALIGN="center"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:ARIAL; " ALIGN="center"><B>&nbsp;&nbsp;&nbsp;No.&nbsp;&nbsp;&nbsp;</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:ARIAL; " ALIGN="center"><B>Exhibit Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10pt"><A HREF="http://www.sec.gov/Archives/edgar/data/320193/000119312518317844/d644900dex41.htm">Indenture dated as of November&nbsp;
+5, 2018 between the Company and The Bank of New York Mellon Trust Company, N.A., as Trustee (incorporated herein by reference to Exhibit 4.1 to the Company&#146;s Registration Statement on Form <FONT STYLE="white-space:nowrap">S-3</FONT> (File <FONT
+STYLE="white-space:nowrap">No.&nbsp;333-228159)</FONT> filed with the Commission on November&nbsp;5, 2018). </A></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10pt">Forms of 0.000% Note due 2025 and 0.500% Note due 2031, together with Officer&#146;s Certificate issued November&nbsp;15, 2019
+setting forth the terms of the Notes (incorporated herein by reference to <A HREF="http://www.sec.gov/Archives/edgar/data/320193/000119312519292676/d828969dex41.htm">Exhibit 4.1</A> to the Company&#146;s Current Report on Form <FONT
+STYLE="white-space:nowrap">8-K</FONT> (File <FONT STYLE="white-space:nowrap">No.&nbsp;001-36743)</FONT> filed with the Commission on November&nbsp;15, 2019).</P></TD></TR>
+</TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">Pursuant to the requirements of Section&nbsp;12 of the Securities Exchange Act of 1934, the Registrant has duly caused this registration statement to be
+signed on its behalf by the undersigned, thereto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="47%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10pt">Date: November&nbsp;15, 2019</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10pt">Apple Inc.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">By:</P> <P STYLE="font-size:0pt; margin-top:0pt; margin-bottom:1pt" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:ARIAL" ALIGN="justify">/s/ Luca Maestri</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:ARIAL; font-size:10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name: Luca Maestri</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title: Senior Vice President,</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:ARIAL" ALIGN="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chief Financial Officer</P></TD></TR>
+</TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g827578g1113101054118.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g827578g1113101054118.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  \ #$# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#W^BBLC4O$
+MVCZ2VR]U"&)O[I;G\J -;ZUY%\0_BA<:==R:5HCJDJ<2W'7'L/>O0#XCT[4M
+M,N'TR]BN)1&=J*W.<>E>':5X'O\ 4M7DOM<9;&Q\PO)).P!;GI0!Z_\ #BXU
+M*\\)Q7>IW,L\TK%@TIRV*["N6TSQ7X6@CATZTU*W41*$49P*Z9'610R,&4C@
+MB@!U%-VG^]10!P_Q)\9GPOI*PVI!OKG(3_97H37SM<W5Q>3O/<2O)(QR68YK
+MN_C%=R3^.Y;=C\MO"BK^*AOYFO/Z!DMO=3VKA[>9XV'0J<&I[O5K^^&VYNYI
+M5'9F-4Z* #)!W X/M7NGP>EU^6QE-X2VEX_<L_WL^WM7B=C!]IOX(.OF2!?P
+MS7UGI5C%IVEV]I"H5(HPN!ZXH$6^?:BEXHH ^=/C#;O%X_GE8?+-#&R_@N/Z
+M5P=>U?&W1&FM;+6(UR8OW4N!VZC^M>*T#"BBB@":VG-O=0S#K&X;\C7U;X>U
+M:#6M$M;V!PP>,;L'HV.:^3*]$^$NJ:POB:'3;20FSD):=&Y4*.21Z&@#Z!X]
+M#12;6_OG\J*!%/6=*AUK2+C3[A08YD*YQT/K7RUK^B77A_6)["[0J8W(5L<,
+M.Q%?6E87B'PII'B>,)J=MO9/NR(=KC\: /E6CZ]*^F]&^'/AG1)2\%AYTG]Z
+MX;S"/SXK3U+PIH>K6I@NM-M]I[I&%(_$4 ?*2HSR*B*69CA5 Y-?0_PO\(GP
+M[HIO;I-M[=@,V1RB=A5S1OAIX9T>^^V6]I))*IROG2;PI]A79@Y - "?-Z"B
+%EHH _]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

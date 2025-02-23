@@ -1,0 +1,126 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UE6Rl0UsWmLyQiNtrxH386VXsuBGWHQOnbp2m3880GLsM48lj8OErQiirjTawfby
+ U5ApsP+vLZQ/fUS5DyNF2g==
+
+<SEC-DOCUMENT>/in/edgar/work/0001012870-00-005325/0001012870-00-005325.txt : 20001023
+<SEC-HEADER>0001012870-00-005325.hdr.sgml : 20001023
+ACCESSION NUMBER:		0001012870-00-005325
+CONFORMED SUBMISSION TYPE:	RW
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20001020
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NVIDIA CORP/CA
+		CENTRAL INDEX KEY:			0001045810
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3674
+]		IRS NUMBER:				943177549
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		RW
+			SEC ACT:		
+			SEC FILE NUMBER:	333-33546
+			FILM NUMBER:		742998
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		3535 MONROE STREET
+				CITY:			SANTA CLARA
+				STATE:			CA
+				ZIP:			95051
+				BUSINESS PHONE:		4086152500
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		3535 MONROE STREET
+					CITY:			SANTA CLARA
+					STATE:			CA
+					ZIP:			95051
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>RW
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>REGISTRATION WITHDRAWAL - REG. NO. 333-33546
+<TEXT>
+
+<PAGE>
+
+                              NVIDIA CORPORATION
+                              3535 Monroe Street
+                             Santa Clara, CA 95051
+                                (408) 615-2500
+
+October 19, 2000
+
+VIA EDGAR
+
+Securities and Exchange Commission
+Division of Corporate Securities
+450 Fifth Street, N.W.
+Washington, D.C. 20549
+
+Re:     Nvidia Corporation
+
+CIK:    0001045810
+
+Commission File No.     333-33546
+
+Ladies and Gentlemen:
+
+Pursuant to Rule 477(a) promulgated under the Securities Act of 1933, as
+amended, Nvidia Corporation (the "Registrant") hereby applies for an order
+granting the immediate withdrawal of its Registration Statement on Form S-3,
+together with all exhibits thereto, Commission File No. 333-33546 (collectively,
+the "Registration Statement").  The Registration Statement originally was filed
+with the Securities and Exchange Commission (the "Commission") on March 29,
+2000.
+
+Pursuant to the Registration Statement, the Registrant proposed to register
+certain shares of its Common Stock, $.001, par value per share (the "Shares"),
+for resale by the selling shareholders named therein.  The proposed maximum
+offering price was $22,781,250.  Due to various market and other conditions, the
+selling shareholders do not wish to have the Shares registered at this time.
+Based upon the foregoing, the Registrant is hereby requesting the withdrawal of
+the Registration Statement. No securities have been sold under the Registration
+Statement.
+
+Accordingly, we request that an order granting the withdrawal of the
+Registration Statement be issued by the Commission as soon as possible.
+
+<PAGE>
+
+Securities and Exchange Commission
+October 19, 2000
+Page Two
+
+
+ If you have any questions regarding the foregoing application for withdrawal,
+please contact  Karyn S. Tucker or Alyssa R. Harvey of Cooley Godward LLP, legal
+counsel to the Registrant, at (415) 693-2000.
+
+Sincerely,
+
+NVIDIA CORPORATION
+
+
+/s/ Jen-Hsun Huang
+Jen-Hsun Huang
+President and Chief Executive Officer
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

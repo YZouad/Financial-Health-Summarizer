@@ -1,0 +1,1195 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EweWgM+ix6K8OrObpUx+muX0yNCWBI6ZUcEB+pCM0T46GFe3iX3BDr5Upla7QSsi
+ fIPis7A/CRKupMHtZHLR8Q==
+
+<SEC-DOCUMENT>0001012870-00-006238.txt : 20001221
+<SEC-HEADER>0001012870-00-006238.hdr.sgml : 20001221
+ACCESSION NUMBER:		0001012870-00-006238
+CONFORMED SUBMISSION TYPE:	425
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20001220
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			3DFX INTERACTIVE INC
+		CENTRAL INDEX KEY:			0001010026
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				770390421
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0201
+
+	FILING VALUES:
+		FORM TYPE:		425
+		SEC ACT:		
+		SEC FILE NUMBER:	000-22651
+		FILM NUMBER:		792578
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4435 FORTRAN DR
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+		BUSINESS PHONE:		4089354400
+
+	MAIL ADDRESS:	
+		STREET 1:		4435 FORTRAN DR
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NVIDIA CORP/CA
+		CENTRAL INDEX KEY:			0001045810
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				943177549
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		425
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3535 MONROE STREET
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95051
+		BUSINESS PHONE:		4086152500
+
+	MAIL ADDRESS:	
+		STREET 1:		3535 MONROE STREET
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95051
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>425
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>INVESTOR CONFERENCE CALL - FILED PURSUANT TO RULE 425
+<TEXT>
+
+<PAGE>
+
+                                                     Filed by NVIDIA Corporation
+                           Pursuant to Rule 425 under the Securities Act of 1933
+                                 and deemed filed pursuant to Rule 14a-12 of the
+                                                 Securities Exchange Act of 1934
+
+                                         Subject Company: 3dfx Interactive, Inc.
+                                                   Commission File No. 000-22651
+
+
+
+                                    NVIDIA
+                           Investor Conference Call
+                               December 18, 2000
+                                10:00 a.m. EST
+
+
+[Participants:
+OP = Operator
+JH = Jen-Hsun Huang, President and CEO of NVIDIA
+CH = Christine Hoberg, CFO of NVIDIA
+Others as identified within the transcript]
+
+
+
+OP:  Ladies and gentlemen, thank you for standing by.  Welcome to the NVIDIA
+Investor Conference Call.  At this time, all participants are in a listen-only
+mode.  Later we will conduct a question and answer session.  At that time, if
+you have a question, you will need to press the "1" followed by the "4" on your
+telephone.  As a reminder, this conference is being recorded Monday, December
+18, 2000.  I would now like to turn the conference over to Mr. Jen-Hsun Huang,
+President and Chief Executive Officer.  Please go ahead, sir.
+
+JH:  Thank you.  Welcome to our conference call to discuss last week's exciting
+transaction with 3DFX.  Before I start, Chris will read our Safe Harbor
+disclosure.  Thank you.
+
+CH:  During the course of this conference call, we may make forward-looking
+statements that involve risks and uncertainties that could cause actual results
+or outcomes to differ materially from those contemplated by the forward-looking
+statements.  Factors that could cause or contribute to such differences include
+- - but are not limited to - risks relating to the completion of the contemplated
+transaction, including the risk that required regulatory clearances or
+shareholder approval might not be obtained in a timely manner, or at all.
+<PAGE>
+
+NVIDIA -- December 18, 2000                                               Page 2
+
+
+     In addition, statements in this conference call relating to the expected
+benefits of the contemplated transaction are subject to risks relating to the
+timing and successful completion of technology and product development efforts,
+integration of the technologies and assets of NVIDIA Corporation and 3DFX
+Interactive, umanticipated expenditures, changing relationships with customers,
+suppliers and strategic partners, and other factors described in the most recent
+Form 10-Q, most recent Form 10-K, and other periodic reports filed by NVIDIA and
+3DFX with the Securities and Exchange Commission.
+
+JH:  Thanks, Chris.  On Friday, December 15th, we announced that NVIDIA and 3DFX
+have signed an agreement for NVIDIA to purchase certain graphics-related assets
+of 3DFX, a pioneer and recognized leader in graphics technology.
+
+     These assets include but are not limited to all the patents, pending patent
+applications, trademarks, brand names and chip inventory related to the graphics
+business at 3DFX.  For these assets, NVIDIA will pay 3DFX a total consideration
+of $70 million in cash and one million shares of common stock.  In addition,
+3DFX and NVIDIA have agreed to stay the patent infringement litigation between
+them through the closing of the transaction, at which time it will be jointly
+dismissed with prejudice.
+
+     This acquisition will be accounted for as a purchase and, if approved by
+3DFX shareholders and meets the satisfaction of regulatory requirements and
+other customary closing conditions, is expected to close approximately 120 days
+from the signing of the definitive agreement. We expect to close the transaction
+the first quarter of NVIDIA's fiscal year 2002.
+
+     There are several important benefits we receive from this transaction.  The
+first is access to several teams of world-class talent.  3DFX has a significant
+amount of expertise in graphics technology and was further strengthened by the
+recent $186 million acquisition of Gigapixel.  In addition to buying the
+graphics-related assets of 3DFX, we are excited about the opportunity to add a
+significant number of world-class engineers to the NVIDIA team.
+
+     We're in the process of meeting with key technical talent at 3DFX and will
+have extended over 100 offers by the end of today.  We are confident that a
+large number of those offers will be accepted and we look forward to combining
+the world-class engineering talents of our two companies.
+
+     The increase in our engineering talent will allow us to bring products and
+development to market sooner and address incremental markets, all of which
+should increase the rapid revenue growth rate of NVIDIA.
+
+     3DFX also has a strong IP portfolio, with seven patents granted and 40 more
+pending.  Many of these are fundamental patents of Gigapixel's work in tile-
+based rendering.  Combined
+<PAGE>
+
+NVIDIA -- December 18, 2000                                               Page 3
+
+
+with NVIDIA's 33 granted patents and 50 more pending, we will own many of the
+key technologies that form the cornerstone of the future of 3D graphics. And
+although we believe our products do not infringe on 3DFX's claimed patents, the
+elimination of our lawsuits will reduce expensive legal expenses and enable us
+to better focus on growing our business.
+
+     This transaction has immediate and strategic benefits to NVIDIA. The surge
+of world-class engineers will turbocharge our many products in development and
+accelerate our entry into new markets. And the combination of our technologies
+will further galvanize our already strong market position.
+
+     Let me turn you over to Chris for financial guidance.
+
+CH:  We expect to make, and have already made, some employment offers to over
+100 former employees of 3DFX, with a significant majority of those offers
+relating to hardware and software engineers.  Assuming 100 acceptances in R&D
+and 10 acceptances in SG&A, incremental expenses in Q4 will be $2.0 million in
+R&D and $100,000 in SG&A.  Interest income should decrease approximately
+$100,000, relating to the $15 million loan we will advance to 3DFX this week.
+The impact on EPS is approximately 1.5 cents for Q4.
+
+     Incremental operating expenses in Q1 of fiscal 2002 will be $4 million in
+R&D and $200,000 in SG&A. Interest income will decline by approximately $600,000
+in Q1. The net impact on EPS for Q1 is 3 cents.
+
+     R&D expenses in Q2 will increase by approximately $2.6 million, with a $1.6
+million decrease in interest income, equating to a 3 cent impact to EPS in Q2.
+By Q3, the incremental head count adds related to this transaction equal our
+internal hiring plan, such that there is no further change in Q3 and Q4 to
+operating expense guidance.  Interest income will continue to decline by
+approximately $1.6 million per quarter, or 1 cent per share, in each of Q3 and
+Q4.
+
+     Please note that we have not assumed any incremental sales or gross profit
+relating to this transaction at this point in time, but fully intend to leverage
+the NVIDIA brand in retail, as well as potentially leverage the Voodoo brand to
+increase our market share in the retail channel.  Our goal is for this
+transaction to be accretive to the earnings of NVIDIA.
+
+     In summary, at an operating level, the dilutive effect of this transaction,
+excluding goodwill and other one-time charges which will occur in the quarter
+the transaction closes, are 1.5 cents in Q4, 3 cents in each of Q1 and Q2.
+Goodwill should approximate $6 million per quarter and other one-time charges of
+approximately $8 million will occur at closing, estimated to be in Q1 of fiscal
+2002.  Further revisions to our estimate of goodwill and related amortization
+will be forthcoming once an independent valuation is received.
+<PAGE>
+
+NVIDIA -- December 18, 2000                                               Page 4
+
+
+     On a final note concerning guidance, excluding the effect of this
+transaction as described above, there are no further changes to our guidance for
+Q4 or fiscal 2002 for either revenue or EPS. We remain comfortable with the
+current estimates, subject to the revisions for this transaction.
+
+     We'd be happy to take questions now.
+
+Questions and Answers
+
+OP:  Ladies and gentlemen, we will now begin the question and answer session.
+     If you have a question, please press the "1" followed by the "4" on your
+     telephone.  You will hear a three-tone prompt acknowledging your request.
+     If your question has been answered and you wish to withdraw your polling
+     request, you may do so by pressing the "1" followed by the "3". If you are
+     on a speaker-phone, please pick up your handset before entering your
+     request.  One moment please, for your first question.
+
+          Your first question is from Mark Edelstone from Morgan Stanley. Please
+     proceed with your question.
+
+ME:  Good morning, guys.  Two questions for you.  One, if I could, on 3DFX, and
+     then one particular to NVIDIA.  The question on 3DFX... I think at the end
+     of the last quarter, which is October, they had talked about inventory
+     something like $45 million and I assume that over the last month and a half
+     they have drawn that down quite a bit.  I wonder if you could give us a
+     current look at what you think their inventories are and what you think the
+     value of those would be?
+
+          And then, secondly, pertaining to NVIDIA, I appreciate the update on
+     guidance for the company overall. Could you just kind of give us your sense
+     as to how you see the quarter shaping up and just how you see NVIDIA's
+     business doing in the market relative to a lot of the comments we've heard
+     from the PC companies, as well as key suppliers like Intel and Microsoft?
+
+JH:  First of all, Mark, with respect to inventory, the majority of their
+     inventory right now sits in chip form, with some of it in board and parts
+     form.  We own the chip inventory, of course, and we're going to figure out,
+     over the next several months, I guess, with respect of how to dispose of it
+     going forward.  There are a couple of customers who have on-going
+     requirements for it, although the requirement is not very high.
+
+          The second one has to do with guidance for our numbers. Generally
+     speaking, the market is soft for the mainstream PC market. However, we're
+     relatively well diversified to do well with respect to the consumer, the
+     commercial and the workstation lines.
+<PAGE>
+
+NVIDIA -- December 18, 2000                                               Page 5
+
+
+          The thing that is really driving our business, of course, is
+     ultimately the new products we have going are the GeForce2MX is on fire,
+     continues to do extremely well, as we transition both the GeForce2MX, which
+     is the first GPU in the mainframe market place, as well as any
+     transformation of that business from our TNT2 model over to the GeForce2MX
+     model, will always be a benefit to us.
+
+          There's also, of course, the mobile business, our next generation
+     product, the increase, the ramp-up of our workstation products and design
+     wins that we haven't announced as of yet that we will announce in the first
+     quarter of next year, are all going to be driving our business. So, at the
+     moment we feel comfortable with our quarter. There is a general softness;
+     however, our new products and our new market penetration opportunities give
+     us the opportunity to grow through it.
+
+ME:  Great.  Thanks a lot, Jen-Hsun.
+
+JH:  Yeah, thanks, Mark.
+
+OP:  Your next question is from Hans Mosesmann from Prudential Securities.
+     Please proceed with your question.
+
+HM:  Great. Congratulations on the acquisition. A couple of questions, Jen-Hsun.
+     Of the 100 employees that you're talking to, or have extended offers to,
+     how many of these are hardware engineers? And question number two, what are
+     the key patents that you think you can get the most mileage out of here,
+     over the next year? Are these the Gigapixel ones? Thanks.
+
+JH:  Hi, Hans.  Thank you.  Let's see, the first question has to do with the
+     breakout, or the disciplines, of the various 100 people or so.  The
+     majority of the engineers that we'll be bringing over to NVIDIA are
+     architecture:  hardware, and that would represent the vast majority; some
+     software; and very, very few in SG&A.  The people that we're targeting
+     represent about 25% of the overall workforce of 3DFX.  With the guidance of
+     their management team and also with our own understanding of the people who
+     are working there, we're targeting the best of the best of the best at
+     3DFX, and in our dialogue with them, these engineers are absolutely world
+     class.
+
+          There's no question in our mind that I think the next generation
+     products that they're in the process of developing simply ran out of
+     runway, from a financial perspective, but they're exciting products and
+     they're no doubt going to be break-through products in development.
+
+          With respect to the patents that we're excited about, obviously 3DFX
+     has been a very innovative company in 3D graphics. The architects and the
+     engineers at 3DFX are
+<PAGE>
+
+NVIDIA -- December 18, 2000                                               Page 6
+
+
+     some of the best in the world. Their business strategy may not have been
+     the best, but in the final analysis their technology's pretty terrific.
+
+          The Gigapixel technology is also very exciting to us. With respect to
+     the rendering architectures of the future of 3D graphics, there are really
+     two major or fundamental approaches that companies have taken. We and
+     Gigapixel are probably on the far extremes of rendering architectures, and
+     we're just really excited that NVIDIA now owns the patents; and more
+     importantly, has the experience to develop rendering architectures that
+     span nearly the entire spectrum of the 3D graphics universe. We're excited
+     about that. We're excited about that.
+
+HM:  One last question.  On the manufacturing... or on the board level product,
+     or the manufacturing location that 3DFX has in Mexico...is that part of the
+     acquisition or is that excluded?
+
+JH:  Yeah, that's a very good question, Hans.  We are extremely focused in this
+     particular transaction to focus completely on the strategic and technical
+     assets of 3DFX.  All of the board inventory, all of the liabilities with
+     respect to the manufacturing, the responsibilities for supporting the
+     Voodoo brand, branded boards in the channel, customer support, all of that
+     stuff is going to be left for the 3DFX management.
+
+HM:  So you're just focused on the chips and the patents then?
+
+JH:  That's correct.
+
+HM:  Great.  Thanks again.  'Bye.
+
+JH:  Yeah.  Thanks, Hans.
+
+OP:  Your next question is from Tae Kim from Welch Capital.  Please proceed with
+     your question.
+
+TK:  Hi, Jen-Hsun.  Congratulations on the deal.
+
+JH:  Thanks, Tae.
+
+TK:  My question is on 3DFX.  From your understanding if the deal passes, do you
+     think the million shares of NVIDIA stock will be passed onto 3DFX
+     shareholders?  And my second question is: do you plan on launching any of
+     the pipeline products that 3DFX had, like Rampage?
+
+JH:  So, on the first question, our hope is that there's something left over to
+     be able to pass on to the shareholders, but obviously we don't know how
+     much absolute liability they have.  We are aware that it's quite a
+     substantial sum - we have a sense of it - and that ought to be gotten
+     directly  from the 3DFX management team.
+
+          The way that we structured the deal, our hope is that they do have
+     residual value that they can pass along to the shareholders. But the reason
+     why we structured this deal
+<PAGE>
+
+NVIDIA -- December 18, 2000                                               Page 7
+
+
+     this way is really to be able to gain access to the assets of 3DFX and all
+     the great technology that they've developed over the years, their retail
+     brand, and to be able to stay away from the liabilities that, quite
+     frankly, we're not going to know for quite some time yet. And so, this
+     particular deal shelters NVIDIA from the challenges of sorting through
+     those liabilities, and also, of course, the management attention that it
+     would have taken to properly shut that business down. Their Chief Financial
+     Officer and CEO obviously will be quite consumed by that activity and
+     hopefully they could do it in such a way that the shareholders will see
+     some benefits.
+
+          With respect to their next generation products, they have two
+     generations that are in development beyond the Rampage, which was targeted
+     for Q1 of next year. We're quite excited about those products in the
+     pipeline development. We're going to quickly take a look at them, starting
+     probably next week, and hopefully with all the architects sitting on both
+     sides of the table we'll be able to quickly assess how much of the
+     technologies to incorporate from each one of these powerful products into
+     our follow-on generation products.
+
+          And so, we're quite excited about the opportunity to go through that
+     process. In fact, I personally can't wait, and so we're just going to
+     assess it as soon as we know more.
+
+TK:  Great.  Congratulations again.
+
+JH:  Yeah, thanks, Tae.
+
+OP:  Your next question is from Jeff Myers from Ivory Capital.  Please proceed
+     with your question.
+
+JM:  Hi.  I guess I'm just trying to understand the deal a little bit better.  I
+     think you guys had actually mentioned, maybe last quarter, that you did not
+     need to do any acquisitions.  It seems in this deal that you're picking up
+     a bunch of inventory that wasn't selling particularly well.  And the
+     engineers are basically free agents who you have to hire, but I guess they
+     can go to ATI as well.  So, I guess I'm wondering what, exactly, you guys
+     are getting out of this deal?
+
+JH:  Yeah, that's a good question.  In fact, you probably came at it the reverse
+     way, the way I would have come at it.  It is true that engineers are free
+     agents, and by the way, the engineers that work at NVIDIA right now are
+     free agents.  So, the way to think about it is ultimately the people that
+     we're having dialogues with and spending a great deal of time with (and
+     obviously we also know who they are, through a dialogue with the senior
+     management, technical management at 3DFX, so we're able to understand who
+     the best of the best are) are that pool of engineers who are clearly
+     passionate about 3D graphics; they're passionate about developing products
+     in this space and have a great deal of
+<PAGE>
+
+NVIDIA -- December 18, 2000                                               Page 8
+
+
+     expertise that are in the 3D graphics area. And so I think it's natural, if
+     you will, that NVIDIA will make a good place for them to come.
+
+          Ultimately everybody wants to build winning products, wants to be part
+     of a winning team, and I think that we're able to provide that environment
+     for them.
+
+          There are no guarantees here; however, we're quite encouraged by our
+     early dialogue and the ability to get in front of them in a very concerted
+     effort, if you will, and be able to put our best foot forward. To approach
+     these very many hardware engineers, architects and software engineers is
+     extremely important to us.
+
+          In the end, the quality of this transaction will be measured by the
+     people that we bring over; the contributions they make to our future
+     product development; and the value of the technology patents, which is very
+     important in this particular transaction as well.
+
+JM:  I guess one quick follow-up.  It just sounds like, the way you talk about
+     the products, that you guys haven't really had a chance to look through the
+     product portfolio that thoroughly.  Was there something that, I guess,
+     forced this deal into action now or what's behind that?
+
+JH:  Ultimately what forced this deal into action is the timing of 3DFX.  If
+     this deal doesn't happen, my sense is that it would have been impossible,
+     as the company exploded, for us to get in front of those engineers in an
+     organized way.  And so I think that they had, ultimately, a couple of
+     different options.  They could have - and would have - entered into a
+     strategic relationship with someone else or the company would have had a
+     different financial transaction, which would have been really hard for us
+     to contain the engineers in a rational way.
+
+          So, I think ultimately there are very few options to bring on board
+     entire teams of engineers. They either scatter into the wind; you have to
+     buy the company, which in our particular case you would also agree that
+     buying the entire entity of 3DFX was not smart at his point; and then also
+     the third opportunity is to do something like what we're doing.
+
+JM:  Okay, thanks.
+
+OP:  Your next question is from Peter Vanderlee from Smith Barney Asset
+     Management.  Please proceed with your question.
+
+PV:  Yeah, one clarification.  NVIDIA is not taking on any of the liabilities of
+     3DFX?  And then secondly, another clarification:  the revenue guidance for
+     2001 - calendar 2001 or fiscal 2002 - has not changed.  But do you have any
+     expectations to derive incremental revenues from the 3DFX products,
+     specifically the Voodoo product?  And then lastly, can you give some more
+     color on how you will eventually leverage the Voodoo brand in the retail
+     channel?  Thanks.
+<PAGE>
+
+NVIDIA -- December 18, 2000                                               Page 9
+
+
+JH:  First question, relating to liabilities.  We are absolutely not going to
+     assume any of the liabilities and that is the reason we decided to
+     structure the deal the way we did.  We don't know how much liability they
+     have.  We have a sense of how much liability - it's pretty large - but we
+     don't have the absolute amount.  So it makes absolutely no sense for us to
+     get in front of that, both from the financial exposure, the legal exposure,
+     but also the major management distraction it would have represented.
+
+          The second question: revenue opportunities. We're comfortable with the
+     guidance we've offered in fiscal 2001, particularly Q4, that Chris just
+     gave guidance on. We're comfortable with both revenue and EPS guidance.
+     With respect to revenue opportunities from their own products, it's not
+     really particularly important to us. Ultimately, if their products are
+     suitable for their existing customers in the channel, or if it would have
+     been replaced by one of our products in the channel, I think that both are
+     equally fine for us.
+
+          With respect to the Voodoo brand, they've invested millions in the
+     Voodoo brand. It is a well-recognized brand. In the gamer community it is
+     still the brand of choice. They have something like 30-40% of the retail
+     market at any given point in time. That part of the market place has been
+     very loyal to the brand, and my sense is that by combining the best
+     technology from 3DFX... or, excuse me, the best technology from NVIDIA and
+     the brand from 3DFX, we have some pretty terrific opportunities in the
+     retail channel. We haven't firmed our plans there, but we plan to. It's
+     something that we're quite excited about.
+
+PV:  Okay, thanks.
+
+OP:  Your next question is from Marc Cohodes from Rocker Partners.  Please
+     proceed with your question.
+
+MC:  Thank you.  Congratulations, Jen-Hsun.  I have a question on your
+     relationship with the Edom, and why that business continues to grow
+     sequentially.  I would have asked this on your conference call, but your
+     10-Q came out and it seems that if Edom didn't grow as much as it did
+     sequentially, your revenues would have been flat.  So how is that?
+
+JH:  Yeah, Marc. First of all, thank you. Edom is our distributor in Taiwan, and
+     the reason why that business continues to grow so quickly has a couple of
+     different reasons. The first reason, and the most important reason, is the
+     on-going growth of the system builders. It is relatively clear now and I
+     think several companies - including Intel and others - have alluded to the
+     fact that the system builder business in Q4 is actually quite solid; that
+     some of the OEMs are under some amount of pressure; but the system builders
+     all over the world continue to do quite well. And from our estimation
+<PAGE>
+
+NVIDIA -- December 18, 2000                                              Page 10
+
+
+     and our feeling from the market place, that is pretty consistent with what
+     we're seeing. And so the system builders represent something along the
+     lines of half of all the PCs sold in the world, more in Europe, a little
+     bit less in the United States. Some people call them white box movers. And
+     the system builder marketplace is completely served through Edom or the
+     Taiwanese board manufacturers on our behalf. And so that is the reason why
+     that has been an on-going successful business for us.
+
+          The PC OEMs: we've had a very strong coverage over the years and it
+     continues to be strong; but the system builder is where we're seeing a
+     tremendous amount of penetration. And it's a marketplace, or a channel,
+     that historically has been served by Matrox and ATI and others. I think
+     we're just seeing a terrific amount of success in that area now, fueled
+     really by the technology, but by the fact that our brand is well-known all
+     over the world at this point; and also because we have a complete product
+     family that is completely architecturally compatible. For the system
+     builders, that's particularly important, because they don't have enough
+     engineering staff to qualify too many different architectures, so our one
+     architecture that spans the entire product portfolio, or the product range,
+     is quite important to them.
+
+MC:  Okay, Jen-Hsun Thanks.
+
+JH:  Thanks, Marc.
+
+OP:  Your next question is from Danielle Green from CTW.  Please proceed with
+     your question.
+
+DG:  Hi.  Can I just ask how you'll be positioning the two brands?  Will they
+     co-exist alongside each other, or will the NVIDIA brand be sort of sunk
+     into the 3DFX brand?
+
+JH:  Yeah, that's a good question.  We haven't completely sorted out all of the
+     brand positioning, but at the highest level, my sense is that the
+     technology brand will continue to be the NVIDIA technology brand.  Where we
+     could really, really take advantage of the Voodoo brand is in retail, the
+     gamer market, and the... you know, more generically, just the retail market
+     all over the world.  And so we're going to think hard about how we can take
+     advantage of the brand.  We're quite excited about it, and combined with
+     our GeForce technology, my sense is that we'll have an opportunity to grow
+     our retail market share from about 30-some-odd percent to something very
+     close to well north of 60% and 70%.
+
+DG:  Also, will this affect distribution at all?  Distribution arrangements in
+     Europe anyway?
+
+JH:  Yeah, the distribution arrangement... and I think what you're mentioning,
+     and distribution is really the channel, what we consider the channels of
+     both retail, as well as system builders, is that correct?
+<PAGE>
+
+NVIDIA -- December 18, 2000                                              Page 11
+
+
+DG:  Yeah.
+
+JH:  Yeah. My sense is that that won't affect... we have no current plans of
+     affecting our channel relationships. We're going to continue to work with
+     graphics add-in card manufacturers in Taiwan, companies like Mitac, like
+     Gigabyte, like AsusTek, like Leadtek, that have terrific distribution
+     relationships in Europe. One of the reasons why, in Marc's previous
+     comment, one of the reasons why we're growing so quickly in the Asian
+     market is because of the strengthening of the Taiwanese distributors,
+     Taiwanese manufactures in Europe, particularly. And so we've going to
+     continue to leverage those relationships, continue to focus on them. And my
+     sense is that that's a pretty good strategy for us right now.
+
+DG:  Okay, great.  Thank you.
+
+JH:  Thank you.
+
+OP:  Your next question is from Albert Lin from MeerKat Management.  Please
+     proceed with your question.
+
+AL:  Hi. With an additional 110 people, basically, from 3DFX, why wouldn't you
+     guys guide an EPS increase in 2001 at some point? It just seems- what --
+     over $100 million spent, plus all of these additional people? Shareholders
+     should get a ramp in earnings at some point. Otherwise, why do it?
+
+JH:  Yeah, that's a good question.  We absolutely expect the engineers to be
+     able to contribute to our bottom line by delivering products, by driving
+     new product developments.  The way to think about it, Albert, is we're
+     hiring a hundred or so, maybe if not more, employees per quarter all by
+     ourselves.  NVIDIA today is about 700-and-some-odd employees.  We're
+     growing by somewhere between 100-150 per quarter, and we need to grow by
+     that many just to sustain the market footprint that we've been able to
+     capture or enter with our current products.
+
+          So if you take a look at our product lines: we have the GPU product
+     line, which has the GeForce2 Ultra as our flagship, all the way down to
+     GeForce2 MX as the mainstream GPU, down to TNT2 as our entry-level
+     products; that we will, in the near future, by first quarter of next year,
+     have a new flagship that people refer to as the NV20, and so that GPU
+     product line in itself requires hundreds of engineers to be able to
+     sustain. The barriers to entry have grown to be an extraordinary level. The
+     technology that we develop at this stage is far more complex than
+     microprocessors, and we'll continue to nurture that and continue to drive
+     that particular product line to new heights.
+<PAGE>
+
+NVIDIA -- December 18, 2000                                              Page 12
+
+
+          The second product category, or product family, is mobile, that we
+     recently introduced. The mobile market place is one of the fastest-growing
+     consumer electronics or electronics marketplaces, and we're going to
+     continue to drive that particular market place very, very hard, starting
+     with the GeForce 2 Go, but there are many, many products in the pipeline
+     that are targeted at that market.
+
+          The third market is the integrated market, basically the low-end PC
+     marketplace, where integration with system logic, integration with other
+     system peripherals, is extremely important. That requires an entire family
+     of... team of engineers targeted at that, not to mention the consumer
+     electronics marketplace with our XBox efforts, plus others that we haven't
+     announced yet.
+
+          And so, if you take a look at each one of these product road maps, and
+     including products like the product category we announced recently --
+     called the MCP, standing for media communication processors, that has its
+     own many versions and road map associated with it -- all of these products
+     require a substantial amount of engineering resources to drive. And so this
+     surge of engineering - world class - engineering effort from our
+     combination with 3DFX here is something that will really turbocharge the
+     company. So I'm quite excited about it.
+
+          With respect to... Chris is about to make a point, here, with me.
+     Maybe I'll just let Chris make the point.
+
+CH:  Yeah, Albert, I think clearly at this point in time, we are trying to be
+     very conservative and trying to be prudent.  But to give you a sense of
+     calibration, we would need to increase our revenues somewhere between $10-
+     15 million in each quarter in order for this transaction to be accretive.
+     Now clearly we believe that is very feasible, but until we really have
+     sorted out how we were going to leverage the Voodoo brand in retail, it
+     seemed... it just seemed more proper to talk about the incremental expenses
+     and then follow up with, "Okay, what kind of revenue increases are we
+     seeing?"  But again, just to give you a calibration, just $10-15 million
+     more in sales per quarter will make the deal accretive, and clearly, our
+     goal - as I said in my comments - our goal is to make this deal accretive,
+     not dilutive.
+
+AL:  So, internally then, do either of you... can you give us some sense of when
+     you think you could at least recoup the $70 million sort of cash
+     investment?  At $15 million a quarter, it seems like by the time you...
+     even if you have your typical operating profit, we're still looking at
+     something like two years out.
+
+JH:  Yeah, I think it's probably premature to do low-level analysis like that.
+     Suffice it to say, Allan, what we feel really excited about the transaction
+     is bringing in the intellectual
+<PAGE>
+
+NVIDIA -- December 18, 2000                                              Page 13
+
+
+     property, bringing in the core team. In the final analysis, it is what
+     drives our company. At the heart of our company are the architects, the
+     ASIC designers, the software engineers. It is the beginning of where
+     everything that is good starts. And being able to nearly increase that...
+     our intellectual capital, if you will... by well over 50%, if we were just
+     to count from the number of engineers, I think that that's a pretty
+     exciting thing. It just allows us to drive our products better, to
+     substantially staff each and every one of these complicated programs, and
+     be able to get into new markets that we've not been able to look at really,
+     simply because of resource constraints. So, there's no question in my mind
+     that intellectual capital is given a major boost.
+
+AL:  One last thing.  Is the factory in Juarez part of the assets you'll get,
+     and what do you guys plan to do with that?
+
+JH:  We are absolutely going to stay away from all of the liabilities.  And all
+     of the board manufacturing facilities, simply because the management
+     distraction, the financial exposure, are simply too great.  So none of the
+     liabilities will be coming over to us.
+
+AL:  Thanks.
+
+OP:  Your next question is from Dan Scovel from Needham & Co.  Please proceed
+     with your question.
+
+DS:  Yeah, thank you. The Gigapixel guys in the past had indicated they felt
+     they had some technology that would prove beneficial, eventually anyway, in
+     the XBox, and I think 3DFX management had some plans, at least some time,
+     to look at wireless cell phones and really expand the market. Can you
+     comment on those sorts of opportunities? Do you see their technology as
+     giving you some plans to diversify or enhance any of those moves in your
+     company?
+
+JH:  Yeah, Dan, the Gigapixel technology is actually quite innovative.  Where
+     they really focused, and one of its breakthrough characteristics, if you
+     will, is the ability to deliver very high visual realism, very high
+     interactivity, very high performance, if you will, while reducing the
+     memory bandwidth required.  And memory, in the final analysis, is one of
+     the most expensive components in 3D graphics, and memory bandwidth is one
+     of our scarcest resources technologically, as we continue to drive up
+     visual realism.  It's very complex technology, and it's something that has
+     been tried for many, many generations.
+
+          There is an alternative approach that NVIDIA has pursued, and my sense
+     is that over time you're going to find that elements of both will come into
+     play as we develop our next generation processors in order to capitalize on
+     the benefits of each one of the architectures.
+<PAGE>
+
+NVIDIA -- December 18, 2000                                              Page 14
+
+
+          In terms of the benefits, maybe from the market perspective, the
+     market benefits of the tiling-based -- tile-based architecture - renderers.
+     One of the benefits, of course, is that anything that requires... or, any
+     applications where the memory bandwidth is extremely low it will continue
+     to deliver quite good performance, because its basic architectural
+     characteristics, and when you mentioned cell phones, we've mentioned a
+     hand-held, those applications, I think, in the final analysis, are good
+     fits.
+
+DS:  Thank you.  Good luck.
+
+JH:  Yeah, thanks, Dan.
+
+OP:  Your next question is from Mark Johnson from Calamos Asset Management.
+     Please proceed with your question.
+
+MJ:  Yeah, good morning.  Just a question regarding R&D expenditures on a pro
+     forma basis for the next couple years; kind of how you envision that
+     developing, if you would, please?
+
+JH:  Okay, so Mark, the way that we think about it is:  we are hiring about 100-
+     150 people per quarter and, on a revenue basis or in terms of financial
+     effectiveness-basis per employee, we've always been about 1.2 to... yeah,
+     1.2 some-odd million dollars per employee.  And we've let revenues get
+     ahead of our hiring historically, and it remains to be ahead of our hiring,
+     even with this acquisition.
+
+          My sense is that by the... in Chris's analysis, by the middle of the
+     second quarter, and certainly by the third quarter, all of this influx of
+     engineers will completely be within the original business plan that we
+     have.
+
+MJ:  Okay, so you don't see a real increase in R&D as a result of the influx of
+     new people.  It's just realization of those numbers?
+
+JH:  That's correct, and we're going to get a step function to accelerate the
+     introduction of... or, accelerate those numbers quite substantially, by
+     basically about a quarter and a half or two quarters.
+
+MJ:  And can you give me your current thoughts on R&D for next year, and the
+     following, if you've got it?
+
+JH:  Yeah, Chris is looking it up right now.  Hang on a second, Mark.
+
+MJ:  Thank you very much.
+
+CH:  Yeah, and in fact, Mark, our model for R&D is 12-14%, and we've actually
+     been running at the low end, if not below.  And with the incremental R&D
+     related to this transaction, we actually still end up, for next fiscal
+     year, at slightly below 12%.  So, Q1 has the biggest impact, and that's
+     estimated to be somewhere around 12.5%, but then it starts tapering down
+     again.
+<PAGE>
+
+NVIDIA -- December 18, 2000                                              Page 15
+
+
+MJ:  Great, Chris.  Thank you.
+
+CH:  Okay.
+
+JH:  Thanks, Mark.
+
+OP:  Your next question is from Eric Ruff from Lydian Asset Management.  Please
+     proceed with your question.
+
+ER:  Yes, thank you.  Could you give a quick breakdown of your market segments
+     between the consumer PC market versus your higher end corporate market, as
+     far as sales?
+
+JH:  Okay, so, I'm going to give you the high level while Chris maybe looks up
+     some of these numbers, and I'll just give you a quick sense.
+
+          The way we look at the markets is we look at it both vertically, which
+     is high end to low end, but also in market segments, and we basically
+     serve, with our products today three major market segments: the consumer
+     market, the commercial desktop market, as well as the workstation market.
+
+          The consumer market has the enthusiasts and what we call the
+     mainstream. The enthusiast market is served by our GeForce2 Ultra. The
+     mainstream is GeForce2 MX, and the low end part of our market is TNT2.
+
+          The commercial desktop high end is probably GeForce2 GTS and the
+     mainstream part of the market place is TNT2.
+
+          Now, the workstation part of our market place, on the high end is
+     served by Quadro2 Pro, which just started ramping into production last
+     quarter, towards the tail end of last quarter, and the mid-range product is
+     called Quadro2 MXR. Both of those two products are ramping into production
+     and continue to ramp nicely throughout his quarter.
+
+          In terms of overall breakout in the market place, I would guess that
+     our consumer exposure is something along the lines of about 50%; and our
+     commercial desktop is about 40%; and workstations is about 10%. That's sort
+     of a big, big, rough highlight, but my sense is it won't be much further
+     off than that.
+
+ER:  Okay, and you mentioned just a few minutes ago that you do see a slowdown
+     in the consumer PC segment, but do you see that offset by the other two
+     segments?
+
+JH:  You know, the way that we... so, that's a good question, and the
+     clarification there that I should give you is that now you have to break it
+     down by channel, okay?  The channel is characterized by retail, small
+     office, home office and the PC OEMs.  We see retail relatively soft.  We
+     see the PC OEMs relatively flattish in most of the OEMs that we serve, and
+     we see the system builders, which is the channel, uppish relative to
+     previous quarters.
+<PAGE>
+
+NVIDIA -- December 18, 2000                                              Page 16
+
+
+          And so I think if you take a look at the guidance that we've seen from
+     other major PC OEMs, we do recognize that the retail PC segment is
+     relatively softish; however, most of those retail PCs are low-end PCs
+     because it's really problematic to stock the high end PCs. And as a result,
+     the low end PCs, our exposure is probably lower than the high end PCs. The
+     retail channel is affected that way. The high end PCs are driven primarily
+     by Pentium 4s. The initial ramp was a successful ramp, and I think Intel
+     has already announced that they're going to go through very aggressive
+     price cutting for the Pentium 4s to really drive sales of the Pentium 4s
+     into the mainstream part of the market place. That's going to help us
+     tremendously.
+
+ER:  Okay, great.  And one last question:  your sales guidance that you gave on
+     your last earnings conference call was about 50% growth for fiscal year '02
+     from this year.  Is that still on track, even with 3DFX?  Currently it
+     seems like with the 50% growth rate you're coming up with revenues of about
+     $1 billion for fiscal year '02.  Is that in the ballpark?
+
+JH:  Yeah, we're still comfortable with our guidance on fiscal year '02.  If you
+     take a look at the big picture of graphics, we have something along the
+     lines of 40 some-odd per cent market share.  With this particular
+     acquisition of 3DFX and further consolidation of the graphics market place,
+     I think NVIDIA is really well-positioned to capture more of what we call
+     the stand-alone graphics market.
+
+          However, we've also recently introduced our mobile efforts, our
+     integrated graphics efforts, our consumer electronics efforts, and further
+     expansion into the workstation market place. And all of these, combined
+     with the increase of market share in just our stand-alone desktop graphics
+     market place, will continue to drive our growth. And if we execute well,
+     which we are intensely focused on doing all the time, my sense is that
+     we're in a pretty good position to grow quite aggressively throughout next
+     year.
+
+ER:  Okay.  Thank you.
+
+OP:  Your next question is from David Swanson from Intel.  Please proceed with
+     your question.
+
+DS:  Hi.  Yeah, this is Dave.  I'm just wondering: with the introduction of the
+     NVIDIA chip set line, as that line becomes successful, how do you see that
+     impacting your overall market segmentation model?  Do you see that taking
+     over at the low end?  Do you see your low-end graphics controller
+     development winding down and developing controller cores specifically for
+     the chip set?
+
+JH:  Yeah, so the way we see the market place is really in stand-alone GPUs,
+     where the market is interested in a variety of probably three factors.
+     Number one, that particular segment of the market place is interested in
+     performance and the latest generation technology.
+<PAGE>
+
+NVIDIA -- December 18, 2000                                              Page 17
+
+
+          Second reason is because of features that are unique to certain market
+     places. For example, multiple displays -- the ability to drive flat panels,
+     which is still quite difficult to integrate into a core logic -- and
+     various types of high end display, high end resolutions that are cost-
+     prohibitive to integrate into the basic chassis, necessarily.
+
+          The third one is just expandability. Some people like the fact that
+     you have an expansion slot in a PC so that you can upgrade it for video
+     capture -- for example, if somebody wants to do home video editing or
+     various other applications.
+
+          So those three reasons tend to drive... tend to continue to drive the
+     availability of distinct -- what we call -- stand-alone graphics
+     processors.
+
+          On the low end part of the market place, which we estimate to be
+     something along the lines of 40% plus or minus a couple of percent or so,
+     depending on product transitions, mostly at Intel really. That 40-45% plus
+     or minus is going to be integrated graphics and we intend to be a very
+     significant player in that space.
+
+          Our initial product plans are specifically targeted at AMD. However,
+     we have almost no market coverage in the integrated graphics space today
+     and that's just going to drive our continued growth. I'm quite excited
+     about that part of the marketplace because it offers us all kinds of
+     interesting innovation opportunities there.
+
+          But I see, overall - the way to think about it - I see it as half and
+     half of the marketplace, which is pretty consistent with what people are
+     seeing today. Next year, my sense is that, based on the product road map of
+     Pentium 4 -- Pentium 4 having very few integrated graphics solutions in the
+     market place at this point, which says that next year will likely be a very
+     large year for stand-alone graphics GPUs -- if Pentium 4 is very aggressive
+     in the mid-range and the low end part of the market places.
+
+          Did that answer your question, David?
+
+DS:  No, that's great.
+
+JH:  Okay, thanks.
+
+OP:  You have a follow-up question from Jeff Myers from Ivory Capital.  Please
+     proceed with your question.
+
+JM:  Hi.  I guess you guys mentioned that you're still comfortable with the
+     guidance for next year.  I'm wondering if there's any sort of underlying
+     change in the assumptions to get to that guidance in terms of maybe greater
+     ramp from some of the newer products, like mobile or the Xbox, to get
+     there.  Or is it the same segmentation of guidance as before?
+
+JH:  Our guidance next year reflects several things, and first of all it should
+     reflect some amount of conservatism.  But fundamentally our business is on
+     a track that is relatively locked and loaded at this point, for next year.
+     The first one is to continue innovation and
+<PAGE>
+
+NVIDIA -- December 18, 2000                                              Page 18
+
+
+     to continue to capture market share for GPUs. We have a pipeline of
+     products that are coming out for next year that I'm just really, really
+     excited about, and we're going to take rendering and 3D graphics to levels
+     you've never seen before.
+
+          So, that's the first, fundamental track. My sense is that we have
+     every opportunity to grow that business from our current base of a couple
+     hundred million dollars revenue run-rate of last quarter.
+
+          The second track is mobile. The mobile marketplace is a market where
+     we have zero penetration today. We've already announced the world's largest
+     laptop supplier -- the most critical, the most demanding of all the laptop
+     suppliers -- in the world. Toshiba has announced that they've selected
+     GeForce2 Go as their graphics processor. And our expectation with that part
+     of the marketplace is no different than our expectation in the desktop part
+     of the marketplace. We use a very similar strategy: segmentation. We use a
+     strategy of driving top to bottom and maximizing our architectural reach
+     within each customer base and each channel.
+
+          The third part, third market place, is workstations that we've already
+     announced.  Quadro2 Pro and Quadro2 MXR make our basic line-up today.
+     We're going to continue to innovate in that space, and we'll continue to
+     bring out new products.  And we'll bring a rhythm of execution into the
+     workstation industry that they've never known before.
+
+          The fourth is integrated core logic. Dave previously alluded to our
+     integrated core logic road map. Although we haven't announced it, the
+     enthusiasm in the market place is very high and it's been somewhat of a
+     buzz in the Asia-Pacific area, where the majority of the top-class, world-
+     class motherboard manufacturers such as AsusTech, Gigabyte and Microstar
+     are located.
+
+          And the last one is just continued expansion of our products into
+     platforms that demand the best graphics. Consumer electronics, of course,
+     is one of them. The game console, XBox, is just doing terrifically.
+     Microsoft is just doing an awesome job in signing up game developers. There
+     are 150 game developers signed up all over the world, and we're shipping
+     XBox developer kits at a pretty significant rate now, and Electronic Arts,
+     in fact, just signed up. Electronic Arts is the number one game developer
+     in the world, in terms of independent game developers, and their support of
+     XBox is an incredible endorsement for how they feel about XBox. I don't
+     think I remembered them signing up for a box this early and being so public
+     about it.
+
+          And so, the last ones are products that we haven't announced yet, but
+     there are some that we haven't announced yet, and we're excited to announce
+     it in the next quarter or so.
+<PAGE>
+
+NVIDIA -- December 18, 2000                                              Page 19
+
+
+JM:  Okay, just to clarify a little bit, so what is - and this might be my fault
+     for not knowing this before - but what is your current revenue guidance, I
+     guess, for next year?  And just the margin, given all the things that we've
+     seen in the OEMs.   I mean, has more of that revenue guidance for next year
+     shifted to the mobile workstations, integrated core logic, from the core PC
+     business?
+
+JH:  Yeah, so, the way to think about that, Jeff, is that we've been relatively
+     consistent that NVIDIA is in a market expansion, market share growth, phase
+     of our life.  And we're consolidating the market and raising the barrier to
+     entry so the number of players is dwindling very, very rapidly, and that
+     allows us to continue to capture market share.  So, even in an environment
+     where the market is relatively flattish, we continue to grow.  In fact, all
+     through last year, whether it's Q2 where the market was actually down,
+     NVIDIA grew 15%.
+
+          And so our growth strategy comes from, number one, market share
+     expansion through consolidation, and also adoption, the transition of 2D
+     graphics to 3D graphics, which continues to go at a pretty significant
+     pace, and number two is new markets. And that will... and if we execute
+     well, and I think that's the most important thing... is that if NVIDIA
+     continues to be intensely focused on execution, as we have been, and as
+     we've adopted and created a culture that is so intensely focused on
+     execution, if we continue to keep our eyes on the ball my sense is that the
+     consolidation, the market share expansion, and new market reach of our
+     franchise is going to continue to drive our growth.
+
+JM:  Thanks.
+
+JH:  Yeah.
+
+OP:  You have a follow-up question from Marc Cohodes from Rocker Partners.
+     Please proceed with your question.
+
+MC:  Jen-Hsun, don't get me wrong - I give you a lot of credit - you put an axe
+     in the head of these 3DFX guys. But back to this Edom and where you're
+     going to get you growth. I mean, Edom's customers include Acer and NEC and
+     a lot of these Asian PC guys who are just dying. And your tier-1 growth,
+     Jen-Hsun, just doesn't exist in the past few quarters. I mean, you've been
+     getting it through Edom. So, the PC business is clearly worse than it was
+     three months ago, but yet you keep saying that there's no change in
+     guidance. Well, if the business is worse, and there's no change in
+     guidance, what really gives, here? I mean, what gives?
+
+JH:  Yeah.  Well, Marc, we can only analyze our business to the extent we can
+     analyze our business, and the truth of the matter is we don't know what we
+     don't know.  However, let's talk about Edom specifically.  By the way, Edom
+     is our gateway to Taiwan.  There
+<PAGE>
+
+NVIDIA -- December 18, 2000                                              Page 20
+
+
+     are many, many customers that we serve directly behind Edom. Edom is our
+     distributor, right? And so the way to think about it is that Taiwan is a
+     strategic hub, and a strategic distribution channel for the world, not just
+     the Asian manufacturers. So, let me give you some specific examples.
+
+          Through AsusTech, we serve Sony and HP. Through LeadTek we serve
+     Fujitsu-Siemens, Legend in China. I'm not sure who exactly we serve NEC
+     with in Taiwan. Acer is done directly by Acer. Also, the system builder arm
+     of Acer buys our chips, puts it on an add-in card, and sells it globally in
+     system builders.
+
+          So, all of those are OEMs that are served through Taiwan. Probably the
+     one that I need to emphasize the most here, so that we have perfect
+     clarity, is system builders. System builders are thousands of customers all
+     over the world, that I can't even name, and these are served by all of
+     these graphics add-in card customers. And they're geographically so
+     diverse, from Australia to England to Germany to France to.. you know, on
+     and on and on. So, all of these countries are served... we serve all of
+     these countries by taking our brand to Taiwan. These add-in card
+     manufacturers then take our basic reference design kit and the basic
+     drivers, and they take it and supply manufacturing, customer support, local
+     presence and distribute our products that way.
+
+          And as you know, the system builder marketplace, although relatively
+     soft in Q3, is relatively strong in Q4. And so that's what we're seeing. I
+     guess we can only see what see, but then the other part of it has to come
+     from the fact that be believe that our new products will help us drive our
+     growth. GeForce2 MX was announced last quarter and that particular shipment
+     is just on fire right now, and we're going to continue to build as many
+     GeForce2 MXs as we can, and GeForce2 MX is bringing the GPU into the
+     mainstream market place. And any new market share that it captures is a
+     good thing, and even if it replaces a TNT 2, that's a good thing. We're
+     simply replacing a TNT2 with a higher premium, higher ASP product.
+
+          So, new products, a transitioning of the older family of products by
+     the new products, and also new markets that we serve, that will be
+     announced relatively shortly, here, will continue to drive our growth.
+
+MC:  Okay, thanks.
+
+JH:  Thanks, Marc.
+
+OP:  There are no further questions.  I'd like to turn the conference back to
+     you.
+
+JH:  Well, thank you very much.  This is was an exciting morning.  I'm glad we
+     were able to answer your questions, and we look forward to talking to you
+     at the end of our quarter.
+<PAGE>
+
+NVIDIA -- December 18, 2000                                              Page 21
+
+
+     Our end of quarter is January, and that's our fiscal end of the year as
+     well, so we look forward to talking to you again. Thank you very much.
+
+OP:  Ladies and gentlemen, that does conclude your conference call for today.
+     You may disconnect and thank you for participating.
+
+[End of conference call]
+
+NVIDIA plans to file a Registration Statement on SEC Form S-4 in connection with
+the transaction, and NVIDIA and 3dfx expects to mail a Proxy
+Statement/Prospectus to shareholders of 3dfx containing information about the
+transaction.  Investors and security holders are urged to read the Registration
+Statement and the Proxy Statement/Prospectus carefully when they are available.
+The Registration Statement and the Proxy Statement/Prospectus will contain
+important information about NVIDIA, 3dfx, the transaction and related matters.
+Investors and security holders will be able to obtain free copies of these
+documents through the website maintained by the U.S. Securities and Exchange
+Commission at http://www.sec.gov.  Free copies of the Proxy Statement/Prospectus
+and these other documents may also be obtained from NVIDIA by directing a
+request through the Investors Relations portion of NVIDIA's website at
+http://www.nvidia.com or by mail to NVIDIA, 3535 Monroe Street, Santa Clara, CA
+95051, attention: Investor Relations, telephone:  (408) 615-2500.
+
+In addition to the Registration Statement and the Proxy Statement/Prospectus,
+NVIDIA and 3dfx file annual, quarterly and special reports, proxy statements and
+other information with the Securities and Exchange Commission.  You may read and
+copy any reports, statements or other information filed by NVIDIA or 3dfx at the
+SEC public reference rooms at 450 Fifth Street, N.W., Washington, D.C. 20549 or
+at any of the Commission's other public reference rooms in New York, New York
+and Chicago, Illinois.  Please call the Commission at 1-800-SEC-0330 for further
+information on the public reference rooms.  NVIDIA's and 3dfx's filings with the
+Commission are also available to the public from commercial document-retrieval
+services and at the website maintained by the Commission at http://www.sec.gov.
+                                                            ------------------
+
+     Interests of Certain Persons in the Transaction.
+
+The directors and executive officers of NVIDIA and 3dfx have interests in the
+transaction, some of which may differ from, or may be in addition to, those of
+3dfx's shareholders generally.  A description of the interests that NVIDIA's and
+3dfx's directors and executive officers have in the transaction will be
+available in the Proxy Statement/Prospectus.  3dfx will be and certain of its
+directors, executive officers and other members of 3dfx's management and
+employees may be soliciting proxies from 3dfx shareholders in favor of the
+transaction.  The directors and officers of NVIDIA may be deemed to be
+participants in 3dfx's solicitation of proxies.  Information concerning the
+participants will be set forth in the Proxy Statement/Prospectus when its filed
+with the Securities and Exchange Commission.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

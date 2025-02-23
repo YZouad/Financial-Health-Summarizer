@@ -1,0 +1,125 @@
+<SEC-DOCUMENT>0001045810-25-000013.txt : 20250214
+<SEC-HEADER>0001045810-25-000013.hdr.sgml : 20250214
+<ACCEPTANCE-DATETIME>20250214061204
+ACCESSION NUMBER:		0001045810-25-000013
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20241231
+FILED AS OF DATE:		20250214
+DATE AS OF CHANGE:		20250214
+EFFECTIVENESS DATE:		20250214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NVIDIA CORP
+		CENTRAL INDEX KEY:			0001045810
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				943177549
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0126
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-23915
+		FILM NUMBER:		25622891
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2788 SAN TOMAS EXPRESSWAY
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95051
+		BUSINESS PHONE:		408-486-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		2788 SAN TOMAS EXPRESSWAY
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95051
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NVIDIA CORP/DE
+		DATE OF NAME CHANGE:	20020612
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NVIDIA CORP/CA
+		DATE OF NAME CHANGE:	19980303
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com="http://www.sec.gov/edgar/common" xmlns="http://www.sec.gov/edgar/thirteenffiler">
+  <schemaVersion>X0202</schemaVersion>
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001045810</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>12-31-2024</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>12-31-2024</reportCalendarOrQuarter>
+      <isAmendment>false</isAmendment>
+      <filingManager>
+        <name>NVIDIA CORP</name>
+        <address>
+          <com:street1>2788 SAN TOMAS EXPRESSWAY</com:street1>
+          <com:city>SANTA CLARA</com:city>
+          <com:stateOrCountry>CA</com:stateOrCountry>
+          <com:zipCode>95051</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-23915</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Rebecca Peters</name>
+      <title>VP, Deputy General Counsel and Assistant Secretary</title>
+      <phone>408-486-2000</phone>
+      <signature>/s/ Rebecca Peters</signature>
+      <city>Santa Clara</city>
+      <stateOrCountry>CA</stateOrCountry>
+      <signatureDate>02-14-2025</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>5</tableEntryTotal>
+      <tableValueTotal>304524721</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>information_table.xml
+<DESCRIPTION>INFORMATION TABLE
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><infoTable><nameOfIssuer>APPLIED DIGITAL CORP</nameOfIssuer><titleOfClass>COM NEW</titleOfClass><cusip>038169207</cusip><value>58950622</value><shrsOrPrnAmt><sshPrnamt>7716050</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><votingAuthority><Sole>7716050</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>ARM HOLDINGS PLC</nameOfIssuer><titleOfClass>SPONSORED ADS</titleOfClass><cusip>042068205</cusip><value>135850077</value><shrsOrPrnAmt><sshPrnamt>1101249</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><votingAuthority><Sole>1101249</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>NEBIUS GROUP N.V.</nameOfIssuer><titleOfClass>SHS CLASS A</titleOfClass><cusip>N97284108</cusip><value>32976185</value><shrsOrPrnAmt><sshPrnamt>1190476</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><votingAuthority><Sole>1190476</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>RECURSION PHARMACEUTICALS IN</nameOfIssuer><titleOfClass>CL A</titleOfClass><cusip>75629V104</cusip><value>52095014</value><shrsOrPrnAmt><sshPrnamt>7706363</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>SOLE</investmentDiscretion><votingAuthority><Sole>7706363</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable><infoTable><nameOfIssuer>WERIDE INC</nameOfIssuer><titleOfClass>SPONSORED ADS</titleOfClass><cusip>950915108</cusip><value>24652823</value><shrsOrPrnAmt><sshPrnamt>1738563</sshPrnamt><sshPrnamtType>SH</sshPrnamtType></shrsOrPrnAmt><investmentDiscretion>DFND</investmentDiscretion><votingAuthority><Sole>1738563</Sole><Shared>0</Shared><None>0</None></votingAuthority></infoTable></informationTable><!-- tableEntryCount=5 tableValueTotal=304524721 -->
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

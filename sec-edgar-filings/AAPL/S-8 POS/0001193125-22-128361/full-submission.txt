@@ -1,0 +1,1520 @@
+<SEC-DOCUMENT>0001193125-22-128361.txt : 20220429
+<SEC-HEADER>0001193125-22-128361.hdr.sgml : 20220429
+<ACCEPTANCE-DATETIME>20220428185932
+ACCESSION NUMBER:		0001193125-22-128361
+CONFORMED SUBMISSION TYPE:	S-8 POS
+PUBLIC DOCUMENT COUNT:		6
+FILED AS OF DATE:		20220429
+DATE AS OF CHANGE:		20220428
+EFFECTIVENESS DATE:		20220429
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Apple Inc.
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0924
+
+	FILING VALUES:
+		FORM TYPE:		S-8 POS
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-165214
+		FILM NUMBER:		22869020
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE APPLE PARK WAY
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		(408) 996-1010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE APPLE PARK WAY
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLE INC
+		DATE OF NAME CHANGE:	20070109
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APPLE COMPUTER INC
+		DATE OF NAME CHANGE:	19970808
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>S-8 POS
+<SEQUENCE>1
+<FILENAME>d279200ds8pos.htm
+<DESCRIPTION>S-8 POS
+<TEXT>
+<HTML><HEAD>
+<TITLE>S-8 POS</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>As filed with the Securities and Exchange Commission on April 28, 2022 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="right"><B>Registration <FONT STYLE="white-space:nowrap">No.&nbsp;333-195509</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="right"><B>Registration <FONT STYLE="white-space:nowrap">No.&nbsp;333-165214</FONT> </B></P>
+<P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Arial Narrow" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Arial Narrow" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Arial Narrow" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:18pt; font-family:Arial Narrow" ALIGN="center"><B>POST-EFFECTIVE
+AMENDMENT NO. 1 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Arial Narrow" ALIGN="center"><B>FILE NO. <FONT STYLE="white-space:nowrap">333-195509</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Arial Narrow" ALIGN="center"><B>POST-EFFECTIVE AMENDMENT NO. 2 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Arial Narrow" ALIGN="center"><B>FILE NO. <FONT STYLE="white-space:nowrap">333-165214</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Arial Narrow" ALIGN="center"><B>TO </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Arial Narrow" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">S-8</FONT> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Arial Narrow" ALIGN="center"><B>REGISTRATION STATEMENT </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Arial Narrow" ALIGN="center"><B>UNDER THE SECURITIES ACT OF 1933 </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="center">
+
+
+<IMG SRC="g279200g56j44.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:24pt; font-family:Arial Narrow" ALIGN="center"><B>Apple Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>(Exact name of Registrant as specified in its charter) </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Arial Narrow; "><B>California</B></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><FONT STYLE="font-family:Arial Narrow; "><B><FONT STYLE="white-space:nowrap">94-2404110</FONT></B></FONT></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Arial Narrow" ALIGN="center"><B>(State or other jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Arial Narrow" ALIGN="center"><B>incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Arial Narrow" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Arial Narrow" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>One Apple Park Way </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>Cupertino, California 95014 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Arial Narrow" ALIGN="center"><B>(Address of principal executive offices) (Zip Code) </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>Apple Inc. 2003
+Employee Stock Plan </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>Apple Inc. 2014 Employee Stock Plan </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>Apple Inc. 2022 Employee Stock Plan </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Arial Narrow" ALIGN="center"><B>(Full title of the plan) </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>Katherine Adams
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>Senior Vice President, General Counsel and Secretary </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>Apple Inc. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>One Apple Park Way
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>Cupertino, California 95014 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Arial Narrow" ALIGN="center"><B>(Name and address of agent for service) </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>(408) <FONT
+STYLE="white-space:nowrap">996-1010</FONT> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Arial Narrow" ALIGN="center"><B>(Telephone number, including area code, of agent for service) </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a <FONT STYLE="white-space:nowrap">non-accelerated</FONT> filer,
+a smaller reporting company, or an emerging growth company. See the definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer,&#148; &#147;smaller reporting company,&#148; and &#147;emerging growth company&#148; in Rule <FONT
+STYLE="white-space:nowrap">12b-2</FONT> of the Exchange Act. </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="16%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="59%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">Large&nbsp;accelerated&nbsp;filer</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="font-family:Times New Roman">&#9746;</FONT></FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">Accelerated&nbsp;filer</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="white-space:nowrap">Non-accelerated&nbsp;filer</FONT></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">Smaller&nbsp;reporting&nbsp;company</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">Emerging growth company</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="font-family:Times New Roman">&#9744;</FONT></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section&nbsp;7(a)(2)(B) of the Securities Act.&nbsp;&nbsp;<FONT STYLE="font-family:Times New Roman">&#9744;</FONT> </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B>EXPLANATORY NOTE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">On April&nbsp;25, 2014, Apple Inc. (the &#147;Company&#148; or &#147;Registrant&#148;) filed a Registration Statement on Form <FONT
+STYLE="white-space:nowrap">S-8,</FONT> Registration <FONT STYLE="white-space:nowrap">No.&nbsp;333-195509</FONT> (the &#147;2014 Registration Statement&#148;) with the U.S. Securities and Exchange Commission (the &#147;Commission&#148;) to register
+shares of the Registrant&#146;s Common Stock, $0.00001 par value per share (&#147;Common Stock&#148;) reserved for issuance under the Company&#146;s 2014 Employee Stock Plan (as amended and restated as of October&nbsp;1, 2017, the &#147;2014
+Plan&#148;). The 2014 Registration Statement also covered an additional indeterminate number of shares, options and rights that may be offered or issued pursuant to the 2014 Plan as a result of one or more adjustments under the 2014 Plan to prevent
+dilution resulting from one or more stock splits, stock dividends or similar transactions. Additionally, on October&nbsp;31, 2019, the Company filed a Post-Effective Amendment No.&nbsp;1 to the Registration Statement on Form <FONT
+STYLE="white-space:nowrap">S-8,</FONT> Registration <FONT STYLE="white-space:nowrap">No.&nbsp;333-165214</FONT> (the &#147;2003 Registration Statement&#148;), to cover the issuance of shares under the Company&#146;s 2003 Employee Stock Plan (the
+&#147;2003 Plan&#148;) pursuant to the 2014 Plan. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">The Board of Directors of the Company previously adopted, subject to shareholder approval,
+the Company&#146;s 2022 Employee Stock Plan (the &#147;2022 Plan&#148;). The Company&#146;s shareholders approved the 2022 Plan at the Company&#146;s Annual Meeting of Shareholders held on March&nbsp;4, 2022 (the &#147;Approval Date&#148;). The
+Company&#146;s grant authority under the 2014 Plan terminates upon registration of shares available under the 2022 Plan on Form <FONT STYLE="white-space:nowrap">S-8.</FONT> The 2022 Plan, which became effective upon shareholder approval, permits the
+granting of stock options, stock appreciation rights, stock grants and restricted stock units (&#147;RSUs&#148;). Employees and consultants of the Company and its subsidiaries are eligible to participate in the 2022 Plan. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">The number of shares of Common Stock that may be issued or transferred pursuant to awards under the 2022 Plan will equal: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left">510&nbsp;million shares; plus </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left">the number of shares available for new award grants under the 2014 Plan on the Approval Date; plus
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left">the number of any shares subject to stock options granted under the 2014 Plan that were outstanding as of the
+Approval Date which expire or terminate after the Approval Date; plus </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left">two times the number of shares subject to RSUs or restricted awards granted under the 2014 Plan that were
+outstanding as of the Approval Date that are forfeited or terminated or with respect to which shares are withheld to satisfy tax withholding obligations after the Approval Date. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">The shares described in (b) (to the extent previously registered for issuance under the 2003 Registration Statement or the 2014 Registration
+Statement), (c) and (d)&nbsp;above are, collectively, the &#147;Prior Plan&#146;s Shares&#148;. The maximum number of shares that may be issued or transferred pursuant to awards under the 2022 Plan as a result of applying the share limit formula
+described in (a), (b), (c), and (d)&nbsp;above will not exceed 1,274,374,682 shares. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">In accordance with Item 512(a)(1)(iii) of Regulation <FONT
+STYLE="white-space:nowrap">S-K</FONT> and Securities Act Forms Compliance and Disclosure Interpretations Question 126.43, this Post-Effective Amendment No.&nbsp;1 to the 2014 Registration Statement and Post-Effective Amendment No.&nbsp;2 to the 2003
+Registration Statement (together, the &#147;Post-Effective Amendments&#148;) are hereby filed to cover the issuance of the Prior Plan&#146;s Shares pursuant to the 2022 Plan. These Post-Effective Amendments also incorporate by reference as an
+exhibit hereto a copy of the 2022 Plan and file a new opinion as to the validity of the shares of Common Stock that were previously issuable pursuant to the 2003 Plan and the 2014 Plan. These Post-Effective Amendments amend and supplement the items
+listed below. All other items of each of the 2003 Registration Statement and the 2014 Registration Statement are incorporated herein by reference without change. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">1 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B>PART I </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">INFORMATION REQUIRED IN THE </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">SECTION
+10(a) PROSPECTUS </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left"><B>Plan Information </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">Not required to be filed with these Post-Effective Amendments. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;2.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left"><B>Registrant Information and Employee Plan Annual Information </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">Not required to be filed with these Post-Effective Amendments. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B>PART II </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">INFORMATION REQUIRED IN THE </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">REGISTRATION STATEMENT </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;3.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left"><B>Incorporation of Certain Documents by Reference </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">The following documents of the Registrant filed with the Commission are incorporated herein by reference: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left">The Company&#146;s Annual Report on <A HREF="http://www.sec.gov/Archives/edgar/data/../../../ix?doc=/Archives/edgar/data/320193/000032019321000105/aapl-20210925.htm">Form
+ <FONT STYLE="white-space:nowrap">10-K</FONT></A> for its fiscal year ended September&nbsp;25, 2021, filed with the Commission on October&nbsp;29, 2021 (Commission File <FONT STYLE="white-space:nowrap">No.&nbsp;001-36743)</FONT> (the &#147;2021 Form
+<FONT STYLE="white-space:nowrap">10-K&#148;);</FONT> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left">All other reports of the Company filed with the Commission pursuant to Section&nbsp;13(a) or 15(d) of the
+Securities Exchange Act of 1934, as amended (the &#147;Exchange Act&#148;) since the end of the fiscal year covered by the Company&#146;s Annual Report referred to in (a)&nbsp;above; and </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left">The description of the Company&#146;s Common Stock contained in&nbsp;the Registrant&#146;s Registration Statement
+on Form <FONT STYLE="white-space:nowrap">8-A</FONT> filed under the Exchange Act on October&nbsp;30, 1981, as updated by <A HREF="http://www.sec.gov/Archives/edgar/data/320193/000032019321000105/a10-kexhibit419252021.htm">Exhibit 4.1</A>&nbsp;of the
+2021 <FONT STYLE="white-space:nowrap">Form&nbsp;10-K,&nbsp;and</FONT> any other amendment or report filed with the Commission for the purpose of updating such description. </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">All documents subsequently filed by the Company pursuant to Sections 13(a), 13(c), 14 and 15(d) of the Exchange Act, after the date of this
+Registration Statement and prior to the filing of a post-effective amendment which indicates that all securities offered hereby have been sold or which deregisters all securities then remaining unsold, shall be deemed to be incorporated by reference
+into this Registration Statement and to be a part hereof from the date of filing of such documents; provided, however, that documents or information deemed to have been furnished and not filed in accordance with Commission rules shall not be deemed
+incorporated by reference into this Registration Statement. Any statement contained in a document incorporated by reference herein shall be deemed to be modified or superseded for purposes of this Registration Statement to the extent that a
+statement contained herein or in any other subsequently filed document which also is or is deemed to be incorporated by reference herein modifies or supersedes such statement. Any such statement so modified or superseded shall not be deemed, except
+as so modified or amended, to constitute a part of this Registration Statement. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">2 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;4.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left"><B>Description of Securities </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">Not applicable. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;5.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left"><B>Interests of Named Experts and Counsel </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">Not applicable. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;6.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left"><B>Indemnification of Directors and Officers </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">Section&nbsp;317 of the California Corporations Code (the &#147;California Code&#148;), authorizes a corporation to indemnify, subject to certain
+exceptions, any person who was or is a party or is threatened to be made a party to any proceeding (other than an action by or in the right of the corporation to procure a judgment in its favor) by reason of the fact that such person is or was an
+agent of the corporation, as the term &#147;agent&#148; is defined in section 317(a) of the California Code, against expenses, judgments, fines, settlements and other amounts actually and reasonably incurred in connection with such proceeding if
+such person acted in good faith and in a manner such person reasonably believed to be in the best interests of the corporation and, in the case of a criminal proceeding, had no reasonable cause to believe the conduct of such person was unlawful. A
+corporation is further authorized to indemnify, subject to certain exceptions, any person who was or is a party or is threatened to be made a party to any threatened, pending, or completed action by or in the right of the corporation to procure a
+judgment in its favor by reason of the fact that the person is or was an agent of the corporation, against expenses actually and reasonably incurred by that person in connection with the defense or settlement of the action if the person acted in
+good faith, in a manner the person believed to be in the best interests of the corporation and its shareholders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">Section&nbsp;204 of the
+California Code provides that a corporation&#146;s articles of incorporation may not eliminate or limit the liability of directors (i)&nbsp;for acts or omissions that involve intentional misconduct or a knowing and culpable violation of law,
+(ii)&nbsp;for acts or omissions that a director believes to be contrary to the best interests of the corporation or its shareholders or that involve the absence of good faith on the part of the director, (iii)&nbsp;for any transaction from which a
+director derived an improper personal benefit, (iv)&nbsp;for acts or omissions that show a reckless disregard for the director&#146;s duty to the corporation or its shareholders in circumstances in which the director was aware, or should have been
+aware, in the ordinary course of performing a director&#146;s duties, of a risk of a serious injury to the corporation or its shareholders, (v)&nbsp;for acts or omissions that constitute an unexcused pattern of inattention that amounts to an
+abdication of the director&#146;s duty to the corporation or its shareholders, (vi)&nbsp;under Section&nbsp;310 of the California Code or (vii)&nbsp;under Section&nbsp;316 of the California Code. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">Section&nbsp;204 further provides that a corporation&#146;s articles of incorporation may not eliminate or limit the liability of directors for
+any act or omission occurring prior to the date when the provision became effective or any act or omission as an officer, notwithstanding that the officer is also a director or that his or her actions, if negligent or improper, have been ratified by
+the directors. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">3 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">Further, Section&nbsp;317 has no effect on claims arising under federal or state securities
+laws and does not affect the availability of injunctions and other equitable remedies available to a corporation&#146;s shareholders for any violation of a director&#146;s fiduciary duty to the corporation or its shareholders. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">The Registrant&#146;s Restated Articles of Incorporation provide for the elimination of liability for monetary damages for its directors to the
+fullest extent permissible under California law and authorize it to provide indemnification to directors, officers, employees or other agents through bylaw provisions, agreements with agents, vote of shareholders or disinterested directors or
+otherwise, in excess of the indemnification otherwise permitted by Section&nbsp;317 of the California Code, subject only to the applicable limits set forth in Section&nbsp;204 of the California Code with respect to actions for breach of duty to the
+Registrant and its shareholders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">The Registrant&#146;s Amended and Restated Bylaws provide that it shall indemnify its directors and
+officers against expenses, judgments, fines, settlements, and other amounts actually and reasonably incurred in connection with any proceeding, arising by reason of the fact that such person is or was its agent. As included in the Registrant&#146;s
+Amended and Restated Bylaws, a &#147;director&#148; or &#147;officer&#148; includes any person (a)&nbsp;who is or was a director or officer of the Registrant, (b)&nbsp;who is or was serving at the request of the Registrant as a director or officer
+of another foreign or domestic corporation, partnership, limited liability company, joint venture, trust or other enterprise, or (c)&nbsp;who was a director or officer of a corporation which was a predecessor corporation of the Registrant or of
+another enterprise at the request of such predecessor corporation. The Registrant&#146;s Amended and Restated Bylaws also contain provisions authorizing it, to the extent and in the manner permitted by the California Code, to indemnify each of its
+employees and agents (other than directors and officers) against expenses, judgments, fines, settlements, and other amounts actually and reasonably incurred in connection with any proceeding, arising by reason of the fact that such person is or was
+its agent. As included in the Registrant&#146;s Amended and Restated Bylaws, an &#147;employee&#148; or &#147;agent&#148; (other than a director or officer), includes any person who (a)&nbsp;is or was an employee or agent of the Registrant,
+(b)&nbsp;is or was serving at the Registrant&#146;s request as an employee or agent of another foreign or domestic corporation, partnership, limited liability company, joint venture, trust or other enterprise, or (c)&nbsp;was an employee or agent of
+a corporation which was a predecessor corporation of the Registrant or of another enterprise at the request of such predecessor corporation. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">The Registrant&#146;s Amended and Restated Bylaws further provide that it may advance expenses incurred in defending any proceeding for which
+indemnification is required or permitted pursuant to its Amended and Restated Bylaws, following authorization thereof by the board of directors, prior to the final disposition of the proceeding upon receipt of an undertaking by or on behalf of the
+indemnified party to repay that amount if it shall be determined ultimately that the indemnified person is not entitled to be indemnified as authorized by its Amended and Restated Bylaws. The indemnification provided for in the Registrant&#146;s
+Amended and Restated Bylaws for acts, omissions or transactions while acting in the capacity of, or while serving as, a director or officer of the Registrant but not involving a breach of duty to the Registrant and its shareholders will not be
+deemed exclusive of any other rights those seeking indemnification may be entitled to under any bylaw, agreement, vote of shareholders or disinterested directors, or otherwise, to the extent the additional rights to indemnification are authorized in
+its Restated Articles of Incorporation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">In addition, the Registrant has entered into indemnification agreements with each of its directors
+and officers, and maintains directors&#146; and officers&#146; liability insurance under which its directors and officers are insured against loss (as defined in the policy) as a result of certain claims brought against them in such capacities. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">The foregoing summaries are necessarily subject to the complete text of the statutes, the Restated Articles of Incorporation, the Amended and
+Restated Bylaws and the agreements referred to above and are qualified in their entirety by reference thereto. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">4 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;7.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left"><B>Exemption from Registration Claimed </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">Not applicable. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;8.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left"><B>Exhibits </B></P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="77%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="3%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="8%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD COLSPAN="3" VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="5" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Arial Narrow" ALIGN="center"><B>Incorporated by Reference</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="10"></TD>
+<TD HEIGHT="10" COLSPAN="2"></TD>
+<TD HEIGHT="10" COLSPAN="2"></TD>
+<TD HEIGHT="10" COLSPAN="2"></TD>
+<TD HEIGHT="10" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Arial Narrow; " ALIGN="center"><B>Exhibit<BR>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Arial Narrow; "><B>Exhibit Description</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Arial Narrow; " ALIGN="center"><B>Form</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Arial Narrow; " ALIGN="center"><B>Exhibit</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Arial Narrow" ALIGN="center"><B>Filing Date/</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Arial Narrow; " ALIGN="center"><B>Period End<BR>Date</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">&nbsp;&nbsp;5.1*</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Arial Narrow; "><A HREF="d279200dex51.htm">Opinion of counsel as to legality of securities being registered. </A></FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">23.1*</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Arial Narrow; "><A HREF="d279200dex51.htm">Consent of counsel (included in Exhibit 5.1). </A></FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">23.2*</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Arial Narrow; "><A HREF="d279200dex232.htm">Consent of Independent Registered Public Accounting Firm. </A></FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">24.1*</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Arial Narrow; "><A HREF="#tx279200_sig">Power of Attorney (contained on signature page hereto). </A></FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">99.1</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Arial Narrow; "><A HREF="http://www.sec.gov/Archives/edgar/data/320193/000032019317000070/a10-kexhibit1082017.htm">2014 Employee Stock Plan, as amended and restated as of October&nbsp;1,
+2017.</A></FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="white-space:nowrap">10-K</FONT></FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">10.8</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">09/30/2017</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">99.2</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><FONT STYLE="font-family:Arial Narrow; "><A HREF="http://www.sec.gov/Archives/edgar/data/320193/000119312522066169/d294699dex101.htm">2022 Employee Stock Plan. </A></FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Arial Narrow; "><FONT STYLE="white-space:nowrap">8-K</FONT></FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">10.1</FONT></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP><FONT STYLE="font-family:Arial Narrow; ">03/04/2022</FONT></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left">Filed herewith. </P></TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.</B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left"><B>Undertakings </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">(a)&nbsp;&nbsp;&nbsp;&nbsp; The undersigned Registrant hereby undertakes: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Arial Narrow">(1)&nbsp;&nbsp;&nbsp;&nbsp; To file, during any period in which offers or sales are being made, a post-effective amendment to this
+Registration Statement; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:13%; font-size:10pt; font-family:Arial Narrow">(i)&nbsp;&nbsp;&nbsp;&nbsp; to include any prospectus required by Section&nbsp;10(a)(3) of the Securities Act of
+1933; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:13%; font-size:10pt; font-family:Arial Narrow">(ii) &nbsp;&nbsp;&nbsp;&nbsp;to reflect in the prospectus any facts or events arising after the effective date of the registration
+statement (or the most recent post-effective amendment thereof) which, individually or in the aggregate, represent a fundamental change in the information set forth in the registration statement. Notwithstanding the foregoing, any increase or
+decrease in volume of securities offered (if the total dollar value of securities offered would not exceed that which was registered) and any deviation from the low or high end of the estimated maximum offering range may be reflected in the form of
+prospectus filed with the Commission pursuant to Rule 424(b) if, in the aggregate, the changes in volume and price represent no more than a 20% change in the maximum aggregate offering price set forth in the &#147;Calculation of Registration
+Fee&#148; table in the effective Registration Statement; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:13%; font-size:10pt; font-family:Arial Narrow">(iii) &nbsp;&nbsp;&nbsp;&nbsp;to include any material information with respect to
+the plan of distribution not previously disclosed in the Registration Statement or any material change to such information in the Registration Statement; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Arial Narrow">Provided, however, that paragraphs (a)(1)(i) and (a)(1)(ii) do not apply if the information required to be included in a post-effective amendment
+by those paragraphs is contained in reports filed with or furnished to the Commission by the Registrant pursuant to Section&nbsp;13 or Section&nbsp;15(d) of the Exchange Act that are incorporated by reference in the Registration Statement. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">5 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Arial Narrow">(2)&nbsp;&nbsp;&nbsp;&nbsp; That, for the purpose of determining any liability
+under the Securities Act of 1933, each such post-effective amendment shall be deemed to be a new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial
+bona fide offering thereof. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; text-indent:4%; font-size:10pt; font-family:Arial Narrow">(3)&nbsp;&nbsp;&nbsp;&nbsp; To remove from registration by means of a post-effective amendment
+any of the securities being registered which remain unsold at the termination of the offering. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">(b)&nbsp;&nbsp;&nbsp;&nbsp; The undersigned
+Registrant hereby undertakes that, for purposes of determining any liability under the Securities Act of 1933, each filing of the Registrant&#146;s annual report pursuant to Section&nbsp;13(a) or Section&nbsp;15(d) of the Securities Exchange Act of
+1934 (and, where applicable, each filing of an employee benefit plan&#146;s annual report pursuant to Section&nbsp;15(d) of the Securities Exchange Act of 1934) that is incorporated by reference in the Registration Statement shall be deemed to be a
+new registration statement relating to the securities offered therein, and the offering of such securities at that time shall be deemed to be the initial bona fide offering thereof. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">(c)&nbsp;&nbsp;&nbsp;&nbsp; Insofar as indemnification for liabilities arising under the Securities Act of 1933 may be permitted to directors,
+officers and controlling persons of the Registrant pursuant to the foregoing provisions, or otherwise, the Registrant has been advised that in the opinion of the Securities and Exchange Commission such indemnification is against public policy as
+expressed in the Act and is, therefore, unenforceable. In the event that a claim for indemnification against such liabilities (other than the payment by the Registrant of expenses incurred or paid by a director, officer or controlling person of the
+Registrant in the successful defense of any action, suit or proceeding) is asserted by such director, officer or controlling person in connection with the securities being registered, the Registrant will, unless in the opinion of its counsel the
+matter has been settled by controlling precedent, submit to a court of appropriate jurisdiction the question whether such indemnification by it is against public policy as expressed in the Act and will be governed by the final adjudication of such
+issue. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">6 </P>
+
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center"><B><A NAME="tx279200_sig"></A>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">Pursuant to the requirements of the Securities Act of 1933, the Registrant certifies that it has reasonable grounds to believe that it meets all
+of the requirements for filing on Form <FONT STYLE="white-space:nowrap">S-8</FONT> and has duly caused these Post-Effective Amendments to the Registration Statement to be signed on its behalf by the undersigned, thereunto duly authorized, in the
+City of Cupertino, State of California, on April 28, 2022. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="6%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Apple Inc.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">By:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">/s/ Luca Maestri</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Arial Narrow; ">Luca Maestri</FONT></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Senior Vice President,</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">Chief Financial
+Officer</P></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints
+Katherine Adams and Luca Maestri, and each of them, his or her true and lawful <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact</FONT></FONT> and agents, each with full power of substitution and resubstitution, for
+him or her and in his or her name, place and stead, in any and all capacities, to sign any and all amendments, including post-effective amendments, to these Post-Effective Amendments to the Registration Statement, and to file the same, with exhibits
+thereto and other documents in connection therewith, with the Securities and Exchange Commission, granting unto said <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact</FONT></FONT> and agents and each of them, full
+power and authority to do and perform each and every act and thing requisite and necessary to be done, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming all that each of said <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">attorneys-in-fact</FONT></FONT> and agents or their substitute or substitutes may lawfully do or cause to be done by virtue hereof. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">Pursuant to the requirements of the Securities Act of 1933, these Post-Effective Amendments to the Registration Statement have been signed by the
+following persons in the capacities and on the dates indicated. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="38%"></TD>
+
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="44%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="16%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Arial Narrow; " ALIGN="center"><B>Name</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Arial Narrow; " ALIGN="center"><B>Title</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Arial Narrow; " ALIGN="center"><B>Date</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">/s/ Timothy D. Cook</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">TIMOTHY D. COOK</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Chief Executive Officer and Director</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">(Principal Executive Officer)</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Arial Narrow; ">April 28, 2022</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">/s/ Luca Maestri</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">LUCA MAESTRI</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Senior Vice President, Chief Financial Officer</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">(Principal Financial Officer)</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Arial Narrow; ">April 28, 2022</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">/s/ Chris Kondo</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">CHRIS KONDO</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Senior Director of Corporate Accounting</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">(Principal Accounting Officer)</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Arial Narrow; ">April 28, 2022</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">/s/ James A. Bell</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">JAMES A. BELL</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Director</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Arial Narrow; ">April 28, 2022</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">/s/ Al Gore</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">AL
+GORE</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Director</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Arial Narrow; ">April 28, 2022</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">/s/ Alex Gorsky</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">ALEX
+GORSKY</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Director</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Arial Narrow; ">April 28, 2022</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">/s/ Andrea Jung</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">ANDREA JUNG</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Director</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Arial Narrow; ">April 28, 2022</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">/s/ Arthur D. Levinson</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">ARTHUR D. LEVINSON</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Director and Chair of the Board</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Arial Narrow; ">April 28, 2022</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">/s/ Monica Lozano</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">MONICA LOZANO</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Director</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Arial Narrow; ">April 28, 2022</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">/s/ Ronald D. Sugar</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">RONALD D. SUGAR</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Director</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Arial Narrow; ">April 28, 2022</FONT></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Arial Narrow">/s/ Susan L. Wagner</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">SUSAN L. WAGNER</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">Director</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" NOWRAP ALIGN="center"><FONT STYLE="font-family:Arial Narrow; ">April 28, 2022</FONT></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">7 </P>
+
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5.1
+<SEQUENCE>2
+<FILENAME>d279200dex51.htm
+<DESCRIPTION>EX-5.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-5.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="right"><B>Exhibit 5.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="63%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="26%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="bottom">
+
+
+<IMG SRC="g279200sp1.jpg" ALT="LOGO">
+</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">1271 Avenue of the Americas</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">New York, New
+York 10020-1401</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Tel: +1.212.906.1200 Fax: +1.212.751.4864</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">www.lw.com</P> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">FIRM / AFFILIATE OFFICES</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Arial Narrow; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">April&nbsp;28, 2022</P>
+<P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Apple Inc.</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">One Apple Park Way</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">Cupertino, California 95014</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Austin</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Beijing</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Boston</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Brussels</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Century&nbsp;City</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Chicago</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Dubai</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">D&#252;sseldorf</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Frankfurt</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Hamburg</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Hong Kong</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Houston</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">London</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Los Angeles</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Madrid</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">Milan</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Moscow</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Munich</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">New York</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Orange&nbsp;County</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Paris</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Riyadh</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">San Diego</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">San Francisco</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Seoul</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Shanghai</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Silicon&nbsp;Valley</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Singapore</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Tel Aviv</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">Tokyo</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Arial Narrow">Washington,&nbsp;D.C.</P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Arial Narrow; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">Re:</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow; " ALIGN="left">Post-Effective Amendment No.&nbsp;1 to Registration Statement on Form <FONT STYLE="white-space:nowrap">S-8</FONT>
+(File <FONT STYLE="white-space:nowrap">No.&nbsp;333-195509)</FONT> and Post-Effective Amendment No.&nbsp;2 to Registration Statement on Form <FONT STYLE="white-space:nowrap">S-8</FONT> (File No.&nbsp;333-165214) </P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">To the addressee set forth above: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">We have acted as
+special counsel to Apple Inc., a California corporation (the &#147;<B><I>Company</I></B>&#148;), in connection with Post-Effective Amendment No.&nbsp;1 to Registration Statement on Form <FONT STYLE="white-space:nowrap">S-8</FONT> (File <FONT
+STYLE="white-space:nowrap">No.&nbsp;333-195509)</FONT> and Post-Effective Amendment No.&nbsp;2 to Registration Statement on Form <FONT STYLE="white-space:nowrap">S-8</FONT> (File <FONT STYLE="white-space:nowrap">No.&nbsp;333-165214)</FONT> under the
+Securities Act of 1933, as amended (the &#147;<B><I>Act</I></B>&#148;), filed with the Securities and Exchange Commission (the &#147;<B><I>Commission</I></B>&#148;) on April&nbsp;28, 2022 (together, the &#147;<B><I>Post-Effective
+Amendments</I></B>&#148;) relating to shares of common stock, par value $0.00001 per share (the &#147;<B><I>Shares</I></B>&#148;), issuable under the Apple Inc. 2022 Employee Stock Plan (the &#147;<B><I>2022 Plan</I></B>&#148;) that were previously
+issuable under the Apple Inc. 2014 Employee Stock Plan. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">This opinion is being furnished in connection with the requirements of Item
+601(b)(5) of Regulation <FONT STYLE="white-space:nowrap">S-K</FONT> under the Act, and no opinion is expressed herein as to any matter pertaining to the contents of the Post-Effective Amendments or related prospectus, other than as expressly stated
+herein with respect to the issue of the Shares. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">As such counsel, we have examined such matters of fact and questions of law as we have
+considered appropriate for purposes of this letter. With your consent, we have relied upon certificates and other assurances of officers of the Company and others as to factual matters without having independently verified such factual matters. We
+are opining herein as to the California Corporations Code, and we express no opinion with respect to any other laws. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">Subject to the
+foregoing and the other matters set forth herein, it is our opinion that, as of the date hereof, when the Shares shall have been duly registered on the books of the transfer agent and registrar therefor in the name or on behalf of the purchaser, and
+have been issued by </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B>April 28, 2022 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow"><B>Page 2 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g279200sp2.jpg" ALT="LOGO">
+ </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">
+the Company against payment therefor in the circumstances contemplated by and pursuant to the 2022 Plan, and assuming in each case that the individual issuances, grants or awards under the 2022
+Plan are duly authorized by all necessary corporate action and duly issued, granted or awarded and exercised in accordance with the requirements of law and the 2022 Plan (and the agreements and awards duly adopted thereunder and in accordance
+therewith), the issue and sale of the Shares will have been duly authorized by all necessary corporate action of the Company, and the Shares will be validly issued, fully paid and nonassessable. In rendering the foregoing opinion, we have assumed
+that the Company will comply with any applicable notice requirements regarding uncertificated shares provided in the California Corporations Code. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Arial Narrow">This opinion is for your benefit in connection with the Post-Effective Amendments and may be relied upon by you and by persons entitled to rely
+upon it pursuant to the applicable provisions of the Act. We consent to your filing this opinion as an exhibit to the Post Effective Amendments. In giving such consent, we do not thereby admit that we are in the category of persons whose consent is
+required under Section&nbsp;7 of the Act or the rules and regulations of the Commission thereunder. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:55%; text-indent:-2%; font-size:10pt; font-family:Arial Narrow">Sincerely, </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:55%; text-indent:-2%; font-size:10pt; font-family:Arial Narrow">/s/ Latham &amp; Watkins <SMALL>LLP</SMALL> </P>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.2
+<SEQUENCE>3
+<FILENAME>d279200dex232.htm
+<DESCRIPTION>EX-23.2
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-23.2</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="right"><B>Exhibit 23.2 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow" ALIGN="center">CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Arial Narrow">We consent to the incorporation by reference in the Post-Effective Amendment No.&nbsp;1 to the Registration Statement <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">(Form&nbsp;S-8&nbsp;No.&nbsp;333-195509)</FONT></FONT> and in the Post-Effective Amendment No.&nbsp;2 to the Registration Statement
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">(Form&nbsp;S-8&nbsp;No.&nbsp;333-165214)</FONT></FONT> pertaining to the Apple Inc. 2003 Employee Stock Plan, Apple Inc. 2014 Employee Stock Plan and Apple Inc. 2022 Employee Stock
+Plan of our reports dated October&nbsp;28, 2021, with respect to the consolidated financial statements of Apple Inc., and the effectiveness of internal control over financial reporting of Apple Inc., included in its Annual Report (Form <FONT
+STYLE="white-space:nowrap">10-K)</FONT> for the year ended September&nbsp;25, 2021, filed with the Securities and Exchange Commission. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">/s/ Ernst&nbsp;&amp; Young LLP</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">San Jose,
+California</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:ARIAL; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Arial Narrow">April&nbsp;28, 2022</P></TD></TR>
+</TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g279200g56j44.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g279200g56j44.jpg
+M_]C_X  02D9)1@ ! 0(!>0%Y  #_X3[L:'1T<#HO+VYS+F%D;V)E+F-O;2]X
+M87 O,2XP+P \/WAP86-K970@8F5G:6X](N^[OR(@:60](E<U33!-<$-E:&E(
+M>G)E4WI.5&-Z:V,Y9"(_/@H\>#IX;7!M971A('AM;&YS.G@](F%D;V)E.FYS
+M.FUE=&$O(B!X.GAM<'1K/2)!9&]B92!835 @0V]R92 U+C,M8S Q,2 V-BXQ
+M-#4V-C$L(#(P,3(O,#(O,#8M,30Z-38Z,C<@(" @(" @("(^"B @(#QR9&8Z
+M4D1&('AM;&YS.G)D9CTB:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R,BUR
+M9&8M<WEN=&%X+6YS(R(^"B @(" @(#QR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B
+M;W5T/2(B"B @(" @(" @(" @('AM;&YS.F1C/2)H='1P.B\O<'5R;"YO<F<O
+M9&,O96QE;65N=',O,2XQ+R(^"B @(" @(" @(#QD8SIF;W)M870^87!P;&EC
+M871I;VXO<&]S='-C<FEP=#PO9&,Z9F]R;6%T/@H@(" @(" @(" \9&,Z=&ET
+M;&4^"B @(" @(" @(" @(#QR9&8Z06QT/@H@(" @(" @(" @(" @(" \<F1F
+M.FQI('AM;#IL86YG/2)X+61E9F%U;'0B/F%P<&QE7VQO9V\\+W)D9CIL:3X*
+M(" @(" @(" @(" @/"]R9&8Z06QT/@H@(" @(" @(" \+V1C.G1I=&QE/@H@
+M(" @(" @(" \9&,Z9&5S8W)I<'1I;VX^"B @(" @(" @(" @(#QR9&8Z06QT
+M/@H@(" @(" @(" @(" @(" \<F1F.FQI('AM;#IL86YG/2)X+7)E<&%I<B(^
+M1FEL92!.86UE.B @(" @(" @(" @(" @('-T<" P,#$N86DF(WA!.U5S97)N
+M86UE.B @(" @(" @(" @(" @<G(R.38S-#<F(WA!.TQO8V%L(%1I;64Z(" @
+M(" @(" @(" @(# Q+49E8BTR,#(P(#$R.C,Y.C0R)B-X03M%4U0@5&EM93H@
+M(" @(" @(" @(" @(# Q+49E8BTR,#(P(# S.C Y.C0R)B-X03M38W)I<'0@
+M5F5R<VEO;CH@(" @(" @(" R+C8F(WA!.TEL;'5S=')A=&]R(%9E<G-I;VXZ
+M(" @(#$V+C N,"8C>$$[1W)A<&AI8R!T>7!E.B @(" @(" @("!!<G1W;W)K
+M)B-X03LF(WA!.RHJ*E1H92!P<F5F;&EG:'0@8VAE8VL@:7,@8V]M<&QE=&4N
+M(%!L96%S92!E;G-U<F4@;6%N=6%L(&-H96-K<R!A<F4@8V]M<&QE=&5D('!E
+M<B!P<F]C97-S+BHJ*B8C>$$[)B-X03M4:&4@9F]L;&]W:6YG(&-O;&]R<R!A
+M<F4@<')E<V5N="!I;B!T:&4@9&]C=6UE;G0Z)B-X03L@(" @(" @(" @0FQA
+M8VLF(WA!.R8C>$$[+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM
+M+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM
+M+2TM+2TM+2TM+2TM+2TM)B-X03L\+W)D9CIL:3X*(" @(" @(" @(" @/"]R
+M9&8Z06QT/@H@(" @(" @(" \+V1C.F1E<V-R:7!T:6]N/@H@(" @(" \+W)D
+M9CI$97-C<FEP=&EO;CX*(" @(" @/')D9CI$97-C<FEP=&EO;B!R9&8Z86)O
+M=70](B(*(" @(" @(" @(" @>&UL;G,Z>&UP/2)H='1P.B\O;G,N861O8F4N
+M8V]M+WAA<"\Q+C O(@H@(" @(" @(" @("!X;6QN<SIX;7!'26UG/2)H='1P
+M.B\O;G,N861O8F4N8V]M+WAA<"\Q+C O9R]I;6<O(CX*(" @(" @(" @/'AM
+M<#I-971A9&%T841A=&4^,C R,"TP,BTP,50Q,CHS.3HT-"LP-3HS,#PO>&UP
+M.DUE=&%D871A1&%T93X*(" @(" @(" @/'AM<#I-;V1I9GE$871E/C(P,C M
+M,#(M,#%4,3(Z,SDZ-#0K,#4Z,S \+WAM<#I-;V1I9GE$871E/@H@(" @(" @
+M(" \>&UP.D-R96%T941A=&4^,C R,"TP,BTP,50Q,CHS.3HT-"LP-3HS,#PO
+M>&UP.D-R96%T941A=&4^"B @(" @(" @(#QX;7 Z0W)E871O<E1O;VP^061O
+M8F4@26QL=7-T<F%T;W(@0U,V("A7:6YD;W=S*3PO>&UP.D-R96%T;W)4;V]L
+M/@H@(" @(" @(" \>&UP.E1H=6UB;F%I;',^"B @(" @(" @(" @(#QR9&8Z
+M06QT/@H@(" @(" @(" @(" @(" \<F1F.FQI(')D9CIP87)S951Y<&4](E)E
+M<V]U<F-E(CX*(" @(" @(" @(" @(" @(" @/'AM<$=);6<Z=VED=&@^,C X
+M/"]X;7!'26UG.G=I9'1H/@H@(" @(" @(" @(" @(" @(" \>&UP1TEM9SIH
+M96EG:'0^,C4V/"]X;7!'26UG.FAE:6=H=#X*(" @(" @(" @(" @(" @(" @
+M/'AM<$=);6<Z9F]R;6%T/DI014<\+WAM<$=);6<Z9F]R;6%T/@H@(" @(" @
+M(" @(" @(" @(" \>&UP1TEM9SII;6%G93XO.6HO-$%!45-K6DI29T%"06=%
+M05-!0DE!040O-U%!<U5':'9D1SEZ84<Y=TE$375-04$T46ML3D$K,$%!04%!
+M04)!05-!04%!045!)B-X03M!44))04%!04%104(O*S1!1&M&:V(R2FQ!1U1!
+M04%!04%F+V)!25%!0F=114)!545"9U5&0F=K1T)164I#=V='0F=G3$1!;TM#
+M=V]+)B-X03M$0D%-1$%W341!=U%$031014$X3T1"351&0E%417AW8D=X<V-(
+M>#AF2'@X9DAX.&9(=T5(0G=C3D1!,%E%0D%91VA54D92;V9(>#AF)B-X03M(
+M>#AF2'@X9DAX.&9(>#AF2'@X9DAX.&9(>#AF2'@X9DAX.&9(>#AF2'@X9DAX
+M.&9(>#AF2'@X9DAX.&8O.$%!15%G0D%!1%%!=T52)B-X03M!04E205%-4D%F
+M+T5!84E!04%!2$%114)!445!04%!04%!04%!05%&07=)1T%104A#06M+0W=%
+M04%G241!445"05%%04%!04%!04%!)B-X03M!44%#07=11D)G8TE#46],14%!
+M0T%1341!9U%#0F=C1$)!24=!;DU"06=-4D)!049)4DEX459%1T4R16EC6455
+M37!':$)X5WA1:5!")B-X03M5=$AH37A::3A#4GEG=D5L47I25&MQ2WE9,U!#
+M3E51;FLV3WI.:&156DA41#!U24E*;TU*0VAG6FA*4D92<5,P5G1.5DM"<GDT
+M+U!%)B-X03LQ3U0P6EA71FQA5S%X9%AL.5=:,FAP86UT<V)7-799,U(Q9&YD
+M-&58<#=F2#$K9C-/16A984AI26U+:31Y3FIO*T-K-5-6;'!E66U:)B-X03MQ
+M8FY*,F5N-4MJ<$M7;7 V:7!Q<75S<F$V=F]204%)0T%1241"455%0E%914-!
+M341B445!06A%1$)#15--545&55).:$EG6GAG6D5Y)B-X03MO8DAW1DU(4C13
+M3D-&5DII8W9%>DI$4D1G:&%357E7:5DW3$-",U!33F5*16=X9%5K=V=*0VAG
+M6DIJ6D9':61K9$95,SAQ3WIW>6=P)B-X03LP*U!Z:$I3:W1-5%4U4%)L9%E7
+M5G!B6$8Q95@Q4FQ:;61O85=P<F)',75B,E(Q9&YD-&58<#=F2#$K9C-/16A9
+M84AI26U+:31Y3FIO)B-X03LK1&Q*5U=L-6E:;7!U8VY:-F9K<4]K<&%A;G%+
+M;7%Q-GET<G$K=B]A04%W1$%104-%44U2040X03E5-'$W1EA9<3=&6%EQ-T98
+M67$W)B-X03M&6%EQ-T9867$W1EA9<3=&6%EQ-T973V5D4'I%.&]E5$Q)6%AM
+M1%5%=&DT<D)A<CAD>$PO04U9-&QQ>$@K5C!(8S1Q*V503V8O3U<S)B-X03MM
+M1SA:-V9Y;G X96PR*S17.75W2C=K*T)#9C-39DDX.%4P.&DQ=CA!35AZ,W)K
+M:&969&5V<FM(9C!J3S9X1#52259J2#!,:6UN,% O)B-X03M!331F33,K1CEF
+M5W T:3EJ24AA<&DS+U9I9W9O1$9$<U9D:7)S5F1I<G-69&ER<U9D:7)S5F1I
+M<G-69&ER<U9D:7)S5F1I<G-69&ER)B-X03MS5F1I<G<S.#5V.$%N23)Z.'1Y
+M5&%$-55-9#=R<3%3-G9J4C1,5F=A1E%/:VMO-VHW2SDV.4U5,"M63E<Q:E9.
+M63%#6%5.574U8C(K)B-X03MN4$M7-&Y9=350>E!99&@R>%-G.%9D:7(V-2\U
+M>$DP>')F.$%,-U5,-7A1,W5O>6-09$EO;S%(+T%!>&)&0F4T66]D:7)S5F1I
+M<G-6)B-X03MD:7)S5F1I<G-69&ER<U9D:7)S5F1I<G-69&ER<U9D:7)S5F1I
+M<G=N+VY)>C@V6#AV5WHK579,.#546$QP0611=31Z.%9R0S1Q155J)B-X03MP
+M3$EV+T%R=C%)255G4&LP:VLQ3S50531P87A6,DMU>%8Y*V9L3C598GEZ*UA7
+M:&%0279#-&ET:$QD3#-%.7=43DM$+T%+<GE&9F]X)B-X03M9<W1X5C)+=7A6
+M,DMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X5FI(-6LK
+M9#=4>58U3W8Y9FY!95="949N0514)B-X03LQ8FE484I0;%AD=CAK2$98=U!Q
+M;7 S*W$V:F,V;'%%>EA&-V533DYC5% Q6C-.4V-74T9X5C)+=7A6-DPK42]K
+M4B].+S5G,E55,&90)B-X03M3.4U)=G122D(T;$EM0E--+W=$1U(V0VYH6'=X
+M45@S2FEH,DMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X
+M5C)+)B-X03MU>%8R2W9K+R]N3$QZ;SDO-7%S+TMT=DI7,#!E350S4V<W1S9U
+M1G%!4B]K4F-A9C9X>%-(9S)+6%EQ-T965S)T<FDV=5ER5S)J86$T)B-X03MN
+M9%EO66M"6FYD>GA65D$V:VLP1TMV=5@X;%!Y,&DX:"M4-#=364LR=%@O1S0Q
+M85554#=Y;G=X02]W07-13E!N53DX5TQ0.$%&6%EQ)B-X03LW1EA9<3=&6%EQ
+M-T9867$W1EA9<3=&6%EQ-T9867$W1EA9<3=&6%EQ-T9867$O4$AZ=')J-CDU
+M=C%N5U=B:TPK.&UM:E!H1WIN,#%()B-X03MS<55!>%I"2DU69&EQ*TM+4U=2
+M26]K36MK:$-O:6=L;5EM9T%!-FLT<2MS4"MC9B]!36E(.'1H4$Y(;6E!9G Q
+M,7)P.6DQ1#E54FA1)B-X03MU+V(Q5T(V9G-J,S9+0UAU,DM(67$W1EA9<3=&
+M6%EQ-T9867$W1EA9<3=&6%EQ-T9867$W1EA9<3=&6%EQ-T9867%G4$U%:GAA
+M0G%5)B-X03MI1VIP87IS<#8P26I9:G)I<C@U8U=4<U9:6#5*+TQ$>G(U,&Y#
+M849P>GE7=U!'5R]L+V0R>6502U9T:5(O2W14-UER8C9R+TMJ.&=F)B-X03M,
+M6&MF,#E3=7EU<F599TLO6%I&<$A!4TYX8F]A.%0R-6XT=FPP>%EV53A69&ER
+M<U9D:7)S5F1I<G-69&ER<U9D:7)S5F1I<G-69&ER)B-X03MS5E%7<#8U;W5L
+M4BMP<6UO5S%H2%%T>G5P;S16;T]P<3581E=-,T@U>F9L6&)U56LX,%="23-*
+M:FQ%;RLK4&M-5F1A+VY.*U9D,'ER)B-X03M&-6]S1DQ!165R2TE2=C1M6&="
+M.4]+<W)S9%,P-U5)0E!96%5.,T%E:W-%:7EP+W=316I&55)I<G-657)U,FEU
+M<E=A,6UQ67 T,FEK)B-X03M!,E!&=U90-$A&6&E%2"]/269K1EI+>C9R<6MQ
+M1#EH6'0P,W(S4&]T=&EM,E@K6&8K8V9V>7 P3U):;W1'5RMU16]23&9U,7IU
+M3R]P)B-X03MV*S8O-%1&1#!+1T='0TI)65DQ:6AJ05=/3D%&5E%/9T%'=T=+
+M<GE10E4W05EQ>&979GI3+TQR4EA+86PU:7-96E(Q:%=:6EI".#0T)B-X03LK
+M8D0W<U99<&,O.$%/5%@U45$X=E0Q5V$T<%-N<#)L=TLQ.%!54D]N=FET2VQR
+M+WIK<"M4,#=+<C9Z2F)L9U W,C%U84%N<U-K8FHK)B-X03M'2S!Y:E(O>E O
+M3'971T-A9#5I<TIP5V]6:$TV4GE'=FA(259F.$U66D]#0T%186<W9VI&6%EQ
+M-T9867$W1EA9<3=&6%EQ-T98;% U)B-X03MI9CA!3U)N:VIY:SAT;%I.*VY.
+M66IQ<E=T<7=%56)#=3!S.4=58FEH0SAI3S1X5VYZ>C5V+W=#8VEF>DXX>$\V
+M4C9G9$AS;7)X='1/)B-X03MR0V%E.#%42V8K0T$Y<U4P.#-U3&TT=5HS;G5:
+M6&YN:TY:2EI'3'5X.%-Z5DIX4W!9<3=&55AP;7(V<G!6>70Q<&PU4%DS2S!+
+M>C(P)B-X03MJ>$]+9C5314A&6'$S;$@O04IY:"]-6%)E14]Q=$9R,6UU>%<U
+M2'!Z,#EP-'@Q.3-6<U55.7DX;F8X-4MF;'8U:#11,VQY,FA8>F)E)B-X03MJ
+M9C!726XO2FY7<V10.69J:6EN<59V8S(Y>D-K.71+:S!%9W)(3$=W9$=(:4=&
+M46-65DU667@U="]-,WE,-512:G)M<G=7.#9I;W,Q)B-X03MB,6)G*T9)62M4
+M+U-25$98:'9N2"]N3'4T8W9B*U5D2453-VAB+U54>5EJ>%=#33!(,'5F;&EM
+M;FEV;6HX>2]09FUH;2]497183C%#)B-X03LY83)O9C!R9F8O:6U0:$@O04U,
+M:6UM331Q-T9867$W1E=3*U8O=T%Y9E!8;&521S!05W)M,6I4+T%).6DO<5<U
+M<#1W>6-O+RM&>%=N)B-X03MV2&M(+VY,3S)N:VIS=D]T:TQ9;6DO<%=Y1$Y'
+M4&5703AN2'I1;B]6>%)4-D(P<E9T33%E=V@Q1%1,<4LY<W!X>6AU25=$;W<K
+M62]%)B-X03M9;U)E2W5X5C)+=7A60S9P<6UN859P,7AQ5W!80U=T:F%O6DQI
+M-&M.1E)2,U K92M+=FMN.#,O*V-I.5HX,%-4-E U86545&9,,5-K)B-X03MK
+M=U!#-'5L-E9C:F5/32]Y1'(K,319<' T=&EL,DMU>%8R2W5X5C)+=7A6,DMP
+M<F]N;7)Z3F]4.#E',5<W,#1K,4ET<'!)9U0O;$MP)B-X03M!4# T<6Y'<"]M
+M>"M:97 R+W="6'90375O4$-D;6I39&]G=SA'.5!H>2MN1F%9;WI--T9M2EIM
+M3E=9-VMK.7II<3-&6%EQ-T9867$W)B-X03M&6%EQ-T9867%Z1#AU9GI2.# K
+M47141C%P33-Q5U5R03-U;5-K;4-D4G1U4#)8<#!D9'@W:F)&869A9C5F9FU$
+M-68X05!/9U(V='!%)B-X03ML0TM*95=B:V5R8GDP,U)W4"M&8F]2:7A:3FER
+M<U95-VTT9W1R95<U=4I&:'0T16%3859Y1E9%46-M6FEE9T%&5&ER-'8O4$@X
+M-DPS)B-X03MZ>G%R-F1P<VIW*U9R3U0O045A2&148T]U,W)Y:B]I0VYO4&5U
+M2U%(;%=+6%EQ-T9867$W1EA9<3=&6%EQ-T9867$W1EA9<3=&6%EQ)B-X03LW
+M1EA9<3=&6%EQ-T9867$W1E=59FPQ*UE'<RM2=DUS1W,V835A3V]3*W-Y84IC
+M444O1D<S=C-6=7AX5CDT95AD9C W>D)O9&QR5VY-)B-X03M8<W(K2EIO4W<T
+M<T$S54U$,$MN631S57AX5C@T+W=$3U4O-6]T0D=V:U13<'%35$MS,G1Y26%%
+M26%.1F(O=T-Y,F1V86YI8U5H.'E9)B-X03MP9&ER<U9D:7)S5F1I<G-69&ER
+M<U9D:7)S5F1I<G-69&ER<U9D:7)S5F1I<G-69&ER<U984GAY4U-,2$=P95)Y
+M1E)&0DQ&:6%!041Q)B-X03M4:7(V9R]*;B]N1W4R<S!G.'=E9#124&5K3$IA
+M84DK.&-88TYC+WIV+VMF6DAE<#9+0U@P37%Q:6A605961D958D%!9$%":6A+
+M+TYF)B-X03MM2WDX="M7.5(Q,CDS=#E/9V5:;')1=5%09U%6-W4Q1DAZ>%8K
+M9D]U87IF-C-R1C5Q*V]31U<Y=G!8;FYC+WI/83!(<T]G2&AI>5%/)B-X03M+
+M=7A6,DMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X5C)+
+M=7A6,DMV<6XO;DA$.&Q).4YS-%!/9FU+,D1A;F-!)B-X03M385!A4T-V,65*
+M:%9:,D(O,UDT,U@K56(Y5'-O2F911TM(67$X0B\U>34X,6TP.'5A6#5A:&5K
+M;7!Z1S9U;$@K*V)A9U)4-TY)-% K)B-X03MX>%-(>7!I;#)+=7A6,DMU>%8R
+M2W5X5C)+=7A6,DMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X5C)+=7A6-G O=T$T
+M."]L<79N2'IK3'$O)B-X03MI-39(;W9'-'9&669$3$M4*S5H4'-Z2U=B+TI"
+M2&9&0F9A;T%!;TYG355/>%8R2W9I,R]N2G985'%F-7)8='-(3%$V5D)"6G@K
+M05!$)B-X03LQ;G O<S531#AS56@U4FEL,DMU>%8R2W5X5C)+=7A6,DMU>%8R
+M2W5X5C)+=7A6,DMU>%8R2W5X5C)+=7A6,DMU>%8Y>69K1C5/:CAS)B-X03MF
+M;')P:5!(=W8Y555A:&5K:6IC<'=$1W O=T)33&E+94YC5TPP6$9867$W1E@U
+M.&9M2G%,-FPU.3AX6'I'=G(V;&1-;G-N<DU%2&)O)B-X03MO07A:0FIU2W5X
+M5C)+=7A6,DMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X
+M5DYV2V5J;E=V3D=K85!1:V%H95<Y)B-X03MS,4LO6FQL5D=/,V=$6$98-DI2
+M>'!':7AO;U9%05961W=!1W=!>%ET-'$W1EA9<2].=35N931U2EHS041Y=7IS
+M0C!Q>'%A5GA:2U=+)B-X03MU>%8R2W5X5C)+=7A6,DMU>%8R2W5X5C)+=7A6
+M,DMU>%8R2W5X5C)+=7A6,DMU>%9N=C5%44I0*V)N;'!(-D,U85%F3T]*,T@T
+M<FEP)B-X03MF9&U,1C)+=7A6,DMV>E=X6D]X5C)+=7A6,DMU>%8R2W5X5C)+
+M=7A6,DMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X5C)+<S<O274U5S,O)B-X03M!
+M1&$X<WE.4VI84FHS.%I9,VI(-'1I<&9D,DQ&,DMU>%8R2W9Z9S%3,2MQ86YE
+M5V](15<X.&M816UT3T1L858K:D9K:&-69&ER<U9D)B-X03MI<G-69&ER<U9D
+M:7)S5F1I<G-69&ER<U9D:7)S5F1I<G-69&ER<U9D:7%:*U=.6&)2=DUM;&%U
+M<$E/;C-K1C%T=68S36EU9'8Y:FER)B-X03LY1DEP6359:VQJ65!(26]:1TA1
+M<5)515ES5C)+=7A6,DMV>B]!4'I3,# V8BM:2&UA,'!253%+-65-94-34VU2
+M4"M&65ES9WAB1EA9)B-X03MQ-T9867$W1EA9<3=&6%EQ-T9867$W1EA9<3=&
+M6%EQ-T9867$W1EA9<3=&6%EQ-T98,THK45!N1F9-+S5A85DX:CAR-U1&+U(Q
+M-D-A)B-X03MT>6=!16)(+T%&-'5*<C0Q>%EV4F-69&ER<U9F1T@O3U0K:B]!
+M2U O0419=3=G0VEA<&)7.3)V:%5*.5AA;BMY9TIX4TAK=4M867$W)B-X03M&
+M6%EQ-T9867$W1EA9<3=&6%EQ-T9867$W1EA9<3=&6%EQ-T9867$W1EA9<3=&
+M6'$O=T1Z:G8X06U5;FLO=T$T:7EV-65':6$R570W)B-X03MP;5!W>%1!,&AM
+M4%E!1FER2'=.93)+0RLP9U%256)G-&]D:7)S5F9/2"]/65=G8W)8>3DU:%)F
+M-W536%0W:'9(;5!7:$9F8FA*:6M0)B-X03MM6$9,<U9D:7)S5F1I<G-69&ER
+M<U9D:7)S5F1I<G-69&ER<U9D:7)S5F1I<G-69&ER<U9D:7)S5F969B]!1&IN
+M*V1S5W$R;'8U3CAX)B-X03M82$A68F122'!.,TLS*SE-86EG:%EN+V1I1#=0
+M.'<Y>'5O264O66]D:7)!9GHQ.'-T-6@O2S=7-U=.0SEZ87A#*W1G3GIZ=%0V
+M:D%$)B-X03MX84U-=C T<2M&35=4<U9D:7)S5F1I<G-69&ER<U9D:7)S5F1I
+M<G-69&ER<U9D:7)S5F1I<G-69&ER<U9D:7)S5EA2>5-2>4Q*1WA3)B-X03M2
+M0T=2,4I$0F=A9V=J;U)I<C9:+THS+VY*;4=2261#.#EZ0T]955,Q,3 O6EED
+M;'5V-50O04U71&(K86XR:6]P.4=1>E)44DI.0S9Y)B-X03M24T%.2$EH1$MY
+M;F-%16)%2$9$8F]J;WE/;UI'0D1+4E5%2%EG9S1Q+U!Z.'@O2W-N;%1Z=G)'
+M:$UP159P8TXY5DIR.%9V2BLX:$\O)B-X03LO1F),6#-X6D)J5TMU>%8R2W5X
+M5C)+=7A6,DMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X
+M5C)+<SDO3&(X,B]Z)B-X03M!.&\S9'9984AC;3=S-3564F1(=4(V:T1V27=&
+M1491,%I9;CEH:#<T;TEF9&U+2'I8+WIL>C5,3F1,.#0R,&8O04=R.5))2'IE
+M0GHO)B-X03M!34]P4"MQ355H.#%9<&1I<G-69&ER<U9D:7)S5F1I<G-69&ER
+M<U9D:7)S5F1I<G-69&ER<U9D:7)S5F1I<G-69&ER<U9E<F8X-#)E)B-X03M4
+M5#5H+TUM,79*;RM6:&]3+U@U>5)S6E9.3&1F;C9N>"]W0WA/2T,K,#A52DHU
+M,3AR5V9M<GER<5=G6&1"1F9W=$=K:$9F5&Q(>%)3)B-X03M$,U)W1WA6*V9M
+M<F%89F%4<6PS<&PO1UER>7EL94,T:E!:-#)+="MR1FMH359D:7)S5F1I<G-6
+M9&ER<U9D:7)S5F1I<G-69&ER<U9D)B-X03MI<G-69&ER<U9D:7)S5F1I<G-6
+M9&ER-U8O=T-C8V9):F56+WDK:'5R<5 P.50Q=VDY=5%24FQI27!B>&XU2656
+M3WA9-'-3.55X5C)+)B-X03MV;#<O04IY=2],;S)U;U<O;F5W:2]C6&A7,C%C
+M2TYL;59A47EM9R]B56-39D5$>'A32'IV:6PR2W5X5C)+=7A6,DMU>%8R2W5X
+M5C)+)B-X03MU>%8R2W5X5C)+=7A6,DMU>%8R2W5X5C)+=7A6-D0K4T@U978U
+M,C@X,G1R4$=7,&EW274Y55EJ-%1%:D1J168K37)F1#AQ;G1I<&9D)B-X03M!
+M04%!06]"<T%-5TQS5F1I<5@K661",#-Z0F]L-V]U<'@K<EDS.%11>G P3D0P
+M6E0R6E12;%!9-'$K0G909FMZ5E!*=FUI.3!$55)7)B-X03M3,F%S131&1FUH
+M8F5/5F9::#EX<4\R3$IJ*TMU>%8R2W5X5C)+=7A6,DMU>%8R2W5X5C)+=7A6
+M,DMU>%8R2W5X5C)+=7A6,DMR-%E:)B-X03MP-6\T255A4V%69VMC86ER37I'
+M9U5!9%-4:7(W;2]*4#AT;R]);FLR1S!N569P;2]P8S9T24XO,VA(=WA!+WEX
+M2V50>G%E*TQ&-D)I)B-X03MR<U9D:7)S5F589FXU*U9+96503$IU.5!J2"M)
+M.4M6<$Q%9T-S,&96-V-N+T%#=7%F-5AZ3TMV:6PP94XR:FM5;S9%<39-2T5%
+M8D5%)B-X03M(1FMT>%8R2W5X5C)+=7A6,DMU>%8R2W5X5C)+=7A6,DMU>%8R
+M2W5X5C)+=7A6,DMV;W8O04IX92]+9')M-5AZ,7)-2"MJ445R;V-,)B-X03MJ
+M-V-O*T8W;6@W2CEL4#A!2W%F,E)I9W9P-T9$<U9D:7)S5F1I<G-69DUN+T%$
+M:W8K5&)14WHK971!9TIH:U!,6&)7369963=F5VQ5)B-X03MF<VXO04A:-R]&
+M-#1P1#5X>%,W1EA9<3=&6%EQ-T9867$W1EA9<3=&6%EQ-T9867$W1EA9<3=&
+M6%EQ.4(O2FXX<3<S>CDU;%='4EAJ)B-X03LP1WE+>6%R9&IB-&5O:%)V-35+
+M9E%+;D936#-&63).<%E78T9L6G=R8C)L<VEX45%O2TMI24M+;TAS35=+=&ER
+M<U9D:7)S5F1I<G-6)B-X03M7>7A25%)01DMI>5)32U5K:F-";%I71D-#1'-1
+M4FER-44O4&8X:#=V>79D6$AM4'DW05IF3$UP-7IW2E5T6DUX-D5%:VU);C=,
+M9G,Y)B-X03M$,DI59W9%.%5U>%8R2W5X5C)+<C196G U5FEH4G!:6$Y%:E%&
+M;5EN<T%.>FER3F1)+TI,.#%T5U):3%1Y,61Q:FEQ=&-H3%-O.&8Y)B-X03M*
+M84Q&8E0X9C@T=R]M-E99;E0W8T55;W!U;V%N9G12<69F:6DP=3%,+VY(<C@S
+M=%!5=2MG4&-29U8U5S P17A0>5)(3"]W1$,T<F)")B-X03MT53!B5TY*=51A
+M-G)9,T9H8VHO9$YZ13A,-V8U3&A4:6Q"67$W1EA9<3=&6%EQ>2\X='9Y>3AW
+M*V9D8E=W,'E->#)C6D)V.$%56%5M)B-X03M+0D0S4#AZ;6YW<#,K5E-&8F9B
+M,VMZ>61O;FQ$>2]B84AO.%AP,C!!<3AJ53E35U$O86QK64%66G8W0G1I>%1Z
+M1EA9<3=&6%EQ-T98)B-X03M9<3=&6%EQ,4I':VE.2$EO9$A"5C!95D)",DE)
+M3TMV;C,X,% K8U=B3%5:6F16.&M34C)&,#5,>3902U-T<WA/-3E">%@P=CE5
+M+T0T)B-X03MC4FEM,WHQ-6DO3#=Z=#5C;&505W1&=3=-2E5M6F]Y,$Y",4EM
+M5&Q',S!.:6TP:&II:VQC4GAO6&MB6E5516LO241&5U<K6&9Y:2]-)B-X03MJ
+M>D1)<39B;T8S-E1';C%M-%$R.$DX5#9K,T)45#)Q8U9T-U U2R\U>$=24VQZ
+M-7@Q4&XS3VYA9G-0:S@W:79Z0W Y3TM,939E5U!))B-X03MN:R]Y=$%)9$(P
+M;3-S841I6FM4;$UW-F9(33-+4G9P8D9#9EEQ-T9867%G.5<P6%-.671'<SE6
+M<V],*S!F-U5&>$=S<69/:D$W-'$X)B-X03M8.#=F.#1O*U4Y54UL,359=7!.
+M174R2F(V<SE:-U%K;71!0V95:BMH:5!"8U4R.% X>2]K0BMA;6=Y4'HP6CE2
+M=#$S1GIP>"MS<7=()B-X03MG:6=41"]:24U6=&A5+VPO6')E47A81VTS54UG
+M-G!*0DER9&%D0V\X354R:DY+.&HK8W18;$5E;6%(9EAB36%6:70U5U5D=FEB
+M:GA5)B-X03ME-4]+,CEI.&=F.$%/2U!M0RMM:74O3TYW=6PR44E:=%!T,E=7
+M-F-F>7,V.&\T+VU#>#EH:6DS,'@U9#AT84@U8S!Q3%-T17,T-TMX)B-X03MH
+M2'=X4FIQ93=/>"M*;5!D;4YC54IN:7)S5F1I<G-69B\Y:ST\+WAM<$=);6<Z
+M:6UA9V4^"B @(" @(" @(" @(" @(#PO<F1F.FQI/@H@(" @(" @(" @(" \
+M+W)D9CI!;'0^"B @(" @(" @(#PO>&UP.E1H=6UB;F%I;',^"B @(" @(#PO
+M<F1F.D1E<V-R:7!T:6]N/@H@(" @(" \<F1F.D1E<V-R:7!T:6]N(')D9CIA
+M8F]U=#TB(@H@(" @(" @(" @("!X;6QN<SIX;7!-33TB:'1T<#HO+VYS+F%D
+M;V)E+F-O;2]X87 O,2XP+VUM+R(*(" @(" @(" @(" @>&UL;G,Z<W12968]
+M(FAT=' Z+R]N<RYA9&]B92YC;VTO>&%P+S$N,"]S5'EP92]297-O=7)C95)E
+M9B,B"B @(" @(" @(" @('AM;&YS.G-T179T/2)H='1P.B\O;G,N861O8F4N
+M8V]M+WAA<"\Q+C O<U1Y<&4O4F5S;W5R8V5%=F5N=",B/@H@(" @(" @(" \
+M>&UP34TZ26YS=&%N8V5)1#YX;7 N:6ED.C-&1C0T,S5%0S$T-$5!,3%!-C T
+M.#DP.#8Q0T$T,D0X/"]X;7!-33I);G-T86YC94E$/@H@(" @(" @(" \>&UP
+M34TZ1&]C=6UE;G1)1#YX;7 N9&ED.C-&1C0T,S5%0S$T-$5!,3%!-C T.#DP
+M.#8Q0T$T,D0X/"]X;7!-33I$;V-U;65N=$E$/@H@(" @(" @(" \>&UP34TZ
+M3W)I9VEN86Q$;V-U;65N=$E$/G5U:60Z-40R,#@Y,C0Y,T)&1$(Q,3DQ-$$X
+M-3DP1#,Q-3 X0S@\+WAM<$U-.D]R:6=I;F%L1&]C=6UE;G1)1#X*(" @(" @
+M(" @/'AM<$U-.E)E;F1I=&EO;D-L87-S/F1E9F%U;'0\+WAM<$U-.E)E;F1I
+M=&EO;D-L87-S/@H@(" @(" @(" \>&UP34TZ1&5R:79E9$9R;VT@<F1F.G!A
+M<G-E5'EP93TB4F5S;W5R8V4B/@H@(" @(" @(" @(" \<W12968Z:6YS=&%N
+M8V5)1#YX;7 N:6ED.C-%1C0T,S5%0S$T-$5!,3%!-C T.#DP.#8Q0T$T,D0X
+M/"]S=%)E9CII;G-T86YC94E$/@H@(" @(" @(" @(" \<W12968Z9&]C=6UE
+M;G1)1#YX;7 N9&ED.C-%1C0T,S5%0S$T-$5!,3%!-C T.#DP.#8Q0T$T,D0X
+M/"]S=%)E9CID;V-U;65N=$E$/@H@(" @(" @(" @(" \<W12968Z;W)I9VEN
+M86Q$;V-U;65N=$E$/G5U:60Z-40R,#@Y,C0Y,T)&1$(Q,3DQ-$$X-3DP1#,Q
+M-3 X0S@\+W-T4F5F.F]R:6=I;F%L1&]C=6UE;G1)1#X*(" @(" @(" @(" @
+M/'-T4F5F.G)E;F1I=&EO;D-L87-S/F1E9F%U;'0\+W-T4F5F.G)E;F1I=&EO
+M;D-L87-S/@H@(" @(" @(" \+WAM<$U-.D1E<FEV961&<F]M/@H@(" @(" @
+M(" \>&UP34TZ2&ES=&]R>3X*(" @(" @(" @(" @/')D9CI397$^"B @(" @
+M(" @(" @(" @(#QR9&8Z;&D@<F1F.G!A<G-E5'EP93TB4F5S;W5R8V4B/@H@
+M(" @(" @(" @(" @(" @(" \<W1%=G0Z86-T:6]N/G-A=F5D/"]S=$5V=#IA
+M8W1I;VX^"B @(" @(" @(" @(" @(" @(#QS=$5V=#II;G-T86YC94E$/GAM
+M<"YI:60Z-4,R.39&1C5&,4(S134Q,4%#,#4Y,S<S-3$W140Y1#,\+W-T179T
+M.FEN<W1A;F-E240^"B @(" @(" @(" @(" @(" @(#QS=$5V=#IW:&5N/C(P
+M,38M,#$M,#54,38Z,#8Z,S8M,#<Z,# \+W-T179T.G=H96X^"B @(" @(" @
+M(" @(" @(" @(#QS=$5V=#IS;V9T=V%R94%G96YT/D%D;V)E($EL;'5S=')A
+M=&]R($-3-B H5VEN9&]W<RD\+W-T179T.G-O9G1W87)E06=E;G0^"B @(" @
+M(" @(" @(" @(" @(#QS=$5V=#IC:&%N9V5D/B\\+W-T179T.F-H86YG960^
+M"B @(" @(" @(" @(" @(#PO<F1F.FQI/@H@(" @(" @(" @(" @(" \<F1F
+M.FQI(')D9CIP87)S951Y<&4](E)E<V]U<F-E(CX*(" @(" @(" @(" @(" @
+M(" @/'-T179T.F%C=&EO;CYS879E9#PO<W1%=G0Z86-T:6]N/@H@(" @(" @
+M(" @(" @(" @(" \<W1%=G0Z:6YS=&%N8V5)1#YX;7 N:6ED.C-&1C0T,S5%
+M0S$T-$5!,3%!-C T.#DP.#8Q0T$T,D0X/"]S=$5V=#II;G-T86YC94E$/@H@
+M(" @(" @(" @(" @(" @(" \<W1%=G0Z=VAE;CXR,#(P+3 R+3 Q5#$R.C,Y
+M.C0T*S U.C,P/"]S=$5V=#IW:&5N/@H@(" @(" @(" @(" @(" @(" \<W1%
+M=G0Z<V]F='=A<F5!9V5N=#Y!9&]B92!);&QU<W1R871O<B!#4S8@*%=I;F1O
+M=W,I/"]S=$5V=#IS;V9T=V%R94%G96YT/@H@(" @(" @(" @(" @(" @(" \
+M<W1%=G0Z8VAA;F=E9#XO/"]S=$5V=#IC:&%N9V5D/@H@(" @(" @(" @(" @
+M(" \+W)D9CIL:3X*(" @(" @(" @(" @/"]R9&8Z4V5Q/@H@(" @(" @(" \
+M+WAM<$U-.DAI<W1O<GD^"B @(" @(#PO<F1F.D1E<V-R:7!T:6]N/@H@(" @
+M(" \<F1F.D1E<V-R:7!T:6]N(')D9CIA8F]U=#TB(@H@(" @(" @(" @("!X
+M;6QN<SII;&QU<W1R871O<CTB:'1T<#HO+VYS+F%D;V)E+F-O;2]I;&QU<W1R
+M871O<B\Q+C O(CX*(" @(" @(" @/&EL;'5S=')A=&]R.E-T87)T=7!0<F]F
+M:6QE/E!R:6YT/"]I;&QU<W1R871O<CI3=&%R='5P4')O9FEL93X*(" @(" @
+M/"]R9&8Z1&5S8W)I<'1I;VX^"B @(" @(#QR9&8Z1&5S8W)I<'1I;VX@<F1F
+M.F%B;W5T/2(B"B @(" @(" @(" @('AM;&YS.GAM<%109STB:'1T<#HO+VYS
+M+F%D;V)E+F-O;2]X87 O,2XP+W0O<&<O(@H@(" @(" @(" @("!X;6QN<SIS
+M=$1I;3TB:'1T<#HO+VYS+F%D;V)E+F-O;2]X87 O,2XP+W-4>7!E+T1I;65N
+M<VEO;G,C(@H@(" @(" @(" @("!X;6QN<SIX;7!'/2)H='1P.B\O;G,N861O
+M8F4N8V]M+WAA<"\Q+C O9R\B/@H@(" @(" @(" \>&UP5%!G.DAA<U9I<VEB
+M;&5/=F5R<')I;G0^5')U93PO>&UP5%!G.DAA<U9I<VEB;&5/=F5R<')I;G0^
+M"B @(" @(" @(#QX;7!44&<Z2&%S5FES:6)L951R86YS<&%R96YC>3Y&86QS
+M93PO>&UP5%!G.DAA<U9I<VEB;&54<F%N<W!A<F5N8WD^"B @(" @(" @(#QX
+M;7!44&<Z3E!A9V5S/C$\+WAM<%109SI.4&%G97,^"B @(" @(" @(#QX;7!4
+M4&<Z36%X4&%G95-I>F4@<F1F.G!A<G-E5'EP93TB4F5S;W5R8V4B/@H@(" @
+M(" @(" @(" \<W1$:6TZ=SXV,3(N,# P,# P/"]S=$1I;3IW/@H@(" @(" @
+M(" @(" \<W1$:6TZ:#XW.3(N,# P,# P/"]S=$1I;3IH/@H@(" @(" @(" @
+M(" \<W1$:6TZ=6YI=#Y0;VEN=',\+W-T1&EM.G5N:70^"B @(" @(" @(#PO
+M>&UP5%!G.DUA>%!A9V53:7IE/@H@(" @(" @(" \>&UP5%!G.E!L871E3F%M
+M97,^"B @(" @(" @(" @(#QR9&8Z4V5Q/@H@(" @(" @(" @(" @(" \<F1F
+M.FQI/D)L86-K/"]R9&8Z;&D^"B @(" @(" @(" @(#PO<F1F.E-E<3X*(" @
+M(" @(" @/"]X;7!44&<Z4&QA=&5.86UE<SX*(" @(" @(" @/'AM<%109SI3
+M=V%T8VA'<F]U<',^"B @(" @(" @(" @(#QR9&8Z4V5Q/@H@(" @(" @(" @
+M(" @(" \<F1F.FQI(')D9CIP87)S951Y<&4](E)E<V]U<F-E(CX*(" @(" @
+M(" @(" @(" @(" @/'AM<$<Z9W)O=7!.86UE/D1E9F%U;'0@4W=A=&-H($=R
+M;W5P/"]X;7!'.F=R;W5P3F%M93X*(" @(" @(" @(" @(" @(" @/'AM<$<Z
+M9W)O=7!4>7!E/C \+WAM<$<Z9W)O=7!4>7!E/@H@(" @(" @(" @(" @(" \
+M+W)D9CIL:3X*(" @(" @(" @(" @/"]R9&8Z4V5Q/@H@(" @(" @(" \+WAM
+M<%109SI3=V%T8VA'<F]U<',^"B @(" @(#PO<F1F.D1E<V-R:7!T:6]N/@H@
+M(" @(" \<F1F.D1E<V-R:7!T:6]N(')D9CIA8F]U=#TB(@H@(" @(" @(" @
+M("!X;6QN<SIP9&8](FAT=' Z+R]N<RYA9&]B92YC;VTO<&1F+S$N,R\B/@H@
+M(" @(" @(" \<&1F.E!R;V1U8V5R/D%D;V)E(%!$1B!L:6)R87)Y(#$P+C Q
+M/"]P9&8Z4')O9'5C97(^"B @(" @(#PO<F1F.D1E<V-R:7!T:6]N/@H@(" \
+M+W)D9CI21$8^"CPO>#IX;7!M971A/@H@(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @( H@(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @( H@(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @"B @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M(" @(" @(" @(" @(" @(" *(" @(" @(" @(" @(" @(" @(" @(" @(" @
+M"CP_>'!A8VME="!E;F0](G<B/S[_VP!#  $! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0'_
+MVP!# 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0'_P  1"  ^ #(# 1$  A$! Q$!_\0
+M&P   @,! 0$               L("0H&!0?_Q  H$   !P " 00" P$!
+M   ! @,$!08'  @)"A$2$Q06%2$B%S/_Q  8 0$! 0$!
+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
+F/0JH#MZG!1J[E9V]>OI2>DCD=R964>)IS<W5XY+9?N2UG@P?_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>g279200sp1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g279200sp1.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+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
+M+O#\]!\HYIPG*6ZL3B</2HI.G44OE;]3I:T.(* "@#S;1/\ DO/B7_KRC_\
+M0(JYH_QY'MU_^192]7^;/2:Z3Q#SWXL7DTVE:=X<LS_I6KW*QX']P$9_4K^M
+M<]=W2BNIZ^5049RKRV@K_,RHK1/ WQ=L8H?DTW5[98!Z!U 4?CE5_P"^JBWL
+MZJ[,Z')XS 2;^*#O\OZ_(]7KK/ /-/!/_)5/&G^\O\S7-2_B2/;QO^Y4#J_'
+M7_(B:Y_UYR?^@UK5^!GGX'_>:?JCS_P;XJ\46'A'3K6Q\&S7MM&A"7"S[0XW
+M'G&*YZ=2:@DHGL8S"X:=>4IU;/M8?X.OK[4?C+JEUJ.G-I]T]A\UNS;BN/+
+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
+MD92DY-RENR6F2% !0 4 % !0 4 % !0 4 % !0 4 % !0 4 % !0 4 % !0
+=4 % !0 4 % !0 4 % !0 4 % !0 4 % !0!__]D!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>g279200sp2.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g279200sp2.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( !0 R0,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /;;W6[6PUG3-*E60W&H^9Y)4 J-@!.3GC@U+DDTNYO"A*=.
+M51;1M?YFE5&!@_\ "7Z4/%__  C.Z3[?LWYVC9G&[;G/7'/2L_:1YN3J=?U2
+MK[#ZQ]D?K_B2/P\@DFTS4+J'8TCR6L(=8P.NXDC%.<^3H+#X9UW922?F]Q/#
+M_B:+Q$AD@TS4;:'RUD26ZA")(#TVD$YHA/FV08C#/#NSDF_)[%C0]=M/$&CK
+MJ=FLJP,SJ!(H#?*2#P"?2G&2DKHBO0E0J>SEN.T'6[7Q%HT&J6:R+;S;MHD
+M#<,0<@$]Q1&2DKH5>C+#U'3GNBG9^+]*O?%5WX=A:3[;;+N8E1L;&,@'/)&1
+MGBI52+ERFL\)4A05=[,MZ_KEIX;T6?5+X2&WAQN$8!8Y( P"1ZU4Y*"NS/#T
+M)XBHJ<-V077BG3+3PH/$;NYL#$LHV@;B&Q@8SUR<=:3FE'FZ%0PM25?V"^*]
+MB[I.IV^M:3:ZE:[A!<H'0.,$ ^OO3C)25T9U:4J-1TY;HLK,CPF6)A*H!QL(
+M.<=A5&=FG9F"GC72G\'OXFQ,+%,AD*CS 0VW;C.,Y]ZS]I'DYSK>"JJO]7Z_
+MAW))_%VFP>';'6P)I+:]:-(41079G. ,9QGUY[4>T2BI"CA*CJRI=8WO\BQX
+MC\16/A?26U*_\PQ!P@6)069CV )'N?PISFH*[(P^'GB:GLX;DIUF%M!35[6"
+M>\@>)94CMTW2.#C&!GKS3YO=YD3[%JK[*32>VNQAZ?X^MM2U%K&#0]9$L<BQ
+M3%K4 0D]-_S<#'-9JJF[),ZJF E3ASN<;=-=_30V9->LX?$2Z(XD6Y:U-UO(
+M&P(&VG)SU_"M.9*7*<RH3=+VJVO;YC="\06GB*">XL8YOLL<AC2=U 2;'4IS
+MDCWP*49J6J'7P\L.U&>_;MZCM$U^TU[3'O[1)5A21XR)% .5.#T)IQDI*Z%6
+MH2HSY);Z?B4_#'C+2?%EI<7&G-*#;MMDCE4*XXX. 3P>?RJ85(S5T:XK!U<+
+M)1J=2?3_ !/INH>&!XA#O!I^QG+3#!4*2#D#/I34TX\W0BIAJE.M[#>1%HOB
+MA-<G58='U2W@>/S([FX@"1N.,8.XGG.1D4HSYNC*K85T5K--]D]?R-ZM#D"@
+M H X?Q;=6]E\0/!D]U/'!"OVS=)(P51^[3J36%1I3C?S/5PD93PM915W[OYL
+MZC^V],?3[F^AOK>>WMD+RO#('"@#)S@^E:\RM=,X/85%-0<6F^YXX[ZM_P (
+M^OB7^P;T7XO_ .UOMF4V>5_<^]NV[,=JX_>Y>>VM[GT:5+VOU?G7+;EMKOWV
+MM>YZIK]W#?\ @#4[RW;=#/ITDB'U!C)%=4W>#:['@X>#ABHQENI+\Q_@[_D2
+M=#_Z\HO_ $ 4Z?P(6,_WFIZO\SAO >C:U>>#8Y[/Q--8VYDFQ MK&X&';/)&
+M>:PI1DX:,]7'UJ,,0U*G=Z:W?8U? NIQ:+\'X-2G/[NVCFD/N1(V!^)XJJ4N
+M6E=G/CJ3K8]TX];?DCCXVU+0],T7Q!/H5]#<VEVUW>WC[-DB3'#C ;=T*XR*
+MQUBE)H]%^SK3G0C-6:LEKHUMTL=YX^DCOK3P_IZD21ZAJ< ..C1CYC_(5T5=
+M4EW9Y6 3A*I/^6+^_8X_2[>>ZUFU^'TZL;73-0EN9">C6ZC=&/Q9_P"58Q5W
+M[+LST:LE&F\:MY12^>S_  1T7@D7EQ\+Y]-MN;NUDGM,9P>'.0,\9VGC/?%:
+M4K^SLCCQKBL8JDMG9_@;'A>TU'3[R>![:5--8%D>41JY?Y0 RJ<#"C&1UZD
+M\FX)IVZ'+B94YQ33][Y_K_2.'CMG'C*;P24/V5M8&I$=O)V;]OTW8%86]_V?
+MG<]5R7U=8OKR\OSO;\A/#T4LOBO3_!TBDPZ'J%Q=G/3RP 8OU<T0^)0[,>(:
+M5"6*6\XI?/K^1O\ BJ]EU'QWI^GPZ7<:G:Z3&;FXA@*_ZQP53.X@<#)_&M)N
+M\TK7L<>%@J>&E-R47+1-]EOL6/AC>30V%_X=NX9;>XTN<A(IB-XA?YDS@D>O
+M3VIT79.+Z$YG!.4:\7=273NMRQX/_P"1Q\9_]?<7_HNG3^.1GB_]WH^C_,Y[
+MQ]I=_J_CHVFFR$3'1BS19QYZ";+1YZC<.*SJQ<IV78[<!5A2PW-4VY_NTW^1
+MW/A+6--UGP_;R:9$+>.$>2]MC!MV7@H1[5O3DI1T/*Q=&I1JM5'>^M^_F8?P
+MU_Y$JY_Z^[C_ -"-9T?@.K,?]X7HOR.)T6VG\.^$] \:6",T:QM;ZG$O_+2$
+MR, _U7C\A[UC%.$547S/3KRC7KU,)/UCZVV^9V'@>TL+[X06]KJ+JMC+%,LK
+M,VT!?,;G/;UK6DDZ5GL>=CI3ACW*&Z:_)$'A[4;W1O%UAX:MM;CUW2Y;=V5O
+ME,MHJCY=S+P0>!S_ /K(-QDH)W1>(IPJT)5Y0Y))_)W-Z:RU017T*69<&^2Z
+MC?SE =0Z,5]C@'K5V>IQJ=.\6WTMMY,FM-&N)?$<FL7($ RK)&,%O]7M(+#M
+MDDX]0#347S79,JT525*.O_#W.AK0Y"I>Z7I^I;/M]A;77EYV>?$K[<]<9''0
+M?E2<4]T:0JU*?P2:]&,AT;2[>UFM8--M(K>;_61) H1_J ,&DHQ2LD.5:I*2
+MDY.Z\RT8(3;_ &<Q)Y&W9Y>T;=N,8QTQCM56Z&?,[\U]1B6=K'9_8TMHEM=N
+MSR0@";?3;TQ[4K*UAN<G+F;U[DD44<$*0PQK'$@"JB# 4#H .U/83;D[L9;V
+MEM9P""UMXH(021'&@5>>O I)):(<IRD[R=V1?V7I_P!@^P?8;?['_P \/*7R
+M^N?NXQUYHY5:UBO:SYN?F=^_4GFMX+FW>WGA26%QM:-U#*1Z$&AJ^A,9.+YD
+M[,C-A9M]GW6D)^S?ZC,8_=<8^7TXXXHLA^TFKZ[[^8JV=JEX]XEM$MRZA7F"
+M .P'0%NI%%E>XG.3CRWT["V]I;6@D%M;Q0B1R[^6@7<QZDXZGWH22V"4Y2^)
+MW)J9)!]BM!>_;?LL/VO;L\[8-^WTW=<>U*RO<OGER\E].P)8VD=Y)>):PK=2
+M#:\RQ@.P]"W4]!197N#G)QY&].PL5I;03S3Q6\4<TQ!E=4 9\=,GO^-%DA.4
+MFDF]$"V=LEV]VMO$MRZA7E" .P'0$]2*+*]P<Y./+?0(K6W@EFEAMXHY)B&D
+M=$ +D=R>_P"-%D@<I223>P&UMS=B[,$9N0FP2[!O"YSC/7&>U%E>X<TN7EOH
+M)!8VEK---;VL,4LYW2ND85I#ZL1U_&A)+8<IRDDF]$+;V=M9PF&VMXH(B2Q2
+M- H)/4X'K0DEL*4Y2=Y.XV.QM(K+[%':PI:[2ODK& F#U&WICFBR2L-SDY<S
+M>O<1-/LH[$V*6<"V94J8!&!'@]1MZ8HLK6!U)N7.V[]^HRPTG3=*##3]/M;,
+>/]X00K'GZX%"BH[(=2K4J_')OU=RY3,PH * /__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

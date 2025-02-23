@@ -1,0 +1,368 @@
+<SEC-DOCUMENT>0001045810-23-000160.txt : 20230801
+<SEC-HEADER>0001045810-23-000160.hdr.sgml : 20230801
+<ACCEPTANCE-DATETIME>20230629172835
+<PRIVATE-TO-PUBLIC>
+ACCESSION NUMBER:		0001045810-23-000160
+CONFORMED SUBMISSION TYPE:	CORRESP
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20230629
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NVIDIA CORP
+		CENTRAL INDEX KEY:			0001045810
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				943177549
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0128
+
+	FILING VALUES:
+		FORM TYPE:		CORRESP
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2788 SAN TOMAS EXPRESSWAY
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95051
+		BUSINESS PHONE:		408-486-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		2788 SAN TOMAS EXPRESSWAY
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95051
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NVIDIA CORP/DE
+		DATE OF NAME CHANGE:	20020612
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NVIDIA CORP/CA
+		DATE OF NAME CHANGE:	19980303
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>CORRESP
+<SEQUENCE>1
+<FILENAME>filename1.htm
+<TEXT>
+<html><head>
+<!-- Document created using Wdesk -->
+<!-- Copyright 2023 Workiva -->
+<title>Document</title></head><body><div id="i29d849314a0e42fdb584e2a60c13a152_50"></div><div style="min-height:72pt;width:100%"><div><img alt="picture1.jpg" src="picture1.jpg" style="height:84px;margin-bottom:5pt;vertical-align:text-bottom;width:100px"></div></div><div><font><br></font></div><div><font><br></font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">VIA EDGAR</font></div><div><font><br></font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">June 29, 2023</font></div><div><font><br></font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">United States Securities and Exchange Commission</font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">100 F Street, N.E.</font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Washington, D.C. 20549</font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Attn&#58; Charles Eastman or Claire Erlanger</font></div><div><font><br></font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">RE&#58;&#160;&#160;&#160;&#160;NVIDIA Corporation</font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">&#160;&#160;&#160;&#160;Form 10-K for the Year Ended January 29, 2023</font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">&#160;&#160;&#160;&#160;Filed February 24, 2023</font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">&#160;&#160;&#160;&#160;File No. 000-23985</font></div><div><font><br></font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Dear Mr. Eastman and Ms. Erlanger,</font></div><div><font><br></font></div><div style="text-align:justify;text-indent:36pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">On behalf of NVIDIA Corporation (&#8220;NVIDIA&#8221;, &#8220;we&#8221;, or the &#8220;Company&#8221;), I am responding to the comments received from the staff (the &#8220;Staff&#8221;) of the Securities and Exchange Commission by letter dated June 15, 2023, with respect to NVIDIA&#8217;s Form 10-K listed above (the &#8220;Comments&#8221;). The numbering of the paragraphs below corresponds to the numbering of the Comments, which for the Staff&#8217;s convenience have been incorporated into this response letter. The Company respectfully acknowledges the Staff&#8217;s Comments.</font></div><div style="margin-top:10.8pt;padding-right:13.2pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:133%">Management's Discussion and Analysis of Financial Condition and Results of Operations Results of Operations, page 41</font></div><div style="margin-top:10.5pt;padding-left:36pt;padding-right:5.55pt;text-indent:-18pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-style:italic;font-weight:400;line-height:120%">1.</font><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-style:italic;font-weight:400;line-height:120%;padding-left:8.16pt">Where you describe two or more business reasons that contributed to a material change in a financial statement line item between periods, please quantify, where possible, the extent to which each change contributed to the overall change in that line item. As an example, we note that the year-on-year increase in your Compute &#38; Networking revenues was driven in part by growth from hyperscale customers, purchases made by several CSP partners to support multi-year cloud service agreements for cloud service offerings and research and development activities. Additionally, your disclosure of the increase in research and development expense indicates that it was &#34;primarily driven by increased compensation, employee growth, engineering development costs, and data center infrastructure,&#34; but does not quantify any of the factors. See Item 303(b)(2) of Regulation S-K and SEC Release No. 33-8350. Please revise future filings accordingly.</font></div><div style="padding-left:36pt;padding-right:5.55pt"><font><br></font></div><div style="text-indent:36pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:125%">In response to the Staff&#8217;s Comment, in future filings, where we describe two or more business reasons that contributed to a material change in a financial statement line item between periods, we will quantify where possible the extent to which each change contributed to the overall change in that line item.&#160;</font></div><div style="height:72pt;position:relative;width:100%"><div style="bottom:0;position:absolute;width:100%"><div><font><br></font></div></div></div><hr style="page-break-after:always"><div style="min-height:72pt;width:100%"><div><font><br></font></div></div><div style="margin-top:10.8pt;padding-right:13.2pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:133%">Management's Discussion and Analysis of Financial Condition and Results of Operations Results of Operations, page 41</font></div><div style="text-indent:36pt"><font><br></font></div><div style="margin-top:6.95pt;padding-left:36pt;text-indent:-18pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-style:italic;font-weight:400;line-height:100%">2.</font><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-style:italic;font-weight:400;line-height:100%;padding-left:8.16pt">We note your risk factor disclosure which identifies inflation as a potential adverse economic condition which drives the costs for wafers, components, logistics, and other supply chain expenses. In future filings, please expand your disclosures to identify the principal factors contributing to the inflationary pressures the company has experienced and clarify the resulting impact to the company, if material. Please also identify actions planned or taken, if any, to mitigate inflationary pressures.</font></div><div style="padding-left:36pt"><font><br></font></div><div style="text-indent:36pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:125%">In response to the Staff&#8217;s Comment, in future filings we will expand our disclosures to identify</font><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-style:italic;font-weight:400;line-height:125%"> </font><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:125%">the principal factors contributing to the inflationary pressures the Company has experienced and clarify the resulting impact to the Company, in each case to the extent material. We will also identify actions planned or taken, if any, to mitigate inflationary pressures.</font></div><div style="margin-top:10.8pt;padding-right:13.2pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:133%">Management's Discussion and Analysis of Financial Condition and Results of Operations Gross Profit and Gross Margin, page 42</font></div><div style="padding-left:7.2pt;padding-right:12.95pt"><font><br></font></div><div style="padding-left:36pt;padding-right:6.15pt;text-indent:-18pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-style:italic;font-weight:400;line-height:120%">3.</font><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-style:italic;font-weight:400;line-height:120%;padding-left:8.16pt">We note your narrative discussion of the drivers of the changes in gross margin for both your Compute &#38; Networking and Graphics segment. However, in light of the fact that Note 17 on page 85 discloses that your segment profitability measure is operating income, please revise your discussion in MD&#38;A in future filings to also include a discussion of the nature of the changes in segment operating income for each of your reportable segments. Also, if you continue to discuss the changes in segment gross margin, such as on the bottom of page 42, please revise to include quantification of the costs of revenues by segment so that investors can better assess the significance of the items disclosed in your narrative.</font></div><div style="padding-left:36pt;padding-right:6.15pt"><font><br></font></div><div style="text-indent:36pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:125%"> In response to the Staff&#8217;s Comment, in future filings we will include a discussion of the nature of material changes in segment operating income for each of our reportable segments in MD&#38;A. If we discuss changes in segment gross margin, we will include quantification of the costs of revenues by segment. </font></div><div style="margin-top:6.6pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Notes to the Consolidated Financial Statements</font></div><div style="margin-top:2.1pt;padding-right:125.35pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:133%">Note 1. Organization and Summary of Significant Accounting Policies Revenue Recognition, page 60</font></div><div style="padding-left:36pt;padding-right:6.15pt"><font><br></font></div><div style="padding-left:36pt;padding-right:12.2pt;text-indent:-18pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-style:italic;font-weight:400;line-height:119%">4.</font><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-style:italic;font-weight:400;line-height:119%;padding-left:8.16pt">We note from your disclosure on page 36 of MD&#38;A that in 2023 you entered into multi-year cloud service agreements and Note 1 to the financial statements includes disclosure of your revenue recognition for these agreements. Please tell us if you offer these cloud services in connection with the sale of other products or services. If so, please tell us and revise </font></div><div style="height:72pt;position:relative;width:100%"><div style="bottom:0;position:absolute;width:100%"><div><font><br></font></div></div></div><hr style="page-break-after:always"><div style="min-height:72pt;width:100%"><div><font><br></font></div></div><div style="padding-left:36pt;padding-right:12.2pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-style:italic;font-weight:400;line-height:119%">Note 1 in future filings to disclose how you recognize revenue for the provision of multiple offerings to one customer and your accounting for any multiple performance obligations within customer contracts.</font></div><div style="padding-left:36pt;padding-right:12.2pt"><font><br></font></div><div style="text-indent:36pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:125%"> The Company advises the Staff that it has not executed any multi-element arrangements to offer NVIDIA AI cloud services together with other hardware and&#47;or software or recognized any related revenue to date.&#160; If and when such multi-element arrangements are material, we will revise Note 1 in the relevant periods to disclose how we recognize revenue for the provision of multiple offerings to a customer and our accounting for any multiple performance obligations within a customer contract. </font></div><div style="padding-left:18pt"><font><br></font></div><div style="text-align:center"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">* * * *</font></div><div style="text-align:center"><font><br></font></div><div style="padding-left:36pt;text-align:justify"><font><br></font></div><div style="text-align:justify;text-indent:36pt"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Please do not hesitate to call me at (408) 486-2000, if you have any questions or would like any additional information regarding this matter.</font></div><div><font><br></font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Sincerely,</font></div><div><font><br></font></div><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">NVIDIA Corporation</font></div><div style="padding-left:36pt"><font><br></font></div><div><font><br></font></div><div style="padding-left:36pt"><font><br></font></div><div><table style="border-collapse:collapse;display:inline-table;margin-bottom:5pt;vertical-align:text-bottom;width:85.096%"><tr><td style="width:1.0%"></td><td style="width:4.738%"></td><td style="width:0.1%"></td><td style="width:1.0%"></td><td style="width:93.062%"></td><td style="width:0.1%"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">By&#58;</font></td><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%;text-decoration:underline">&#47;s&#47; Colette M. Kress</font></td></tr><tr><td colspan="3" style="padding:0 1pt"></td><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Colette M. Kress</font></div></td></tr><tr><td colspan="3" style="padding:0 1pt"></td><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Executive Vice President and Chief Financial Officer</font></div></td></tr><tr style="height:15pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Cc&#58; </font></div></td><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Timothy S. Teter &#8211; Executive Vice President and General Counsel</font></div></td></tr><tr><td colspan="3" style="padding:0 1pt"></td><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Donald Robertson &#8211; Vice President and Chief Accounting Officer</font></div></td></tr><tr><td colspan="3" style="padding:0 1pt"></td><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Eric C. Jensen &#8211; Cooley LLP</font></div></td></tr><tr><td colspan="3" style="padding:0 1pt"></td><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><div><font style="color:#000000;font-family:'NVIDIA Sans',sans-serif;font-size:12pt;font-weight:400;line-height:100%">Scott Almassy &#8211; PricewaterhouseCoopers LLP</font></div></td></tr><tr style="height:15pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="3" style="padding:0 1pt"></td></tr><tr style="height:15pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="3" style="padding:0 1pt"></td></tr></table></div><div style="text-align:center"><font><br></font></div><div><font><br></font></div><div style="height:72pt;position:relative;width:100%"><div style="bottom:0;position:absolute;width:100%"><div><font><br></font></div></div></div></body></html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>picture1.jpg
+<TEXT>
+begin 644 picture1.jpg
+MB5!.1PT*&@H    -24A$4@   &<   !7" 8    9.UM4     7-21T( KLX<
+MZ0    1G04U!  "QCPO\804    )<$A9<P  #L,   [# <=OJ&0  #3"241!
+M5'A>[7P'?-;5O;YWC[;7+HM;EHBRA\A&0<6MM;7SUE;;6SNN[57K(&1/ADQ'
+M<>"L4I1-]GJS$\(>24C"# 02" E9;][]_)_GO#GQ-1<5VR*V]W_X?/FM,[[G
+M^YSO.K_?FPOPF9< R4?R\,Q%ZNHA/]R\ZR-Y22Y2)ZFCFW3N9 TW:^(S(9?A
+MA=P$_/ % B3=:2-WK8:[+D[%H^GP3I T+Y&?].>7SQ@<S42,:P)>7@F@#Y,W
+MX"4)'B>IG21AB'3>27+S>> S(B\Y[2(H7OC] ?@#;G+?SGNMY+0+;DY'];30
+M_LK!T21"F?<CP!7Y8?)1 !Z2BT\[2*VDT]VD\W92!WMJ^XRH-7CT4\-]!,?O
+M)V_.(!^!3EX3-/+\-P*.57^=\W\>S,(+7IJ+ %=G@ ((4  2CA\MW:1S":R=
+M]5H^&T(3QSME^"$N0:(6@=<@./"[>23];8"CB7P CM]'6^[UP^.A;??0A/AH
+MX0/MI-.D4YSR2=8^0=*QB72*TQ8X%, Y)PJ8O/AQG.*6&3/>AZ;,"8__-!^3
+M#Y^+]#<!#LV6"0#H6Z0AY-_M\L'E<I.ZX/72AG/2'3A*.DPZ2*JEYQ'M(QT@
+M':2EKV<O+:33YYPT5B<JN1P.$)YZWCE*.D2^ZKC,&N'J:H;7W<DY4=LU+P(D
+MT_S7#PZ51UKC=C,"\M&_!-IPL'$SLBM>1D[U,N34O$!:2EI,6L1[/*]^'MG5
+MBY"Q-ZX7Q9X3RJQ*0%;E?&14+D)JU1*D5"U"6M5"\O@",LM?1?7!,OC\\H$V
+MH/D; D<.UNWI@-??3%/1@.(][R!VU9V(6S\3\>MO1OR&Z4A,GH$YJ3>3;L6<
+ME-N1E#H-"1E#D) YF'2MH<2L(4C*)F4-#2%=][[W:6@(YJ:/PX*46S"/8R>F
+MW\2QIB V>2(2U]Z"N->^A=RM;W)6ISFWOTIPK*=7L>#(X>N<5MKK@=M+>^YK
+MI(\Y@J*JEQ"3/ ZQF:,0GS42<=G#D) [ HF.D:112'*,Y?5H1!.(4(K-&8JX
+MW&&(<PQ%;*YH6 C9Z]#[9ZK7FX8B/F<XDC*'(YYCQ#@&(CK_2D0YKL"<G#&(
+M7WDSLG8]1S@:.9//#3A:]10NF6!:ULT0K\F3\:&,9@*,9 (T4WXZU ##8K51
+M@ND*-/#_DW#1F7;1^7=Z7&ASG>*1MMRU%_DT7?%9PY!8,(0T O&DN()1B"X8
+MC7"",SMW+&8[QI"&(2)O&"(=PQ%%8*)S*;S<:RG JQ&=UQ]1>0,HQ&N[:1"O
+M!Y*Z[YOSJ[M)UQ]'_=C?5>RW'^E*\M$'445]$)]W#1+634-NQ1+.ZQAG)[_#
+M1%IY$,/K#R]*G8=>GWWY$\$A* +!K!9I G.3GCR 21O=I]M_"BX?(ZX S1:?
+M>PB2TW>2M4^;B*?+ZT*[NQUM[A/H]!_F]*J07[L(B3FC"0Q7:_Y(Q.:/0E3A
+M*$20P@I&XLF\X7C2,01AA8,16308T3S&Y UBO8&D 8@IZ,OZ7-U%5U&0 T@4
+M+J^C"R\G74JZK/NZ;_=1UQ]-46P367P%^^Z/. (56\#[Q9=PP0RBN9T&1Z7
+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
+M\ZD\;8SJIR9*LOMR7.9R^?K&K1^/(Q&W82HU)XYP5%,V^J&8_N:'P+'._S,
+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
+M[!0\3!)]OD:"=(#@5!&<A8C/'$J'>QW-DX#07^X8AS#'),QR3,/3N=-Y/I6
+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
+7!?A_&9N6[\9O5$L     245.1*Y"8((!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
