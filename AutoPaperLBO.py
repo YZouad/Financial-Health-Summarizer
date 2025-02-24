@@ -1,11 +1,11 @@
 import os
 import re
+import json
 from sec_edgar_downloader import Downloader
 from lxml import etree
 from functools import lru_cache
 import io
 from transformers import pipeline
-from Credentials import Credentials
 
 def try_convert_to_float(value_str):
     try:
@@ -17,6 +17,8 @@ def try_convert_to_float(value_str):
 def xbrl_parse_financial_data(file_path):
     """
     Non-iterparse version using fromstring.
+    Wraps the extracted XBRL block in a dummy root to ensure well-formed XML.
+    Removes any XML declarations before parsing.
     """
     xbrl_lines = []
     inside_xbrl = False
@@ -36,21 +38,35 @@ def xbrl_parse_financial_data(file_path):
             xbrl_content = f.read()
 
     xbrl_content = xbrl_content.strip()
-    m = re.search(r'(<\?xml[^>]+\?>)', xbrl_content)
-    if m:
-        xbrl_content = xbrl_content[m.start():]
-
+    # Remove any XML declarations.
+    xbrl_content = re.sub(r'<\?xml[^>]+\?>', '', xbrl_content).strip()
+    # Wrap in a dummy root.
+    wrapped_content = f"<root>{xbrl_content}</root>"
+    
     try:
-        tree = etree.fromstring(xbrl_content.encode('utf8'))
+        tree = etree.fromstring(wrapped_content.encode('utf8'))
     except Exception as e:
-        print("Error parsing XBRL XML:", e)
-        return {}
+        print("Error parsing XBRL XML in non-iterparse version:", e)
+        return {
+            'Revenue': None,
+            'Cost of Goods Sold': None,
+            'Operating Income': None,
+            'Depreciation': None,
+            'Amortization': None,
+            'Interest Expense': None,
+            'Income Before Tax': None
+        }
 
     ns = {'us-gaap': 'http://fasb.org/us-gaap/2024'}
 
+    # Try several alternatives for Revenue.
     revenue = tree.xpath('string(//us-gaap:SalesRevenueNet)', namespaces=ns)
     if revenue.strip() == "":
         revenue = tree.xpath('string(//us-gaap:Revenues)', namespaces=ns)
+    if revenue.strip() == "":
+        revenue = tree.xpath('string(//us-gaap:NetSales)', namespaces=ns)
+    if revenue.strip() == "":
+        revenue = tree.xpath('string(//us-gaap:NetRevenue)', namespaces=ns)
 
     cogs = tree.xpath('string(//us-gaap:CostOfGoodsSold)', namespaces=ns)
     if cogs.strip() == "":
@@ -92,11 +108,8 @@ def xbrl_parse_financial_data(file_path):
 def xbrl_parse_financial_data_iterparse(file_path):
     """
     Optimized version using iterparse to stream through inline XBRL data.
-    This version:
-      - Extracts the first XBRL block,
-      - Removes all XML declarations,
-      - Wraps the block in a dummy <root> element,
-      - Iterates over inline XBRL nonFraction elements checking their "name" attribute.
+    Wraps the extracted block in a dummy <root> element.
+    Removes XML declarations before parsing.
     """
     xbrl_lines = []
     inside_xbrl = False
@@ -126,7 +139,10 @@ def xbrl_parse_financial_data_iterparse(file_path):
     target_names = {
         "us-gaap:SalesRevenueNet": "Revenue",
         "us-gaap:Revenues": "Revenue",
+        "us-gaap:NetSales": "Revenue",
+        "us-gaap:NetRevenue": "Revenue",
         "us-gaap:CostOfGoodsSold": "Cost of Goods Sold",
+        "us-gaap:CostOfGoodsAndServicesSold": "Cost of Goods Sold",
         "us-gaap:CostOfRevenue": "Cost of Goods Sold",
         "us-gaap:OperatingIncomeLoss": "Operating Income",
         "us-gaap:OperatingIncome": "Operating Income",
@@ -160,7 +176,7 @@ def xbrl_parse_financial_data_iterparse(file_path):
                             if data["Revenue"] is None or name == "us-gaap:SalesRevenueNet":
                                 data["Revenue"] = value
                         elif key == "Cost of Goods Sold":
-                            if data["Cost of Goods Sold"] is None or name == "us-gaap:CostOfGoodsSold":
+                            if data["Cost of Goods Sold"] is None or name in ("us-gaap:CostOfGoodsSold", "us-gaap:CostOfGoodsAndServicesSold"):
                                 data["Cost of Goods Sold"] = value
                         elif key == "Operating Income":
                             if data["Operating Income"] is None or name == "us-gaap:OperatingIncomeLoss":
@@ -179,8 +195,9 @@ def xbrl_parse_financial_data_iterparse(file_path):
         print("Error during iterparse:", e)
         return {}
     
-    if data["Income Before Tax"] is None and data["Operating Income"] is not None and data["Interest Expense"] is not None:
-        data["Income Before Tax"] = data["Operating Income"] - data["Interest Expense"]
+    # Fallback: if Income Before Tax is still None, use Operating Income as proxy.
+    if data["Income Before Tax"] is None and data["Operating Income"] is not None:
+        data["Income Before Tax"] = data["Operating Income"]
     
     depreciation = None
     amortization = None
@@ -202,19 +219,7 @@ def xbrl_parse_financial_data_iterparse(file_path):
 
 def calculate_metrics(data):
     """
-    Computes common financial metrics and diagnostic ratios:
-      - EBIT: Operating Income (or approximated as Revenue minus COGS)
-      - EBITDA: EBIT plus Depreciation and Amortization
-      - EBT: Income Before Tax (or EBIT less Interest Expense if not available)
-      - Gross Profit: Revenue minus Cost of Goods Sold
-      - Gross Margin: (Gross Profit / Revenue)
-      - Operating Margin: (Operating Income / Revenue)
-      - EBITDA Margin: (EBITDA / Revenue)
-      - Pre-tax Margin: (Income Before Tax / Revenue)
-      - Interest Coverage Ratio: (Operating Income / Interest Expense)
-      - Depreciation Ratio: (Depreciation / Revenue)
-      - Amortization Ratio: (Amortization / Revenue)
-      - Cost Efficiency: (Cost of Goods Sold / Revenue)
+    Computes common financial metrics and diagnostic ratios.
     """
     revenue = data.get("Revenue")
     cogs = data.get("Cost of Goods Sold")
@@ -235,8 +240,8 @@ def calculate_metrics(data):
         if amortization is not None:
             EBITDA += amortization
 
-    if income_before_tax is None and EBIT is not None and interest_expense is not None:
-        income_before_tax = EBIT - interest_expense
+    if income_before_tax is None and EBIT is not None:
+        income_before_tax = EBIT
     EBT = income_before_tax
 
     diagnostics = {}
@@ -268,32 +273,26 @@ def calculate_metrics(data):
 
 def compute_financial_health_score(metrics):
     """
-    Computes a composite financial health score (scale 1 to 10) using a weighted average of:
-      - Gross Margin (best if >=0.8, worst if <=0.4)
-      - Operating Margin (0 to 0.2 scale)
-      - EBITDA Margin (0 to 0.2 scale)
-      - Pre-tax Margin (0 to 0.2 scale)
-      - Interest Coverage Ratio (best if >=15, worst if <=1)
-      - Cost Efficiency (best if <=0.2, worst if >=0.5)
+    Computes a composite financial health score (scale 1 to 10) using weighted ratios.
+    If any key metric is missing, neutral default values are used.
     """
-    gm = metrics.get("Gross Margin", 0.0)
-    om = metrics.get("Operating Margin", 0.0)
-    ebm = metrics.get("EBITDA Margin", 0.0)
-    ptm = metrics.get("Pre-tax Margin", 0.0)
-    itr = metrics.get("Interest Coverage Ratio", 0.0)
-    ce = metrics.get("Cost Efficiency", 1.0)  # lower is better
+    gm = metrics.get("Gross Margin", 0.6)          # Neutral ~60%
+    om = metrics.get("Operating Margin", 0.15)      # Neutral ~15%
+    ebm = metrics.get("EBITDA Margin", 0.15)         # Neutral ~15%
+    ptm = metrics.get("Pre-tax Margin", 0.15)        # Neutral ~15%
+    itr = metrics.get("Interest Coverage Ratio", 10) # Neutral ~10
+    ce = metrics.get("Cost Efficiency", 0.35)        # Neutral ~35%
 
     def scale(value, low, high):
         score = (value - low) / (high - low) * 10
         return max(1, min(score, 10))
 
     score_gross = scale(gm, 0.4, 0.8)
-    score_operating = scale(om, 0.0, 0.2)
-    score_ebitda = scale(ebm, 0.0, 0.2)
-    score_pretax = scale(ptm, 0.0, 0.2)
-    score_interest = scale(itr, 1, 15)
-    # For cost efficiency, lower is better; invert the scale: best if <=0.2, worst if >=0.5.
-    score_cost = scale(0.5 - ce, 0.5 - 0.5, 0.5 - 0.2)
+    score_operating = scale(om, 0.0, 0.3)
+    score_ebitda = scale(ebm, 0.0, 0.3)
+    score_pretax = scale(ptm, 0.0, 0.3)
+    score_interest = scale(itr, 1, 20)
+    score_cost = scale(0.5 - ce, 0, 0.3)
 
     composite = (0.25 * score_gross +
                  0.20 * score_operating +
@@ -305,36 +304,54 @@ def compute_financial_health_score(metrics):
 
 def generate_ai_statement(metrics, composite_score):
     """
-    Uses a Hugging Face text-generation pipeline to generate a personalized
-    financial health statement based on the metrics and composite score.
+    Uses a text-generation pipeline to generate a personalized financial health statement.
+    If the generated text is blank, it falls back to a manual summary.
     """
-    # Prepare a prompt with the key metrics.
+    # Helper formatting functions.
+    def fmt_currency(val):
+        return f"${val:.0f}" if val is not None else "not available"
+    def fmt_percent(val):
+        return f"{val:.1%}" if val is not None else "not available"
+    def fmt_float(val):
+        return f"{val:.1f}" if val is not None else "not available"
+    
     prompt = (
-        "Based on the following financial metrics, generate a personalized statement about the company's financial health:\n"
-        f"Gross Margin: {metrics.get('Gross Margin', 0):.1%}\n"
-        f"Operating Margin: {metrics.get('Operating Margin', 0):.1%}\n"
-        f"EBITDA Margin: {metrics.get('EBITDA Margin', 0):.1%}\n"
-        f"Pre-tax Margin: {metrics.get('Pre-tax Margin', 0):.1%}\n"
-        f"Interest Coverage Ratio: {metrics.get('Interest Coverage Ratio', 0):.1f}\n"
-        f"Cost Efficiency (COGS/Revenue): {metrics.get('Cost Efficiency', 0):.2f}\n"
-        f"Composite Financial Health Score: {composite_score:.1f} (scale 1 to 10)\n\n"
-        "Write one or two sentences summarizing the overall financial health of the company:"
+        "You are a seasoned financial analyst. Analyze the following metrics for the company "
+        "and provide a concise, professional summary of its financial health. Focus on key strengths, "
+        "weaknesses, and overall trends. Mention if certain key metrics are missing.\n\n"
+        f"Operating Income: {fmt_currency(metrics.get('Operating Income'))}\n"
+        f"EBITDA: {fmt_currency(metrics.get('EBITDA'))}\n"
+        f"Gross Margin: {fmt_percent(metrics.get('Gross Margin'))}\n"
+        f"Operating Margin: {fmt_percent(metrics.get('Operating Margin'))}\n"
+        f"Interest Coverage Ratio: {fmt_float(metrics.get('Interest Coverage Ratio'))}\n"
+        f"Pre-tax Margin: {fmt_percent(metrics.get('Pre-tax Margin'))}\n"
+        f"Composite Financial Health Score: {fmt_float(composite_score)} out of 10\n\n"
+        "Provide your detailed analysis in one or two sentences:"
     )
-    # Initialize the generator (this loads a self-hosted model such as GPT-2)
-    generator = pipeline("text-generation", model="gpt2")
-    result = generator(prompt, max_length=150, do_sample=True, temperature=0.8)
+    generator = pipeline("text-generation", model="distilgpt2", truncation=True, max_length=220, temperature=0.2)
+    result = generator(prompt, max_length=220, do_sample=True, temperature=0.2)
     generated_text = result[0]['generated_text']
-    # Remove the prompt from the generated text.
     statement = generated_text[len(prompt):].strip()
-    # Clean up the statement.
-    statement = statement.split("\n")[0].strip()
+    # Fallback: if the statement is empty, use a manual summary.
+    if not statement:
+        statement = (
+            f"The company has an operating income of {fmt_currency(metrics.get('Operating Income'))} and an EBITDA of {fmt_currency(metrics.get('EBITDA'))}. "
+            f"It achieves a gross margin of {fmt_percent(metrics.get('Gross Margin'))} and an operating margin of {fmt_percent(metrics.get('Operating Margin'))}, "
+            f"resulting in a composite financial health score of {fmt_float(composite_score)} out of 10."
+        )
+    else:
+        if "." in statement:
+            statement = statement.split(".")[0].strip() + "."
     return statement
 
 def main():
     ticker = "AAPL"
     filing_type = "10-K"
 
-    dl = Downloader(Credentials.get_user, Credentials.get_company)
+    with open("credentials.json", "r") as jsonfile:
+        credentials = json.load(jsonfile)
+
+    dl = Downloader(credentials["username"], credentials["company"])
     print(f"Downloading the latest {filing_type} for {ticker}...")
     # dl.get(filing_type, ticker, limit=1)
 
@@ -356,6 +373,11 @@ def main():
     print(f"Parsing file: {latest_file}")
 
     data = xbrl_parse_financial_data_iterparse(latest_file)
+    # If revenue is still missing from iterparse, fall back to non-iterparse extraction.
+    alt_data = xbrl_parse_financial_data(latest_file)
+    if alt_data.get("Revenue") is not None:
+        data["Revenue"] = alt_data.get("Revenue")
+
     print("\nExtracted Financial Data (via optimized XBRL parsing):")
     for key, value in data.items():
         print(f"{key}: {value}")
