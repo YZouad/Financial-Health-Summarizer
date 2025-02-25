@@ -2,6 +2,7 @@ import os
 import re
 import json
 from sec_downloader import Downloader
+from sec_downloader.types import RequestedFilings
 #from sec_edgar_downloader import Downloader
 from lxml import etree
 from functools import lru_cache
@@ -361,46 +362,91 @@ def generate_manual_statement(ratios, composite_score):
     return statement
 
 def main():
-    ticker = "AAPL"
-    filing_type = "10-K"
+    TICKER = "AAPL"
+    FILING_TYPE = "10-K"
+    AMOUNT_OF_FILINGS = 2
 
     with open("credentials.json", "r") as jsonfile:
         credentials = json.load(jsonfile)
 
     dl = Downloader(credentials["username"], credentials["company"])
-    print(f"Downloading the latest {filing_type} for {ticker}...")
-    # dl.get(filing_type, ticker, limit=1)
-    metadatas = dl.get_filing_metadatas("1/"+ticker+"/"+filing_type)
-    print(metadatas)
 
-    base_dir = os.path.join(os.getcwd(), "sec-edgar-filings", ticker, filing_type)
-    new_base_dir = os.path.join(os.getcwd(), "new-sec-filings", ticker)
+    metadatas = dl.get_filing_metadatas(
+        RequestedFilings(ticker_or_cik=TICKER, form_type=FILING_TYPE, limit=AMOUNT_OF_FILINGS)
+    )
 
-    os.makedirs(os.path.dirname(new_base_dir), exist_ok=True)
+    base_dir = os.path.join(os.getcwd(), "sec-edgar-filings", TICKER, FILING_TYPE)
+    os.makedirs(base_dir, exist_ok=True)
 
-    
+    historical_ratios = []
+
     for metadata in metadatas:
-        html = dl.download_filing(url=metadata.primary_doc_url).decode()
-        os.makedirs(os.path.dirname(new_base_dir+"/"+filing_type+".txt"), exist_ok=True)
-        metadata=open(new_base_dir+"/"+filing_type+".txt",'w')
-        metadata.write(html)
-        metadata.close()
+        accession = metadata.accession_number
+        local_filename = os.path.join(base_dir, f"{accession}.txt")
 
-    #print("Base directory:", base_dir)
+        content_bytes = dl.download_filing(url=metadata.primary_doc_url)
+        content_str = content_bytes.decode("utf-8", errors="ignore")
+
+        with open(local_filename, "w", encoding="utf-8") as f:
+            f.write(content_str)
+
+        # Skip files that do not appear to contain XBRL.
+        if "<xbrl" not in content_str.lower() and "<ix:" not in content_str.lower():
+            print(f"File {accession} does not appear to be an XBRL file. Skipping.")
+            continue
+
+        try:
+            data = xbrl_parse_financial_data_iterparse(local_filename)
+        except Exception as e:
+            print(f"Error parsing filing {accession}: {e}")
+            continue
+
+        alt_data = xbrl_parse_financial_data(local_filename)
+        if alt_data.get("Revenue") is not None:
+            data["Revenue"] = alt_data.get("Revenue")
+        ratios = calculate_financial_ratios(data)
+        historical_ratios.append(ratios)
+
+        print("Extracted Data:")
+        for key, value in data.items():
+            print(f"  {key}: {value}")
+        print("Calculated Ratios:")
+        for key, value in ratios.items():
+            print(f"  {key}: {value}")
+        print("-" * 40)
+
+        ratios = calculate_financial_ratios(data)
+        historical_ratios.append(ratios)
+
+    if not historical_ratios:
+        print("No valid XBRL data extracted.")
+        return
 
     filing_folders = [folder for folder in os.listdir(base_dir) if os.path.isdir(os.path.join(base_dir, folder))]
     if not filing_folders:
         print("No filings found.")
         return
 
+
+    # Use the latest filing for the composite score.
+    latest_ratios = historical_ratios[-1]
     composite_score, ratio_scores = compute_composite_health_score(latest_ratios)
     print("\nComposite Financial Health Score (1 to 10): {:.2f}".format(composite_score))
     print("Individual Ratio Scores:")
     for key, value in ratio_scores.items():
         print(f"  {key}: {value:.2f}")
 
+    # Calculate growth trajectories if multiple filings are available.
+    trajectories = calculate_growth_trajectories(historical_ratios)
+    if trajectories:
+        print("\nGrowth Trajectories (Average Annual Growth Rates):")
+        for key, value in trajectories.items():
+            print(f"  {key}: {value*100:.2f}%")
+    else:
+        print("\nNot enough data for growth trajectories.")
+
     # Generate a detailed financial health statement.
-    statement = generate_manual_statement(composite_score)
+    statement = generate_manual_statement(latest_ratios, composite_score)
     print("\nFinancial Health Statement:")
     print(statement)
 
