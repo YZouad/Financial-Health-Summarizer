@@ -1,11 +1,11 @@
 import os
 import re
 import json
-from sec_edgar_downloader import Downloader
+from sec_downloader import Downloader
+#from sec_edgar_downloader import Downloader
 from lxml import etree
 from functools import lru_cache
 import io
-from transformers import pipeline
 
 def try_convert_to_float(value_str):
     try:
@@ -60,7 +60,9 @@ def xbrl_parse_financial_data(file_path):
     ns = {'us-gaap': 'http://fasb.org/us-gaap/2024'}
 
     # Try several alternatives for Revenue.
-    revenue = tree.xpath('string(//us-gaap:SalesRevenueNet)', namespaces=ns)
+    revenue = tree.xpath('string(//us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax)', namespaces=ns)
+    if revenue.strip() == "":
+        revenue = tree.xpath('string(//us-gaap:SalesRevenueNet)', namespaces=ns)
     if revenue.strip() == "":
         revenue = tree.xpath('string(//us-gaap:Revenues)', namespaces=ns)
     if revenue.strip() == "":
@@ -108,8 +110,7 @@ def xbrl_parse_financial_data(file_path):
 def xbrl_parse_financial_data_iterparse(file_path):
     """
     Optimized version using iterparse to stream through inline XBRL data.
-    Wraps the extracted block in a dummy <root> element.
-    Removes XML declarations before parsing.
+    Wraps the extracted block in a dummy <root> element and removes XML declarations.
     """
     xbrl_lines = []
     inside_xbrl = False
@@ -195,7 +196,6 @@ def xbrl_parse_financial_data_iterparse(file_path):
         print("Error during iterparse:", e)
         return {}
     
-    # Fallback: if Income Before Tax is still None, use Operating Income as proxy.
     if data["Income Before Tax"] is None and data["Operating Income"] is not None:
         data["Income Before Tax"] = data["Operating Income"]
     
@@ -217,131 +217,147 @@ def xbrl_parse_financial_data_iterparse(file_path):
     }
     return final_data
 
-def calculate_metrics(data):
+### NEW: Functions for Calculating Financial Health ###
+
+def calculate_financial_ratios(data):
     """
-    Computes common financial metrics and diagnostic ratios.
+    Computes a set of financial ratios indicative of financial health.
     """
+    ratios = {}
     revenue = data.get("Revenue")
     cogs = data.get("Cost of Goods Sold")
-    operating_income = data.get("Operating Income")
+    op_income = data.get("Operating Income")
     depreciation = data.get("Depreciation")
     amortization = data.get("Amortization")
     interest_expense = data.get("Interest Expense")
     income_before_tax = data.get("Income Before Tax")
     
-    EBIT = operating_income
-    if EBIT is None and revenue is not None and cogs is not None:
-        EBIT = revenue - cogs
-
-    EBITDA = EBIT
-    if EBITDA is not None:
-        if depreciation is not None:
-            EBITDA += depreciation
-        if amortization is not None:
-            EBITDA += amortization
-
-    if income_before_tax is None and EBIT is not None:
-        income_before_tax = EBIT
-    EBT = income_before_tax
-
-    diagnostics = {}
-    if revenue is not None and cogs is not None and revenue != 0:
+    # Gross Profit and Gross Margin
+    if revenue is not None and cogs is not None:
         gross_profit = revenue - cogs
-        diagnostics["Gross Profit"] = gross_profit
-        diagnostics["Gross Margin"] = gross_profit / revenue
-        diagnostics["Cost Efficiency"] = cogs / revenue
-    if revenue is not None and operating_income is not None and revenue != 0:
-        diagnostics["Operating Margin"] = operating_income / revenue
-    if revenue is not None and EBITDA is not None and revenue != 0:
-        diagnostics["EBITDA Margin"] = EBITDA / revenue
-    if revenue is not None and income_before_tax is not None and revenue != 0:
-        diagnostics["Pre-tax Margin"] = income_before_tax / revenue
-    if operating_income is not None and interest_expense not in (None, 0):
-        diagnostics["Interest Coverage Ratio"] = operating_income / interest_expense
-    if revenue is not None and depreciation is not None and revenue != 0:
-        diagnostics["Depreciation Ratio"] = depreciation / revenue
-    if revenue is not None and amortization is not None and revenue != 0:
-        diagnostics["Amortization Ratio"] = amortization / revenue
-
-    metrics = {
-        "EBIT": EBIT,
-        "EBITDA": EBITDA,
-        "EBT": EBT,
-        **diagnostics
-    }
-    return metrics
-
-def compute_financial_health_score(metrics):
-    """
-    Computes a composite financial health score (scale 1 to 10) using weighted ratios.
-    If any key metric is missing, neutral default values are used.
-    """
-    gm = metrics.get("Gross Margin", 0.6)          # Neutral ~60%
-    om = metrics.get("Operating Margin", 0.15)      # Neutral ~15%
-    ebm = metrics.get("EBITDA Margin", 0.15)         # Neutral ~15%
-    ptm = metrics.get("Pre-tax Margin", 0.15)        # Neutral ~15%
-    itr = metrics.get("Interest Coverage Ratio", 10) # Neutral ~10
-    ce = metrics.get("Cost Efficiency", 0.35)        # Neutral ~35%
-
-    def scale(value, low, high):
-        score = (value - low) / (high - low) * 10
-        return max(1, min(score, 10))
-
-    score_gross = scale(gm, 0.4, 0.8)
-    score_operating = scale(om, 0.0, 0.3)
-    score_ebitda = scale(ebm, 0.0, 0.3)
-    score_pretax = scale(ptm, 0.0, 0.3)
-    score_interest = scale(itr, 1, 20)
-    score_cost = scale(0.5 - ce, 0, 0.3)
-
-    composite = (0.25 * score_gross +
-                 0.20 * score_operating +
-                 0.15 * score_ebitda +
-                 0.15 * score_pretax +
-                 0.15 * score_interest +
-                 0.10 * score_cost)
-    return composite
-
-def generate_ai_statement(metrics, composite_score):
-    """
-    Uses a text-generation pipeline to generate a personalized financial health statement.
-    If the generated text is blank, it falls back to a manual summary.
-    """
-    # Helper formatting functions.
-    def fmt_currency(val):
-        return f"${val:.0f}" if val is not None else "not available"
-    def fmt_percent(val):
-        return f"{val:.1%}" if val is not None else "not available"
-    def fmt_float(val):
-        return f"{val:.1f}" if val is not None else "not available"
-    
-    prompt = (
-        "You are a seasoned financial analyst. Analyze the following metrics for the company "
-        "and provide a concise, professional summary of its financial health. Focus on key strengths, "
-        "weaknesses, and overall trends. Mention if certain key metrics are missing.\n\n"
-        f"Operating Income: {fmt_currency(metrics.get('Operating Income'))}\n"
-        f"EBITDA: {fmt_currency(metrics.get('EBITDA'))}\n"
-        f"Gross Margin: {fmt_percent(metrics.get('Gross Margin'))}\n"
-        f"Operating Margin: {fmt_percent(metrics.get('Operating Margin'))}\n"
-        f"Interest Coverage Ratio: {fmt_float(metrics.get('Interest Coverage Ratio'))}\n"
-        f"Pre-tax Margin: {fmt_percent(metrics.get('Pre-tax Margin'))}\n"
-        f"Composite Financial Health Score: {fmt_float(composite_score)} out of 10\n\n"
-        "Provide your detailed analysis in one or two sentences:"
-    )
-    generator = pipeline("text-generation", model="distilgpt2", truncation=True, max_length=220, temperature=0.2)
-    result = generator(prompt, max_length=220, do_sample=True, temperature=0.2)
-    generated_text = result[0]['generated_text']
-    statement = generated_text[len(prompt):].strip()
-    # Fallback: if the statement is empty, use a manual summary.
-    if not statement:
-        statement = (
-            f"The company has an operating income of {fmt_currency(metrics.get('Operating Income'))} and an EBITDA of {fmt_currency(metrics.get('EBITDA'))}. "
-            f"It achieves a gross margin of {fmt_percent(metrics.get('Gross Margin'))} and an operating margin of {fmt_percent(metrics.get('Operating Margin'))}, "
-            f"resulting in a composite financial health score of {fmt_float(composite_score)} out of 10."
-        )
+        ratios["Gross Profit"] = gross_profit
+        ratios["Gross Margin"] = gross_profit / revenue if revenue != 0 else None
     else:
-        if "." in statement:
-            statement = statement.split(".")[0].strip() + "."
+        ratios["Gross Profit"] = None
+        ratios["Gross Margin"] = None
+
+    # Operating Margin
+    if revenue is not None and op_income is not None:
+        ratios["Operating Margin"] = op_income / revenue if revenue != 0 else None
+    else:
+        ratios["Operating Margin"] = None
+
+    # EBITDA and EBITDA Margin
+    if op_income is not None and depreciation is not None and amortization is not None:
+        EBITDA = op_income + depreciation + amortization
+        ratios["EBITDA"] = EBITDA
+        ratios["EBITDA Margin"] = EBITDA / revenue if revenue and revenue != 0 else None
+    else:
+        ratios["EBITDA"] = None
+        ratios["EBITDA Margin"] = None
+
+    # Effective Tax Rate
+    if income_before_tax is not None and op_income is not None:
+        tax_expense = income_before_tax - op_income
+        ratios["Effective Tax Rate"] = tax_expense / income_before_tax if income_before_tax != 0 else None
+    else:
+        ratios["Effective Tax Rate"] = None
+
+    # Interest Coverage Ratio
+    if op_income is not None and interest_expense is not None and interest_expense != 0:
+        ratios["Interest Coverage Ratio"] = op_income / interest_expense
+    else:
+        ratios["Interest Coverage Ratio"] = None
+
+    return ratios
+
+def scale(value, low, high):
+    """
+    Linearly scale a value to a 1-10 score based on a range [low, high].
+    Values at or below low score a 1; at or above high score a 10.
+    """
+    if value <= low:
+        return 1
+    if value >= high:
+        return 10
+    return 1 + (value - low) / (high - low) * 9
+
+def compute_composite_health_score(ratios):
+    """
+    Computes a composite financial health score (scale 1 to 10) from key ratios.
+    Each ratio is normalized to typical benchmark ranges.
+    """
+    scores = {}
+    # Gross Margin: assume healthy companies might range from 10% to 70%
+    gm = ratios.get("Gross Margin")
+    scores["Gross Margin"] = scale(gm, 0.1, 0.7) if gm is not None else 5
+
+    # Operating Margin: 0% to 30%
+    om = ratios.get("Operating Margin")
+    scores["Operating Margin"] = scale(om, 0.0, 0.3) if om is not None else 5
+
+    # EBITDA Margin: 0% to 30%
+    em = ratios.get("EBITDA Margin")
+    scores["EBITDA Margin"] = scale(em, 0.0, 0.3) if em is not None else 5
+
+    # Effective Tax Rate: lower is better; assume 20% is good, 40% is poor.
+    etr = ratios.get("Effective Tax Rate")
+    score_etr = scale(etr, 0.2, 0.4) if etr is not None else 5
+    scores["Effective Tax Rate"] = 10 - score_etr  # invert so lower tax rates score higher
+
+    # Interest Coverage Ratio: assume a ratio of 1 to 5 is our scale.
+    icr = ratios.get("Interest Coverage Ratio")
+    scores["Interest Coverage Ratio"] = scale(icr, 1, 5) if icr is not None else 5
+
+    # Composite score as the average of the five scores.
+    composite = sum(scores.values()) / len(scores)
+    return composite, scores
+
+def calculate_growth_trajectories(ratios_list):
+    """
+    Computes average year-over-year growth rates for each ratio based on historical data.
+    Expects a list of ratio dictionaries (ordered chronologically).
+    """
+    trajectories = {}
+    if len(ratios_list) < 2:
+        return trajectories  # Not enough data for growth calculations.
+
+    keys = ratios_list[0].keys()
+    for key in keys:
+        growth_rates = []
+        for i in range(1, len(ratios_list)):
+            prev = ratios_list[i-1].get(key)
+            current = ratios_list[i].get(key)
+            if prev is not None and current is not None and prev != 0:
+                growth = (current - prev) / prev
+                growth_rates.append(growth)
+        if growth_rates:
+            avg_growth = sum(growth_rates) / len(growth_rates)
+            trajectories[key] = avg_growth
+    return trajectories
+
+def generate_manual_statement(ratios, composite_score):
+    """
+    Generates a formatted statement summarizing the financial health based on computed ratios.
+    """
+    def fmt_currency(val):
+        return f"${val:,.0f}" if val is not None else "N/A"
+    def fmt_percent(val):
+        return f"{val:.1%}" if val is not None else "N/A"
+    def fmt_float(val):
+        return f"{val:.1f}" if val is not None else "N/A"
+    
+    statement = (
+        f"Financial Health Overview:\n"
+        f"- Gross Margin: {fmt_percent(ratios.get('Gross Margin'))}\n"
+        f"- Operating Margin: {fmt_percent(ratios.get('Operating Margin'))}\n"
+        f"- EBITDA Margin: {fmt_percent(ratios.get('EBITDA Margin'))}\n"
+        f"- Effective Tax Rate: {fmt_percent(ratios.get('Effective Tax Rate'))}\n"
+        f"- Interest Coverage Ratio: {fmt_float(ratios.get('Interest Coverage Ratio'))}\n\n"
+        f"Composite Financial Health Score: {fmt_float(composite_score)} out of 10.\n"
+        f"This score reflects the company's overall profitability, cost efficiency, and financial stability. "
+        f"Higher scores indicate stronger financial health."
+    )
     return statement
 
 def main():
@@ -354,43 +370,37 @@ def main():
     dl = Downloader(credentials["username"], credentials["company"])
     print(f"Downloading the latest {filing_type} for {ticker}...")
     # dl.get(filing_type, ticker, limit=1)
+    metadatas = dl.get_filing_metadatas("1/"+ticker+"/"+filing_type)
+    print(metadatas)
 
     base_dir = os.path.join(os.getcwd(), "sec-edgar-filings", ticker, filing_type)
-    print("Base directory:", base_dir)
+    new_base_dir = os.path.join(os.getcwd(), "new-sec-filings", ticker)
+
+    os.makedirs(os.path.dirname(new_base_dir), exist_ok=True)
+
+    
+    for metadata in metadatas:
+        html = dl.download_filing(url=metadata.primary_doc_url).decode()
+        os.makedirs(os.path.dirname(new_base_dir+"/"+filing_type+".txt"), exist_ok=True)
+        metadata=open(new_base_dir+"/"+filing_type+".txt",'w')
+        metadata.write(html)
+        metadata.close()
+
+    #print("Base directory:", base_dir)
 
     filing_folders = [folder for folder in os.listdir(base_dir) if os.path.isdir(os.path.join(base_dir, folder))]
     if not filing_folders:
         print("No filings found.")
         return
 
-    first_filing_dir = os.path.join(base_dir, filing_folders[0])
-    filing_files = os.listdir(first_filing_dir)
-    if not filing_files:
-        print("No files found in the first filing directory.")
-        return
+    composite_score, ratio_scores = compute_composite_health_score(latest_ratios)
+    print("\nComposite Financial Health Score (1 to 10): {:.2f}".format(composite_score))
+    print("Individual Ratio Scores:")
+    for key, value in ratio_scores.items():
+        print(f"  {key}: {value:.2f}")
 
-    latest_file = os.path.join(first_filing_dir, filing_files[0])
-    print(f"Parsing file: {latest_file}")
-
-    data = xbrl_parse_financial_data_iterparse(latest_file)
-    # If revenue is still missing from iterparse, fall back to non-iterparse extraction.
-    alt_data = xbrl_parse_financial_data(latest_file)
-    if alt_data.get("Revenue") is not None:
-        data["Revenue"] = alt_data.get("Revenue")
-
-    print("\nExtracted Financial Data (via optimized XBRL parsing):")
-    for key, value in data.items():
-        print(f"{key}: {value}")
-
-    metrics = calculate_metrics(data)
-    print("\nCalculated Metrics and Diagnostics:")
-    for key, value in metrics.items():
-        print(f"{key}: {value}")
-
-    composite_score = compute_financial_health_score(metrics)
-    print(f"\nComposite Financial Health Score (1 to 10): {composite_score:.2f}")
-
-    statement = generate_ai_statement(metrics, composite_score)
+    # Generate a detailed financial health statement.
+    statement = generate_manual_statement(composite_score)
     print("\nFinancial Health Statement:")
     print(statement)
 
