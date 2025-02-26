@@ -422,10 +422,10 @@ def main():
         print("No valid XBRL data extracted.")
         return
 
-    filing_folders = [folder for folder in os.listdir(base_dir) if os.path.isdir(os.path.join(base_dir, folder))]
-    if not filing_folders:
-        print("No filings found.")
-        return
+    # filing_folders = [folder for folder in os.listdir(base_dir) if os.path.isdir(os.path.join(base_dir, folder))]
+    # if not filing_folders:
+    #     print("No filings found.")
+    #     return
 
 
     # Use the latest filing for the composite score.
